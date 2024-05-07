@@ -14,7 +14,6 @@
 @keyframes float1
   0%
     transform: translateY(20px)
-
   100%
     transform: translateY(0px)
 
@@ -22,3 +21,41 @@
   background-color: #BAEFE4 !important
 .bg2
   background-color: #E5EDEE 
+
+
+.fondo-cta
+  background: url('../assets/curso/temas/t1/fondo-cta.svg')
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    background-size: cover
+    margin-inline: -1.4rem 
+.fondo-cta2
+  background: #73D8C0
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem  
+.fondo-t1
+  background: url('../assets/curso/temas/t1/fondo-t1.png')
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    background-size: cover
+    margin-inline: -1.4rem 
+
+.borde-top-table
+  border-top: 10px solid #73D8C0    
+  td, th
+    border: 1px solid #E8E8E8
+  .no-border-right
+    border-right: 0px
+  .no-border-left
+    border-left: 0px
+
+.lista-ul--color.color-secundario li > i:first-of-type
+  color: $color-secundario
+  font-size: 12px

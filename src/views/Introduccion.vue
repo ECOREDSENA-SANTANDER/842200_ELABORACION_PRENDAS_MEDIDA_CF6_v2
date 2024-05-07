@@ -9,12 +9,12 @@
           i.fas.fa-info
       h1 Introducción
     
-    .row.align-items-center.mb-4
+    .row.align-items-center
       .col-lg-4.col-md-7.col-10.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/intro.png', alt='')
-      .col-lg-8(data-aos="fade-left")
+      .col-lg-8.mb-4(data-aos="fade-left")
         p Apreciado(a) aprendiz, en el desarrollo de proyectos que tienen como finalidad la elaboración de prendas de vestir, es elemental incorporar métodos y procedimientos apropiados con altos modelos de calidad. La creación de las prendas de vestir se trabaja a partir de técnicas manuales, las cuales deben lograr la generación de impacto en el consumidor-cliente desde el valor y la calidad frente a las terminaciones de las piezas que, en su integralidad, conforman la prenda de vestir. Se recomienda ver la siguiente animación.
-        .cajon.color-primario.bg1.p-4.mb-4
+        .cajon.color-primario.bg1.p-4
           p.mb-0 Para la elaboración de este componente, se abordaron varios autores conocidos en la elaboración de prendas de vestir a la medida, de quienes se han citado y referenciado conceptos y ejemplos para los fines educativos de esta materia, en el entendido que el conocimiento es social y, por lo tanto, es para usarlo por quienes necesitan adquirirlo. Se espera que este documento sea útil para todos, aprendices y lectores en general, que estén interesados en acercarse a asuntos básicos de la confección a la medida.
     
     figure.mb-4
