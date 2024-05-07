@@ -297,7 +297,309 @@
                 span Ver video
                 i.fas.fa-video
 
-    figcaption(data-aos="fade") Nota. Tomado de SENA (2020).
+    figcaption.mb-4(data-aos="fade") Nota. Tomado de SENA (2020).
+
+    .row.justify-content-center
+      .col-lg-6(data-aos="fade-right")
+        .row.align-items-center.mb-4
+          .col-2.col-md-1
+            img(src='@/assets/curso/temas/t1/subt1.svg', alt='')
+          .col-10.col-md-11
+            h4.mb-0 Preparación del textil:
+        p algunos textiles pueden encogerse o elongarse después de ser sometidos al lavado o planchado; por tal motivo, se sugiere que, antes de realizar cualquier proceso de extendido y corte, el textil sea sometido a pruebas de % de elongación o reducción, pruebas de fusionado, lavado, planchado, e identificación de defectos textiles.
+        .row.align-items-center.mb-4  
+          .col-2.col-md-1
+            img(src='@/assets/curso/temas/t1/subt1.svg', alt='')
+          .col-10.col-md-11
+            h4.mb-0 Características del material:
+        p para lo cual deben tenerse en cuenta diferentes tipos de trazos, como requerimientos desde patronaje, tendido y marcación, además las características del material.
+      .col-lg-6.col-md-10.mb-4(data-aos="fade-left")
+        img(src='@/assets/curso/temas/t1/imag04.png', alt='')
+    
+    Separador
+    #t_1_3.titulo-segundo.color-primario(data-aos="fade-right")
+      h2 1.3 Proceso de tizado
+    
+    p.mb-4 El tizado es un procedimiento que se realiza sobre el material textil con jaboncillo o tiza, teniendo en cuenta las características dimensionales del tejido a cortar. Este trazo se debe realizar por cada material, por ejemplo: trazos en tela, forro y entretelas. Pero además se tienen en cuenta algunos aspectos importantes, como: 
+
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+      .row(titulo="Señalización")
+        .col-md-3
+          figure
+            img(src='@/assets/curso/temas/t1/acordion.svg', alt='')
+        .col-md-9.mb-4.mb-md-0
+          p Para tener claro los requerimientos desde el área de patronaje, es importante identificar y conocer la respectiva señalización de patrones.
+          .row
+            .col-md-6
+              ul.lista-ul--color.color-secundario.mb-0
+                li
+                  i.fas.fa-circle
+                  | Hilo de tela
+                li
+                  i.fas.fa-circle
+                  | Referencia o diseño
+                li
+                  i.fas.fa-circle
+                  | Nombre de la pieza
+                li
+                  i.fas.fa-circle
+                  | Número de veces a cortar
+            .col-md-6
+              ul.lista-ul--color.color-secundario.mb-0
+                li
+                  i.fas.fa-circle
+                  | Tipo de material
+                li
+                  i.fas.fa-circle
+                  | Número de pieza en el tendido
+                li
+                  i.fas.fa-circle
+                  | Piquetes
+                li
+                  i.fas.fa-circle
+                  | Plantilla
+
+      div(titulo="Trazo bidireccional - vello en ambos sentidos")
+        .row
+          .col-md-3
+            figure
+              img(src='@/assets/curso/temas/t1/acordion2.svg', alt='')
+          .col-md-4
+            p Este trazo/marcado se realiza cuando el hilo de tela tiene la cabeza doble; se pueden ubicar los patrones en dos sentidos de dirección (Ver Figura 2). El material textil que se utilice no debe tener restricción con respecto a sus características.
+            .titulo-sexto.color-acento-botones.mb-2
+              h5 Figura 2.
+              span Señalización en dos direcciones
+          .col-md-5
+            figure
+              img(src='@/assets/curso/temas/t1/acordion3.svg', alt='')
+      
+      div(titulo="Trazo direccional")
+        .row
+          .col-md-3
+            figure
+              img(src='@/assets/curso/temas/t1/acordion4.svg', alt='')
+          .col-md-4
+            p Vello en un solo sentido: este trazo/marcado se realiza cuando el hilo de tela tiene la cabeza hacia arriba o hacia abajo; se deben colocar los patrones en una sola dirección. Este procedimiento de marcado tendrá por resultado un producto con la más elevada calidad, pues este tipo de trazo se usa para materiales que tienen restricción con respecto a características como brillo, cambio de color al tacto, estampados, dirección de pelo/vello, entre otras. Ver Figura 3.
+          .col-md-5
+            .titulo-sexto.color-acento-botones.mb-2
+              h5 Figura 3.
+              span Señalización en una dirección
+            figure
+              img(src='@/assets/curso/temas/t1/acordion5.svg', alt='')
+      
+      div(titulo="Trazo en sesgo - vello en diagonal")
+        .row
+          .col-md-3
+            figure
+              img(src='@/assets/curso/temas/t1/acordion6.svg', alt='')
+          .col-md-4
+            p Este trazo/marcado se realiza cuando el hilo de tela tiene la cabeza inclinada en diagonal; se deben colocar los patrones en ese sentido de dirección. Ver Figura 4.
+            .titulo-sexto.color-acento-botones.mb-2
+              h5 Figura 4.
+              span Señalización para sesgar
+          .col-md-5
+            figure
+              img(src='@/assets/curso/temas/t1/acordion7.svg', alt='')
+    
+    .row.justify-content-center.mb-5(data-aos="fade-down")
+      .col-lg-8
+        .bloque-texto-g.color-primario.p-3.p-sm-4
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/temas/t1/imag05.png')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            p Para la señalización se debe tener en cuenta: 
+            p Referencia o nombre de cliente: ref:20201208
+            p Nombre de la pieza: delantero o frente
+            p Tipo de material: Tela 1. Material base
+            p Tela 2. Material forro
+            p Tela 3. Material entretela
+            p Número de pieza en el tendido: ½
+    
+    Separador
+    #t_1_4.titulo-segundo.color-primario(data-aos="fade-right")
+      h2 1.4 Proceso de corte
+    
+    p.mb-4 El corte se define como proceso de transformación de la materia prima textil (tejido o tela) en piezas útiles para confeccionar prendas de vestir. Este proceso de transformación se realiza utilizando máquinas especializadas de corte o con tijeras convencionales.
+
+    h3 Corte 
+
+    p.mb-4 Existen diferentes tipos de corte. El manual, que requiere de la utilización de tijeras, más o menos de 8 pulgadas, como las usadas solo para corte de tela; se colocan directamente los moldes y se procede a cortar. El convencional, que utiliza maquinaria y equipos electromecánicos; disminuye la intervención de operaciones manuales. Y el automático, que tiene una unidad de control conformada por el ordenador con software especializado, el cabezal de corte y el carro extendedor automático; aumenta el rendimiento de espacio y tiempos de corte.
+    
+    .row.mb-5
+      .col-lg-9
+        TabsA.color-acento-botones.mb-5
+          .tarjeta.color-acento-botones--borde.p-4(titulo="a) Introducción:")
+            p el tendido y marcación son una parte clave para el proceso de corte, este procedimiento requiere de precisión y técnica. Una vez identificados los requerimientos desde el área de patronaje, se procede a realizar el tendido y la marcación. Para ello, es importante seguir los siguientes pasos: identificar el ancho útil, la ubicación de patrones, la marcación y el corte.
+      
+          .tarjeta.color-acento-botones--borde.p-4(titulo="b) Ancho útil:")
+            p es importante su identificación en el material textil antes de empezar a desarrollar el trazo, para lo cual se sugiere la identificación del ancho total del textil y la medición del orillo. Es importante indicar que el ancho útil se halla restando el orillo al ancho total de la tela.
+      
+          .tarjeta.color-acento-botones--borde.p-4(titulo="c) Ubicar patrones:")
+            p la ubicación de los patrones es una tarea indispensable, y, una vez esto se hace, se debe analizar y alistar el tipo de extendido/tendido a trabajar y el ancho útil, a partir de los requerimientos del patrón desde el área de patronaje.
+            p.mb-4 Luego de esto, se procede a hacer el trazo o marcación del molde o patrón en el textil. Ver Figura 5.
+            //MODAL
+            p De acuerdo con lo anterior, es importante saber cómo transferir patrones. Para transferir patrones al textil, existen dos formas que son las más implementadas: marcar con tiza o jabón y pinar o utilizar alfileres.
+      
+          .tarjeta.color-acento-botones--borde.p-4(titulo="d) Pesas para sujetar:")
+            p.mb-4 son bloques con diferentes pesos y de superficie plana. Su función es ayudar a que el patrón no se mueva en el momento del tizado. Es importante forrarlos para que no contaminen la tela. Ver Figura 6.
+            //MODAL
+      
+          .tarjeta.color-acento-botones--borde.p-4(titulo="e) Tipos de marcación  -Hilván (tailor tacks):")
+            p.mb-4 es el método más utilizado por los sastres para marcaciones especiales sobre el textil. Este método tiene puntos con hebras de hilo que sirven de guía, sin llegar a manchar el textil, se trata de una puntada suelta, en bucle, como una indicación de dónde coser finalmente. Ver Figura 7.
+            //MODAL
+
+          .tarjeta.color-acento-botones--borde.p-4(titulo="f) Tipos de marcación - alfileres:")
+            p es importante fijar los patrones con alfileres, los cuales vienen en una variedad de tamaños. Para el caso de telas gruesas, se deben utilizar alfileres grandes y largos. En caso de telas delgadas y delicadas, como la seda, se utilizan alfileres pequeños y cortos para evitar dañarlas. Para esto, se insertan los alfileres cada 3 cm alrededor del patrón y en puntos clave. Se recomienda no coger mucha cantidad del textil, para evitar los bucles y malformaciones a la hora de pinar. Es recomendable ubicar los alfileres de forma diagonal.
+      
+          .tarjeta.color-acento-botones--borde.p-4(titulo="g) Pinar:")
+            p es la inserción de alfileres en el textil para asegurar el molde. Es importante tener en cuenta que no es adecuado asegurar la tela con cinta, fijar los patrones, cortar el margen del patrón de forma inadecuada o marcar con tiza de forma inadecuada, porque esto podría dañar la tela.
+      
+          .tarjeta.color-acento-botones--borde.p-4(titulo="h) Proceso de corte:")
+            p luego de realizar y seguir cada uno de los pasos, para una adecuada calidad del proceso, se continúa con el corte del textil de acuerdo con la marcación. Para ello es importante conocer las herramientas fundamentales para este proceso y elegir las adecuadas y que garantizan una mejor calidad.
+      
+          .tarjeta.color-acento-botones--borde.p-4(titulo="i) Tips de corte: ")
+            p para el proceso de corte es importante tener en cuenta algunos aspectos elementales que favorecen el proceso, como sostener el material con la mano contraria a su lateralidad; realizar cortadas amplias; evitar que el tendido se mueva, solo debe hacerlo la tijera, la mano y el cortador, de acuerdo con la necesidad; en cada piquete se debe hacer un pequeño corte de máximo 3 mm de profundidad.
+            //MODAL
+          .tarjeta.color-acento-botones--borde.p-4(titulo="j) Textiles con nap-vello -pelusa de un textil:")
+            p nap es la textura de los textiles que van en una dirección particular; esta propiedad de la prenda es fundamental para garantizar su calidad. En algunos textiles se logra evidenciar el nap a simple vista, como en velvet, fleece, piel sintética, denim cepillado, franela, gamuza sintética, sarga elástica, tela de felpa, etc. El nap es muy importante para determinar cómo se establece el patrón en el textil; en este caso, se trabaja siempre un trazo direccional, para lo cual se deben tener en cuenta los acabados de la prenda y determinar el consumo del textil. Ver Video 3.
+            //MODAL
+       
+      .col-lg-3
+        figure
+          img(src='@/assets/curso/temas/t1/imag06.png', alt='')
+      
+    p.mb-4 Para identificar un buen nap/pelusa es importante pasar las manos suavemente para sentirlo. Se debe tener en cuenta que la sensación más suave es la dirección "con el nap/pelusa" y la sensación más áspera es la dirección "contra el nap/pelusa". Es importante precisar que el brillo de la tela es diferente cuando se ve desde diferentes direcciones. A continuación, se relacionan algunas consideraciones: 
+
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+      .tarjeta.color-acento-contenido.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/t1/slyder.svg' alt='AvatarTop')
+        p.text-center #[b Acabado de la prenda:] si no se tiene en cuenta el nap al momento de cortar la prenda, esta puede terminar con brillos diferentes en cada pieza. Se debe tener en cuenta que se necesita un color y una textura uniforme en toda la pieza.  
+      
+      .tarjeta.color-acento-contenido.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/t1/slyder2.svg' alt='AvatarTop')
+        p.text-center #[b Consumo de material:] se debe determinar qué tanto consumo de material se va a implementar en la prenda, para garantizar que todo el textil sea suficiente para el corte. Si esto no se hace, se puede desperdiciar mucha tela.
+      
+      .tarjeta.color-acento-contenido.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/t1/slyder3.svg' alt='AvatarTop')
+        p.text-center #[b Trazado o marcado:] se recomienda que cuando se utilice este tipo de textiles con nap, el proceso de transferir los moldes al textil se trabaje preferiblemente en un tendido abierto sujetado con alfileres. Para marcar pinzas o elementos clave, se recomiendan los hilvanes o tailor tacks.
+      
+      .tarjeta.color-acento-contenido.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/t1/slyder4.svg' alt='AvatarTop')
+        p.text-center #[b Piel sintética:] la piel sintética también cuenta con nap/pelusa. Es mucho más sencillo identificar la dirección del vello. Algunas tienen el vello más largo que otras, por eso es importante realizar el trazo, marcado y corte de forma adecuada; para ello es indispensable tener presente:
+        ul.lista-ul--color.color-acento-botones
+          li
+            i.fas.fa-angle-right
+            | #[b Trazo direccional.]
+          li
+            i.fas.fa-angle-right
+            | #[b Tendido abierto.]
+          li
+            i.fas.fa-angle-right
+            | #[b Marcación por el revés, con tiza.]
+
+      .tarjeta.color-acento-contenido.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/t1/slyder5.svg' alt='AvatarTop')
+        p.text-center #[b Tips de corte - piel sintética:] cortar en el sentido del vello/nap. Para ello, es importante realizar cortadas pequeñas, preferiblemente con la punta de la tijera. Una vez cortado, se recomienda eliminar el exceso de vello/pelo por el margen de costura, teniendo en cuenta la dirección del pelo. Se recomienda confeccionarlo en esa misma dirección.
+      
+      .tarjeta.color-acento-contenido.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/t1/slyder6.svg' alt='AvatarTop')
+        p.text-center #[b Textiles estampados:] estos se deben trabajar con un trazo direccional, ya que de esto depende la dirección del estampado que se desee en la prenda terminada. Esto significa que todas las piezas deben cortarse en la misma dirección para que el estampado quede acorde al diseño.
+      
+      .tarjeta.color-acento-contenido.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/t1/slyder7.svg' alt='AvatarTop')
+        p.text-center #[b Textiles de cuadros:] la continuidad de las líneas y el dibujo/cuadros en las prendas produce un efecto agradable a la vista. Casar cada una de las líneas, cuadros o elementos del dibujo del textil requiere de precisión. Esto se utiliza en prendas de muy altos estándares de calidad, ya que el corte se debe hacer preferiblemente individual. Algunos tips para este tipo de cortes son: 
+        ul.lista-ul--color.color-acento-botones
+          li
+            i.fas.fa-angle-right
+            | #[b Ubicar los patrones en el textil y alinearlos para que coincidan las líneas.]
+          li
+            i.fas.fa-angle-right
+            | #[b Trazar en los patrones las líneas.]
+          li
+            i.fas.fa-angle-right
+            | #[b Realizar esto con cada una de las piezas de la prenda.]
+          li
+            i.fas.fa-angle-right
+            | #[b Una vez ubicados, se deben ir pintando y agregando margen de costura con tiza.]
+
+      .tarjeta.color-acento-contenido.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/t1/slyder8.svg' alt='AvatarTop')
+        p.text-center #[b Tendido y corte:] para los textiles de cuadros, se recomienda trabajarlos de la siguiente manera:
+        ul.lista-ul--color.color-acento-botones
+          li
+            i.fas.fa-angle-right
+            | #[b Trabajar despiece sin costura.]
+          li
+            i.fas.fa-angle-right
+            | #[b Trazo direccional.]
+          li
+            i.fas.fa-angle-right
+            | #[b Tendido abierto cara arriba.]
+          li
+            i.fas.fa-angle-right
+            | #[b Marcación por el revés con tiza.]
+          li
+            i.fas.fa-angle-right
+            | #[b Fijar los patrones con alfileres.]
+      
+    .titulo-sexto.color-primario(data-aos="fade")
+      h5 Video 4.
+      span Ejemplo de tipos de tendido con diferentes características del material
+
+    .row.fondo-cta.align-items-center.py-4(data-aos="fade")
+      .col-lg-12.col-12.px-lg-5.px-4
+        .row.align-items-center.justify-content-center
+
+          .row.justify-content-evenly.align-items-center
+            .col-8.col-sm-6.col-md-2.mb-4.mb-md-0
+              img(src="@/assets/curso/temas/t1/imagvideo.svg")
+            .col-md.col-lg-6
+              h4 Video - Tipos de tendido con diferentes características del material. 
+              p.mb-4 Conozca el trazo de los básicos, prendas de vestir, despiece y análisis de cada una de las partes que componen una prenda.
+              a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?app=desktop&v=lPY6Ffc509c&feature=youtu.be')" target="_blank")
+                span Ver video
+                i.fas.fa-video
+
+    figcaption.mb-4(data-aos="fade") Nota. Tomado de SENA (2021b).
+    
+    h3 Marcación y revisión
+    p.mb-4 Para realizar la marcación y revisión, se debe partir desde un fusionado. Una vez se cortan la tela y la entretela, existen piezas programadas para entretelar, por eso se requiere utilizar fusionado con calor o con técnica de sastre. (Ver Figura 8 y Figura 9)
+    
+    .row.justify-content-center
+      .col-6
+        .titulo-sexto.color-primario(data-aos="fade")
+          h5 Figura 8.
+          span Fusionado de entretela
+        img(src='@/assets/curso/temas/t1/imag07.png', alt='')
+        figcaption Nota. Tomada de Únicosé (2019). #[br]
+      .col-6
+        .titulo-sexto.color-primario(data-aos="fade")
+          h5 Figura 9.
+          span Picado de solapa
+        img(src='@/assets/curso/temas/t1/imag08.png', alt='')
+        figcaption Nota. Tomada de Flo (2020). #[br]
+        
+        
+
+
+    
 
 
 </template>
