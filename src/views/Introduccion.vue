@@ -23,9 +23,9 @@
       figcaption Video: Leyenda del video
     
     .row.align-items-center.mb-4
-      .col-lg-8(data-aos="fade-left")
+      .col-lg-8(data-aos="fade-right")
         p Hablar de sastrería básica, trazo y corte permitirá que se aborden técnicas manuales que han sido utilizadas por sastres desde hace muchos años y que, a partir de la realización de levantamientos de patrones e ir construyendo artesanalmente las piezas textiles con acabados finos, posibilitan el incremento de la calidad en la prenda elaborada. Para esto, se deberá hacer un recorrido minucioso sobre la preparación de las piezas, a través del cual se conozcan los tipos de entretela y cómo serán sus usos; asimismo, procesos de levantamiento para la construcción de básicos superiores femeninos, desde la elaboración de los moldes hasta conocer el procedimiento, iniciando desde la elección de las telas, el análisis del modelo que se realiza y el proceso artesanal.
-      .col-lg-4.col-md-7.col-10.mb-4(data-aos="fade-right")
+      .col-lg-4.col-md-7.col-10.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/intro1.png', alt='')
 
 </template>

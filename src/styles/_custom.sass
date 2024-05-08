@@ -2,25 +2,55 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 35%
+    right: 80%
+    width: 16%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
-
+    top: 5%
+    right: 42%
+    width: 16%
 @keyframes float1
   0%
     transform: translateY(20px)
   100%
     transform: translateY(0px)
 
+
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+.f-12 i      
+  font-size: 12px
+.lista-ul--color.color-secundario li > i:first-of-type
+  color: $color-secundario
+.lista-ul--color.color-acento-botones li > i:first-of-type
+  color: $color-acento-botones
+
+.w-30
+  width: 30px
+.w-60
+  width: 60px
+.w-105
+  width: 105px  
 .bg1
   background-color: #BAEFE4 !important
 .bg2
   background-color: #E5EDEE 
+.bg3
+  background-color: #91B7B9 
+.bg4
+  background-color:#73D8C0
+.bg5
+  background-color: #DCF7F1 !important
+.bg6
+  background-color:#F2F6F6
 
 
 .fondo-cta
@@ -46,6 +76,20 @@
   @media screen and (max-width: 992px)
     background-size: cover
     margin-inline: -1.4rem 
+.fondo-t22
+  background: url('../assets/curso/temas/t2/fondo-t22.png')
+  background-position: center
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    background-size: cover
+    margin-inline: -1.4rem 
+.fondo-slyder
+  background: url('../assets/curso/temas/t2/fondo-slyder.png')
+  background-position: center
+  background-size: 100% 100%
+  background-repeat: no-repeat   
 
 .borde-top-table
   border-top: 10px solid #73D8C0    
@@ -56,19 +100,51 @@
   .no-border-left
     border-left: 0px
 
-.lista-ul--color.color-secundario li > i:first-of-type
-  color: $color-secundario
-  font-size: 12px
-
 .tarjeta--azul
   background-color: #CCDCDD !important
-
-.lista-ul--color.color-acento-botones li > i:first-of-type
-  color: $color-acento-botones
-
-.tarjeta--boton
-  background-color: #91B7B9 
-
 .tarjeta--verde
   background-color: #BAEFE4
 
+.tabs-a__tab 
+  background-color: #E8E8E8
+.t1-4 .tabs-a__tab__text
+  overflow: initial
+  white-space: initial
+.t2-2
+  .slyder-a__bullets__item
+    display: none
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #F5947A
+  opacity: 0.9
+.slyder-a__bullets__item
+  background-color: #CFCFBF
+.slyder-a__bullets__item--active
+  background-color: #F5947A
+  border-color: #F5947A
+
+.z-99
+  z-index: 999  
+.mn-l
+  margin-left: -20%
+.mn-r
+  margin-right: -20%
+.mh-170
+  min-height: 170px  
+
+.acordion__activo
+  background-color: #CCDCDD  
+
+.tarj-t23
+  .tarjeta-avatar-b__img
+    align-items: flex-start
+    min-width: 15%
+    max-width: 15%
+
+.slyder-f.t-23 .tarjeta
+   border: 5px solid #025157  
+   transition: all 0.3s ease-out
+   &:hover
+    border-color: #73D8C0
+    transition: all 0.3s ease-out
+   img
+    margin: 0 auto 
