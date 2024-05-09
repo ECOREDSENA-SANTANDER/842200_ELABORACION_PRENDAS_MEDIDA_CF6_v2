@@ -126,12 +126,12 @@ export default {
         nombreRuta: 'sintesis',
         desarrolloContenidos: true,
       },
-      {
+      /*{
         nombreRuta: 'actividad',
         icono: 'far fa-question-circle',
         titulo: 'Actividad didáctica',
         desarrolloContenidos: true,
-      },
+      },*/
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -169,31 +169,31 @@ export default {
       tema: '',
       referencia: 'SENA. (2021). Cojín de sastre.',
       tipo: 'PDF',
-      descarga: '/downloads/CF6_Anexo1_Cojines_Sastre',
+      descarga: '/downloads/CF6_Anexo1_Cojines_Sastre_A4.pdf',
     },
     {
       tema: '',
       referencia: 'SENA. (2021). El traje básico del sastre.',
       tipo: 'PDF',
-      descarga: '/downloads/CF6_Anexo2_Construcción_Traje_Sastre',
+      descarga: '/downloads/CF6_Anexo2_Construcción_Traje_Sastre.pdf',
     },
     {
       tema: '',
       referencia: 'SENA. (2021). Las entretelas y los forros en la sastrería.',
       tipo: 'PDF',
-      descarga: 'CF6_Anexo3_Entretelas_Y_Forro',
+      descarga: 'CF6_Anexo3_Entretelas_Y_Forros.pdf',
     },
     {
       tema: '',
       referencia: 'SENA. (2021). Construcción de las pinzas y prenses.',
       tipo: 'PDF',
-      descarga: '/downloads/CF6_Anexo4_Pinzas_Y_Prenses',
+      descarga: '/downloads/CF6_Anexo4_Pinzas_Y_Prenses.pdf',
     },
     {
       tema: '',
       referencia: 'SENA. (2021). Como hacer ojales manuales y presillas.',
       tipo: 'PDF',
-      descarga: '/downloads/CF6_Anexo5_Ojales_Y_Presillas',
+      descarga: '/downloads/CF6_Anexo5_Ojales_Y_Presillas.pdf',
     },
     {
       tema: '',
@@ -223,7 +223,7 @@ export default {
       referencia:
         'SENA. (2021). Interpretación de prendas, chaqueta cuello alto.',
       tipo: 'PDF',
-      descarga: '/downloads/CF6_Anexo8_Cuello_Alto',
+      descarga: '/downloads/CF6_Anexo8_Cuello_Alto.pdf',
     },
   ],
   glosario: [

@@ -7,8 +7,8 @@
         span 2
       h1 Técnicas básicas de sastrería
     
-    .row.align-items-center
-      .col-lg-4.col-md-8.mb-4(data-aos="fade-right")
+    .row.align-items-center.justify-content-center
+      .col-lg-4.col-md-7.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/t2/imag01.png', alt='')
       .col-lg-8(data-aos="fade-left")
         p La elaboración de prendas de vestir femeninas y masculinas exteriores, basadas en las medidas deducidas de cada cliente y en cuya construcción se aplican técnicas manuales específicas, recibe el nombre de sastrería. Los inicios de la sastrería datan de la antigua Roma, cuando era vista como un tarea simple realizada por los artesanos; su fin era satisfacer los caprichos de la clase dominante, conocida como los patricios. Ya durante la edad media, desaparece la túnica y se introducen prendas más ajustadas, generando la necesidad de ser más precisos en el calce y concibiendo desafíos para las personas que desempeñaban esta labor. Es en esos tiempos donde el sastre alcanza un nivel más artístico, pero es durante el renacimiento cuando los sastres y costureros llegan a ser considerados especialistas del arte de vestir. Sin embargo, aparece en el año 1820 el francés M. Guillermo Campaugne, con un método de corte y normas que transformaron por completo el oficio de sastre.
@@ -30,7 +30,7 @@
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-2.col-md-1.w-60
         img(src='@/assets/curso/temas/t2/icono.svg', alt='')
-      .col-10.col-md-11
+      .col-10.col-md-10
         h4.mb-0 Costuras manuales
     
     p.mb-4(data-aos="fade") Para iniciar con el proceso de formación de un sastre, es preciso conocer y dominar los principales tipos de puntadas a mano, donde solo se requiere una aguja, el hilo y la tela. Son técnicas artesanales que se emplean en la construcción de la prenda y en sus acabados. En este cuadro se pueden visualizar las costuras manuales más importantes.
@@ -42,7 +42,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 10.
               span Puntada de pespunte o continua
-            img(src='@/assets/curso/temas/t2/slyder.png' alt='')
+            img(src='@/assets/curso/temas/t2/slyder.png' alt='En la imagen hay un dibujo en el que con aguja e hilo sobre un trozo de tela se muestra la puntada de pespunte continua.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).       
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -50,7 +50,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 11.
               span  Puntada punto atrás posterior o máquina
-            img(src='@/assets/curso/temas/t2/slyder2.png' alt='')
+            img(src='@/assets/curso/temas/t2/slyder2.png' alt='En la imagen hay un dibujo en el que con aguja e hilo se muestra la puntada punto atrás posterior o máquina.')
             figcaption Nota. Tomada de Celestecielo (2018).       
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -58,7 +58,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 12.
               span  Punto de hilván
-            img(src='@/assets/curso/temas/t2/slyder3.png' alt='')
+            img(src='@/assets/curso/temas/t2/slyder3.png' alt='En la imagen hay un dibujo en el que con aguja e hilo se muestra la puntada de hilván.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -66,7 +66,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 13.
               span  Puntada posterior separada
-            img(src='@/assets/curso/temas/t2/slyder4.png' alt='')
+            img(src='@/assets/curso/temas/t2/slyder4.png' alt='En la imagen hay una foto de unas manos realizando, con aguja e hilo sobre un trozo de tela la puntada posterior separada.')
             figcaption Nota. Tomada de López (2020).       
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -74,7 +74,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 14.
               span  Puntada de bastilla o de frunce
-            img(src='@/assets/curso/temas/t2/slyder5.png' alt='')
+            img(src='@/assets/curso/temas/t2/slyder5.png' alt='En la imagen se muestra un dibujo que representa la puntada de bastilla o de frunce.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -82,7 +82,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 15.
               span Puntada de sobrehilado
-            img(src='@/assets/curso/temas/t2/slyder6.png' alt='')
+            img(src='@/assets/curso/temas/t2/slyder6.png' alt='En la imagen hay un dibujo de un trozo de tela en el que con aguja e hilo se muestra la puntada de sobrehilado.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -90,7 +90,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 16.
               span Punto de lado o inglés (para dobladillos)
-            img(src='@/assets/curso/temas/t2/slyder7.png' alt='')
+            img(src='@/assets/curso/temas/t2/slyder7.png' alt='En la imagen hay un dibujo de un trozo de tela con aguja e hilo en el que se muestra el punto de lado utilizado para dobladillos.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -98,7 +98,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 17.
               span Puntada doble sobrehilado
-            img(src='@/assets/curso/temas/t2/slyder8.png' alt='')
+            img(src='@/assets/curso/temas/t2/slyder8.png' alt='En la imagen hay un dibujo de un trozo de tela con aguja e hilo en el que se muestra la puntada doble sobrehilado.')
             figcaption Nota. Tomada de Celestecielo (2018).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -106,7 +106,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 18.
               span Punto de picado o espiga
-            img(src='@/assets/curso/temas/t2/slyder9.png' alt='')
+            img(src='@/assets/curso/temas/t2/slyder9.png' alt='En la imagen hay un dibujo en el que con aguja e hilo se muestra la puntada de picado o espiga, de arriba hacía abajo y de abajo hacía arriba.')
             p se hace de arriba hacia abajo o de abajo hacia arriba, dando pequeñas puntadas con regularidad, que calen muy poco por el otro lado. Se utiliza para unir la entretela con el tejido exterior.
             figcaption Nota. Tomada de Hymsa (1991).      
       .tarjeta.color-acento-contenido.p-4
@@ -115,7 +115,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 19.
               span Punto deslizado
-            img(src='@/assets/curso/temas/t2/slyder10.png' alt='')
+            img(src='@/assets/curso/temas/t2/slyder10.png' alt='En la imagen hay un dibujo en el que con aguja e hilo se muestra el punto deslizado.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -123,7 +123,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 20.
               span Puntada invisible 
-            img(src='@/assets/curso/temas/t2/slyder11.png' alt='')
+            img(src='@/assets/curso/temas/t2/slyder11.png' alt='En la imagen hay un dibujo de un trozo de tela en el que, con aguja e hilo, se muestra la puntada invisible.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -131,7 +131,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 21.
               span Punto de cruz
-            img(src='@/assets/curso/temas/t2/slyder12.png' alt='')
+            img(src='@/assets/curso/temas/t2/slyder12.png' alt='En la imagen hay un dibujo de un trozo de tela en el que, con aguja e hilo, se muestra el punto de cruz.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -139,7 +139,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 22.
               span Puntada de filete, festón o manta
-            img(src='@/assets/curso/temas/t2/slyder13.png' alt='')
+            img(src='@/assets/curso/temas/t2/slyder13.png' alt='En la imagen hay un dibujo de un trozo de tela, en el que , con aguja e hilo se muestra la puntada de filete, festón o manta.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -147,7 +147,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 23.
               span Puntada cadeneta
-            img(src='@/assets/curso/temas/t2/slyder14.png' alt='')
+            img(src='@/assets/curso/temas/t2/slyder14.png' alt='En la imagen hay un dibujo de la puntada cadeneta.')
             figcaption Nota. Tomada de Hymsa (1991).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -155,7 +155,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 24.
               span Puntada de ojal
-            img(src='@/assets/curso/temas/t2/slyder15.png' alt='')
+            img(src='@/assets/curso/temas/t2/slyder15.png' alt='En la imagen hay un dibujo en el que en un trozo de tela, con aguja e hilo, se muestra la puntada de ojal.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).       
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -163,7 +163,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 25.
               span Hilván flojo
-            img(src='@/assets/curso/temas/t2/slyder16.png' alt='')
+            img(src='@/assets/curso/temas/t2/slyder16.png' alt='En la imagen hay dos dibujos , en el primero , en un trozo de tela con aguja e hilo se muestra la puntada hilván flojo y en el segundo el trozo de tela se levanta para dejarla ver.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -171,7 +171,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 26.
               span Puntada escapulario o gaviado
-            img(src='@/assets/curso/temas/t2/slyder17.png' alt='')
+            img(src='@/assets/curso/temas/t2/slyder17.png' alt='En la imagen hay un dibujo en el que, con aguja e hilo, se muestra la puntada escapulario o gaviado.')
             figcaption Nota. Tomada de Celestecielo (2018).
 
     .titulo-sexto.color-primario(data-aos="fade")
@@ -183,7 +183,7 @@
         .row.align-items-center.justify-content-center
 
           .row.justify-content-evenly.align-items-center
-            .col-8.col-sm-6.col-md-3.mb-4.mb-md-0
+            .col-8.col-md-4.col-lg-3.mb-4.mb-md-0
               img(src="@/assets/curso/temas/t2/imagvideo.svg")
             .col-md.col-lg-6
               h4 Video - 11 puntadas a mano básicas 
@@ -249,11 +249,11 @@
           .col-10.col-md-11
             h4.mb-0 Cojines de sastre.
         p Los cojines de sastre son soportes de apoyo para planchar costuras e ir generando las curvas requeridas en la tela. Vienen en diferentes tamaños y formas. Generalmente, están forrados en tela de algodón y rellenados con picadillo de tela o aserrín. El cojín en forma de lágrima y el cojín rodillo tienen las mismas funciones, su utilización va a depender principalmente de la pieza o necesidad requerida.
-      .col-lg-6.col-md-10.mb-4(data-aos="fade-left")
+      .col-lg-6.col-md-11.mb-4(data-aos="fade-left")
         .titulo-sexto.color-primario.mb-2
           h5 Figura 27.
           span Cojines de sastre
-        img(src='@/assets/curso/temas/t2/imag06.png', alt='')
+        img(src='@/assets/curso/temas/t2/imag06.png', alt='En la figura se muestra una fotografía de cuatro cojines de sastre de diferentes formas y tamaños.')
         figcaption Nota. Tomada de SENA (2021). #[br]
           a(:href="('https://sumarcapacitacion.cl/programas-sociales/corte-y-confeccion-de-prendas-de-vestir-para-ninos-y-adultos/')" target="_blank") https://sumarcapacitacion.cl/programas-sociales/corte-y-confeccion-de-prendas-de-vestir-para-ninos-y-adultos/
 
@@ -270,7 +270,7 @@
 
           h4.text-center.mb-4(data-aos="fade-down") Pasos para realizar un cambrado del cierre 
 
-          .row.mb-5(data-aos="fade-down")
+          .row.justify-content-center.mb-5(data-aos="fade-down")
             .col-sm-6.col-lg-4.mb-4.mb-lg-0
               .tarjeta--boton.color-primario.bg3.p-4.h-100
                 .row.justify-content-center.mb-3
@@ -298,37 +298,37 @@
           .tarjeta.tarjeta--verde.p-4.mb-5(data-aos="fade-down")
             SlyderA.t2-2
               .row.justify-content-center.align-items-center
-                .col-md-5.mb-4.mb-md-0
+                .col-10.col-md-5.mb-4.mb-md-0
                   img(src='@/assets/curso/temas/t2/imag10.png', alt='')
-                .col-md-5
+                .col-10.col-md-5
                   h5 Paso 1.
                   p.mb-3 Se inicia humedeciendo la prenda y ubicándola sobre una pieza plana de madera, mármol o fornica.
                   p.mb-3 Los dedos deben anteponerse cerca de la plancha para ir presionando la costura y así evitar imperfecciones en el planchado. 
                   p Para las telas que puedan tener brillo se debe utilizar un paño húmedo.
               
               .row.justify-content-center.align-items-center
-                .col-md-5.mb-4.mb-md-0
+                .col-10.col-md-5.mb-4.mb-md-0
                   img(src='@/assets/curso/temas/t2/imag11.png', alt='')
-                .col-md-5
+                .col-10.col-md-5
                   h5 Paso 2.
                   p Las pinzas se doblan en dirección a los costados y se deben planchar siguiendo los pasos anteriores. 
           
           h4.text-center.mb-4 Pasos para la colocación de broches
 
           .row
-            .col-lg-6(data-aos="fade-right")
-              .row.align-items-center
-                .col-md-5.z-99
+            .col-lg-6.mb-4.mb-md-0(data-aos="fade-right")
+              .row.align-items-center.justify-content-center
+                .col-md-5.col-8.z-99
                   img(src='@/assets/curso/temas/t2/t22-tarj1.png', alt='')
                 .col-md-7
                   .bg4.p-4.ps-5.mn-l.mh-170
                     p.ps-4.mb-0 Ubica el broche evitando que sobrepase el borde de la pieza y que el ojo superior apoye en la costura, si la hay. Cubrir ambos ojos con puntadas seguidas del centro hacia afuera. No cortar el hilo.              
-            .col-lg-6(data-aos="fade-left")
-              .row.align-items-center
+            .col-lg-6.mb-4.mb-md-0(data-aos="fade-left")
+              .row.align-items-center.justify-content-center
                 .col-md-7
                   .bg4.p-4.pe-5.mn-r.mh-170
                     p.pe-4.mb-0 Después de haber fijado la parte posterior del broche (los ojos), sin cortar el hilo, realizar 3 puntadas en el otro extremo del broche.
-                .col-md-5.z-99
+                .col-md-5.col-8.z-99
                   img(src='@/assets/curso/temas/t2/t22-tarj2.png', alt='')
 
     p.mb-4(data-aos="fade") Para dar continuidad al proceso de preparación y detalles de las piezas, es hora de conocer el molde para las hombreras. A continuación, se muestra el procedimiento que se debe seguir: 
@@ -338,10 +338,10 @@
       span Molde para hombreras
     
     .row.align-items-center
-      .col-lg-4.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/temas/t2/imag12.png', alt='')
+      .col-lg-4.col-md-8.mb-4(data-aos="fade-right")
+        img(src='@/assets/curso/temas/t2/imag12.png', alt='En la figura se muestra esquema del molde para hombreras, con las instrucciones sobre el procedimiento que se debe seguir para su preparación y detalles de las piezas.')
       .col-lg-8(data-aos="fade-left")
-        ul.lista-ul--color.color-acento-botones.lista-ul--separador
+        ul.lista-ul--color.color-acento-botones.lista-ul--separador.fa-ul
           li 
             i.fas.fa-check
             | Ubicar el molde frente abajo, como lo indica el esquema, y girar el molde de la espalda con el cuello hacia abajo. Calcarlos unidos por los hombros. Tener presente no tener incorporados los centímetros de costura en las líneas de hombro.
@@ -366,18 +366,18 @@
     
     p.mb-5(data-aos="fade") Para alcanzar un buen calce en la prenda y una perfecta caída de la tela, no basta con realizar buenos moldes, pues no solo el tejido y la construcción son importantes, sino también, en gran medida, la forma como se utilizan las entretelas. Aunque no se puede ver este refuerzo en el derecho de la tela, en el momento de usar dicha prenda, marcará la diferencia. Para chaquetas y abrigos ligeros, se recomienda utilizar una entretela de tejido fino; para telas gruesas, se recomienda elegir una entretela de crin o lana.
     
-    .row.justify-content-center.align-align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-8.mb-4(data-aos="fade-right")
         .row.align-items-center.mb-4
           .col-2.col-md-1.w-60
             img(src='@/assets/curso/temas/t2/icono.svg', alt='')
-          .col-10.col-md-11
+          .col-10.col-md-10
             h4.mb-0 Tipos de entretelas
         p.mb-4 Las entretelas tienen como propósito lograr resultados con alta calidad. Al ser usadas aportan a reforzar y a estructurar ciertas partes de la prenda para mantener su forma y mejorar los acabados. Debemos tener en cuenta que su aplicación modifica el tacto y la durabilidad de la prenda; también nos permite coser con agilidad y, si es empleada en tejidos con elastómeros, hace que pierdan parcialmente su elasticidad.
         p.mb-4 Las entretelas se fabrican de diferentes tipos de fibras y grosores; dependiendo de la prenda, se pueden utilizar varios tipos de entretela. Otra cosa para tener en cuenta para la selección es el grosor de la tela, el cual dependerá de la caída que se desee en la misma. 
         .cajon.color-primario.bg5.p-4
           p.mb-0 En el mercado textil existe una gran variedad de entretelas con diferentes usos. Algunas son para termo-fijar con calor (son más utilizadas a nivel industrial), otras para coserse a la prenda y otras varias entretelas son específicas para campos como los tejidos elásticos, cuero o pieles. También existe una inmensa gama de artículos de ayuda, como cintas, cintas perforadas y formas troqueladas, que aseguran una producción económica. A continuación, se relaciona la clasificación de entretelas: 
-      .col-lg-4.col-md-10.mb-4(data-aos="fade-left")
+      .col-lg-4.col-md-6.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/t2/imag13.png', alt='')
     
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg6" data-aos="fade-down")
@@ -561,48 +561,50 @@
 
     p.mb-4(data-aos="fade") A continuación, se puede visualizar el proceso para picar piezas como el cuello.  
     
-    SlyderF.t-23.mb-5(columnas="col-lg-4" data-aos="fade-down")
-      .tarjeta.bg-white.p-3
-        img.mb-4(src='@/assets/curso/temas/t2/imag22.png' alt='')
-        p Marcar en forma de flecha hacia el centro del cuello con puntadas irregulares.
-        img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
-      .tarjeta.bg-white.p-3
-        img.mb-4(src='@/assets/curso/temas/t2/imag23.png' alt='')
-        p.mb-4 Comenzar a picar en la nueva marca hacia la parte de debajo de la pieza.
-        p Intentar formar espigas con las puntadas.
-        img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
-      .tarjeta.bg-white.p-3
-        img.mb-4(src='@/assets/curso/temas/t2/imag24.png' alt='')
-        p.mb-4 Avanzar hasta completar el nuevo cuello, para marcar sin sobrepasar el borde de un centímetro que debe quedar libre de costura
-        img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
-      .tarjeta.bg-white.p-3        
-        img.mb-4(src='@/assets/curso/temas/t2/imag25.png' alt='')
-        p.mb-4 Hacer espigas con mucho cuidado en las puntas de la pieza, sin sobrepasar el centímetro que se debe dejar libre. Se termina de picar con las puntadas el resto del cuello.
-        img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
-      .tarjeta.bg-white.p-3
-        img.mb-4(src='@/assets/curso/temas/t2/imag26.png' alt='')
-        p.mb-4 Humedecer la pieza y asentar con la plancha el cuello, del lado de la entretela, sin estirar. De esta forma quedará totalmente plana.
-        img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
-      .tarjeta.bg-white.p-3        
-        img.mb-4(src='@/assets/curso/temas/t2/imag27.png' alt='')
-        p.mb-4 Apreciar el cuello en su totalidad.
-        img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
-      .tarjeta.bg-white.p-3        
-        img.mb-4(src='@/assets/curso/temas/t2/imag28.png' alt='')
-        p.mb-4 Humedecer y estirar con la plancha suavemente.
-        img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
-      .tarjeta.bg-white.p-3        
-        img.mb-4(src='@/assets/curso/temas/t2/imag29.png' alt='')
-        p.mb-4 Planchar girando levemente la totalidad del ancho del cuello.
-        img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
-      .tarjeta.bg-white.p-3        
-        img.mb-4(src='@/assets/curso/temas/t2/imag30.png' alt='')
-        p.mb-4 Recortar un centímetro de entretela en toda la longitud de la pieza como se muestra en la imagen.
-        img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
-      .tarjeta.bg-white.p-3        
-        img.mb-4(src='@/assets/curso/temas/t2/imag31.png' alt='')
-        p.mb-4 Doblar el centímetro de la tela para sostenerlo con costuras manuales de hilván y punto atrás en todo el recorrido. Finalizar con el planchado.
-        img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
+    .row.justify-content-center.mb-5
+      .col-lg-12.col-md-8
+        SlyderF.t-23.mb-5(columnas="col-lg-4" data-aos="fade-down")
+          .tarjeta.bg-white.separacion.p-3
+            img.mb-4(src='@/assets/curso/temas/t2/imag22.png' alt='')
+            p Marcar en forma de flecha hacia el centro del cuello con puntadas irregulares.
+            img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
+          .tarjeta.bg-white.separacion.p-3
+            img.mb-4(src='@/assets/curso/temas/t2/imag23.png' alt='')
+            p.mb-4 Comenzar a picar en la nueva marca hacia la parte de debajo de la pieza.
+            p Intentar formar espigas con las puntadas.
+            img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
+          .tarjeta.bg-white.separacion.p-3
+            img.mb-4(src='@/assets/curso/temas/t2/imag24.png' alt='')
+            p.mb-4 Avanzar hasta completar el nuevo cuello, para marcar sin sobrepasar el borde de un centímetro que debe quedar libre de costura
+            img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
+          .tarjeta.bg-white.separacion.p-3        
+            img.mb-4(src='@/assets/curso/temas/t2/imag25.png' alt='')
+            p.mb-4 Hacer espigas con mucho cuidado en las puntas de la pieza, sin sobrepasar el centímetro que se debe dejar libre. Se termina de picar con las puntadas el resto del cuello.
+            img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
+          .tarjeta.bg-white.separacion.p-3
+            img.mb-4(src='@/assets/curso/temas/t2/imag26.png' alt='')
+            p.mb-4 Humedecer la pieza y asentar con la plancha el cuello, del lado de la entretela, sin estirar. De esta forma quedará totalmente plana.
+            img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
+          .tarjeta.bg-white.separacion.p-3        
+            img.mb-4(src='@/assets/curso/temas/t2/imag27.png' alt='')
+            p.mb-4 Apreciar el cuello en su totalidad.
+            img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
+          .tarjeta.bg-white.separacion.p-3        
+            img.mb-4(src='@/assets/curso/temas/t2/imag28.png' alt='')
+            p.mb-4 Humedecer y estirar con la plancha suavemente.
+            img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
+          .tarjeta.bg-white.separacion.p-3        
+            img.mb-4(src='@/assets/curso/temas/t2/imag29.png' alt='')
+            p.mb-4 Planchar girando levemente la totalidad del ancho del cuello.
+            img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
+          .tarjeta.bg-white.separacion.p-3        
+            img.mb-4(src='@/assets/curso/temas/t2/imag30.png' alt='')
+            p.mb-4 Recortar un centímetro de entretela en toda la longitud de la pieza como se muestra en la imagen.
+            img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
+          .tarjeta.bg-white.separacion.p-3        
+            img.mb-4(src='@/assets/curso/temas/t2/imag31.png' alt='')
+            p.mb-4 Doblar el centímetro de la tela para sostenerlo con costuras manuales de hilván y punto atrás en todo el recorrido. Finalizar con el planchado.
+            img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
       
 
 

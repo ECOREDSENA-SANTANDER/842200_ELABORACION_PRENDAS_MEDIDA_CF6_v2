@@ -8,7 +8,7 @@
       h1 Tizado, trazo y corte
     
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-lg-9
+      .col-lg-9.col-md-10
         .bloque-texto-g.color-primario.p-3.p-sm-4
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/t1/imag01.png')})`}"
@@ -26,7 +26,7 @@
         .row.align-items-center.justify-content-center
 
           .row.justify-content-evenly.align-items-center
-            .col-8.col-sm-6.col-md-2.mb-4.mb-md-0
+            .col-7.col-md-3.col-lg-2.mb-4.mb-md-0
               img(src="@/assets/curso/temas/t1/img-cta.svg")
             .col-md.col-lg-6
               h4 Video – Introducción al trazo 
@@ -42,8 +42,7 @@
     #t_1_1.titulo-segundo.color-primario(data-aos="fade-right")
       h2 1.1 Las herramientas, insumos y espacio en el trazo y corte
 
-
-    .row.align-items-center.mb-4
+    .row.align-items-center.justify-content-center.mb-4
       .col-lg-8(data-aos="fade-right")
         p En el taller de una costurera o un sastre, es importante contar con las herramientas, equipo, materiales e insumos necesarios para su buen funcionamiento, así como darles una adecuada distribución y orden para optimizar su funcionamiento. #[b Las herramientas y máquinas utilizadas para llevar a cabo estos procesos requieren de instrumentos para corte, medición y trazo, entre los que se encuentran las tijeras, el desbaratador, la rueda de trazado para sastrería, el cepillo electrostático, el punzón, el cúter textil, la máquina perforadora y la máquina cortadora.] Entre las herramientas de medición y trazo, se encuentran reglas, regla T de sastrería, escuadras y cinta métrica. Para el equipo, en cuanto utensilios, instrumentos y aparatos especiales, se encuentran los alfileres, el alfiletero, la carretilla, pesas de corte y mesa de trazo y corte. Además, los materiales necesarios también incluyen papel calca, greda, papel bond, papel micro, papel kraft, tiza o lápiz para marcar, greda o jaboncillo, entre otros. A continuación, se relaciona lo que se puede encontrar en el espacio del taller:
       .col-lg-4.col-md-7.col-10.mb-4(data-aos="fade-left")
@@ -239,39 +238,39 @@
               .col-10.col-md-11
                 h4.mb-0 Extendido manual:
             p Se sitúa la pieza de textil en un extremo de la mesa y se efectúa el estirado, mediante dos operarios/as o utilizando un carro de extendido, hasta el largo previamente establecido. Ver Figura 1.
-          .col-lg-6.col-md-10.mb-4(data-aos="fade-left")
+          .col-lg-6.col-md-11.mb-4(data-aos="fade-left")
             .titulo-sexto.color-primario.mb-2
               h5 Figura 1.
               span Tizado en material textil
-            img(src='@/assets/curso/temas/t1/imag03.png', alt='')
+            img(src='@/assets/curso/temas/t1/imag03.png', alt='En la figura se presenta la tela extendida sobre una superficie plana')
             figcaption Nota. Tomada de SENA (2021). #[br]
               a(:href="('https://sumarcapacitacion.cl/programas-sociales/corte-y-confeccion-de-prendas-de-vestir-para-ninos-y-adultos/')" target="_blank") https://sumarcapacitacion.cl/programas-sociales/corte-y-confeccion-de-prendas-de-vestir-para-ninos-y-adultos/
     
     p.text-center.mb-4 Cuando se trabaja con un extendido manual (Ver Video 2), es importante tener en cuenta las siguientes recomendaciones:
     
     .row.mb-5
-      .col-md-6.col-lg.mb-5.mb-lg-0
+      .col-md-6.col-lg.mb-4.mb-lg-0
         .tarjeta-avatar
             img(src='@/assets/curso/temas/t1/icono02.svg' alt='')
             .tarjeta.bg2.w-100
               .color-sistema-texto.p-4
                 h4.text-center Alineación:
                 p.text-center el textil debe estar completamente alineado al orillo. De ser posible, se deben alinear los dos orillos.
-      .col-md-6.col-lg.mb-5.mb-lg-0
+      .col-md-6.col-lg.mb-4.mb-lg-0
         .tarjeta-avatar
             img(src='@/assets/curso/temas/t1/icono03.svg' alt='')
             .tarjeta.bg2.w-100
               .color-sistema-texto.p-4
                 h4.text-center Tensión:
                 p.text-center en lo posible evitar la tensión en la tela, ya que, después del corte, las piezas cortadas quedarán reducidas (pequeñas en relación con el tamaño real del molde).
-      .col-md-6.col-lg.mb-5.mb-lg-0
+      .col-md-6.col-lg.mb-4.mb-lg-0
         .tarjeta-avatar
             img(src='@/assets/curso/temas/t1/icono04.svg' alt='')
             .tarjeta.bg2.w-100
               .color-sistema-texto.p-4
                 h4.text-center Arrugas:
                 p.text-center evitar que la tela se encuentre arrugada en el tendido, para que no se formen burbujas de aire en este, ocasionando distorsiones en el corte. 
-      .col-md-6.col-lg.mb-5.mb-lg-0
+      .col-md-6.col-lg.mb-4.mb-lg-0
         .tarjeta-avatar
             img(src='@/assets/curso/temas/t1/icono05.svg' alt='')
             .tarjeta.bg2.w-100
@@ -288,7 +287,7 @@
         .row.align-items-center.justify-content-center
 
           .row.justify-content-evenly.align-items-center
-            .col-8.col-sm-6.col-md-2.mb-4.mb-md-0
+            .col-7.col-sm-6.col-md-3.col-lg-2.mb-4.mb-md-0
               img(src="@/assets/curso/temas/t1/img-cta2.svg")
             .col-md.col-lg-6
               h4 Video – Proceso de extendido 
@@ -325,7 +324,7 @@
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-down")
       .row.justify-content-center(titulo="Señalización")
-        .col-lg-2.col-md-2
+        .col-lg-2.col-md-2.col-4.mb-3
           img.px-lg-4(src='@/assets/curso/temas/t1/acordion.svg', alt='')
         .col-lg-9.col-md-8.mb-4.mb-md-0
           p Para tener claro los requerimientos desde el área de patronaje, es importante identificar y conocer la respectiva señalización de patrones.
@@ -359,38 +358,38 @@
                   i.fas.fa-play
                   | Plantilla
       .row.justify-content-center(titulo="Trazo bidireccional - vello en ambos sentidos")
-        .col-md-2
+        .col-md-2.mb-3.col-4
           img.px-lg-3(src='@/assets/curso/temas/t1/acordion2.svg', alt='')
-        .col-md-4
+        .col-lg-4.col-md-12
           p Este trazo/marcado se realiza cuando el hilo de tela tiene la cabeza doble; se pueden ubicar los patrones en dos sentidos de dirección (Ver Figura 2). El material textil que se utilice no debe tener restricción con respecto a sus características.
           .titulo-sexto.color-acento-botones.mb-2
             h5 Figura 2.
             span Señalización en dos direcciones
-        .col-md-5
+        .col-lg-5.col-md-12
           figure
-            img(src='@/assets/curso/temas/t1/acordion3.png', alt='')      
+            img(src='@/assets/curso/temas/t1/acordion3.png', alt='En la imagen se muestra el marcado en la tela en dos direcciones, primero el trazo representado en una flecha vertical de doble saeta, luego el trazo en el molde de un bolsillo con la flecha de doble saeta y posteriormente en el molde en la tela, dos bolsillos en diferentes sentidos,con las flechas hacía arriba y hacía abajo significando ambas direcciones')      
       .row.justify-content-center(titulo="Trazo direccional")
-        .col-md-2
+        .col-md-2.col-4.mb-3
           img.px-lg-3(src='@/assets/curso/temas/t1/acordion4.svg', alt='')
-        .col-md-4
+        .col-lg-4.col-md-12
           p Vello en un solo sentido: este trazo/marcado se realiza cuando el hilo de tela tiene la cabeza hacia arriba o hacia abajo; se deben colocar los patrones en una sola dirección. Este procedimiento de marcado tendrá por resultado un producto con la más elevada calidad, pues este tipo de trazo se usa para materiales que tienen restricción con respecto a características como brillo, cambio de color al tacto, estampados, dirección de pelo/vello, entre otras. Ver Figura 3.
-        .col-md-5
+        .col-lg-5.col-md-12
           .titulo-sexto.color-acento-botones.mb-2
             h5 Figura 3.
             span Señalización en una dirección
           figure
-            img(src='@/assets/curso/temas/t1/acordion5.png', alt='')      
+            img(src='@/assets/curso/temas/t1/acordion5.png', alt='La figura hace referencia a la señalización en una dirección, primero se muestra el trazo representado por dos flechas verticales hacía arriba y hacía abajo, también el marcado en el molde de un bolsillo con la flecha hacía arriba y finalmente dos bolsillos con el trazo en una sola dirección ambos, con las flechas hacía arriba')      
       .row.justify-content-center(titulo="Trazo en sesgo - vello en diagonal")
-        .col-md-2
+        .col-md-2.col-4.mb-3
           img.px-lg-3(src='@/assets/curso/temas/t1/acordion6.svg', alt='')
-        .col-md-4
+        .col-lg-4.col-md-12
           p Este trazo/marcado se realiza cuando el hilo de tela tiene la cabeza inclinada en diagonal; se deben colocar los patrones en ese sentido de dirección. Ver Figura 4.
           .titulo-sexto.color-acento-botones.mb-2
             h5 Figura 4.
             span Señalización para sesgar
-        .col-md-5
+        .col-lg-5.col-md-12
           figure
-            img(src='@/assets/curso/temas/t1/acordion7.png', alt='')
+            img(src='@/assets/curso/temas/t1/acordion7.png', alt='En la imagen se representa la señalización para sesgar con tres flechas diagonales, la primera flecha con la saeta hacía abajo la segunda con la saeta hacía arriba y la tercera en doble saeta, también se presenta el trazado sobre el molde del bolsillo representado con flecha con doble saeta y el marcado en la tela sobre el bolsillo inclinado en diagonal hacía la izquierda.')
     
     .row.justify-content-center(data-aos="fade-down")
       .col-lg-8
@@ -417,7 +416,7 @@
     h3(data-aos="fade-right") Corte 
     p.mb-4(data-aos="fade") Existen diferentes tipos de corte. El manual, que requiere de la utilización de tijeras, más o menos de 8 pulgadas, como las usadas solo para corte de tela; se colocan directamente los moldes y se procede a cortar. El convencional, que utiliza maquinaria y equipos electromecánicos; disminuye la intervención de operaciones manuales. Y el automático, que tiene una unidad de control conformada por el ordenador con software especializado, el cabezal de corte y el carro extendedor automático; aumenta el rendimiento de espacio y tiempos de corte.
     
-    .row.mb-5
+    .row.justify-content-center.mb-5
       .col-lg-9.mb-4(data-aos="fade-right")
         TabsA.t1-4.color-secundario
           .tarjeta.color-acento-contenido.p-4(titulo="a) Introducción:")
@@ -461,7 +460,7 @@
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p.mb-0 #[b Ver Video 3.] Características del material desde trazo y corte. Conozca las características especiales de gran parte de materiales textiles y algunas recomendaciones respecto a su proceso de tendido, marcado y corte.
-      .col-lg-3(data-aos="fade-left")
+      .col-lg-3.col-md-5.col-7(data-aos="fade-left")
         img(src='@/assets/curso/temas/t1/imag06.png', alt='')
       
     ModalA(:abrir-modal.sync="modal1")
@@ -471,7 +470,7 @@
             h5 Figura 5
             span Acomodación de patrones
           figure
-            img(src='@/assets/curso/temas/t1/figura5.png', alt='')  
+            img(src='@/assets/curso/temas/t1/figura5.png', alt='En la figura se disponen sobre la tela extendida los diferentes patrones.')  
     ModalA(:abrir-modal.sync="modal2")
       .row.align-items-center.justify-content-center
         .col-12.col-md-10.col-lg-7
@@ -479,7 +478,7 @@
             h5 Figura 6
             span Pesas
           figure
-            img(src='@/assets/curso/temas/t1/figura6.png', alt='')  
+            img(src='@/assets/curso/temas/t1/figura6.png', alt='La imagen contiene seis pesas de diferentes formas,, colores y tamaños sobre un patrón debidamente dispuesto sobre la tela')  
     ModalA(:abrir-modal.sync="modal3")
       .row.align-items-center.justify-content-center
         .col-12.col-md-10.col-lg-7
@@ -487,7 +486,7 @@
             h5 Figura 7
             span Tailor tacks
           figure
-            img(src='@/assets/curso/temas/t1/figura7.png', alt='')          
+            img(src='@/assets/curso/temas/t1/figura7.png', alt='En la imagen se muestra la marcación con puntadas sueltas en hebras de hilo rojo')          
 
 
     p.mb-4(data-aos="fade") Para identificar un buen nap/pelusa es importante pasar las manos suavemente para sentirlo. Se debe tener en cuenta que la sensación más suave es la dirección "con el nap/pelusa" y la sensación más áspera es la dirección "contra el nap/pelusa". Es importante precisar que el brillo de la tela es diferente cuando se ve desde diferentes direcciones. A continuación, se relacionan algunas consideraciones: 
@@ -582,7 +581,7 @@
         .row.align-items-center.justify-content-center
 
           .row.justify-content-evenly.align-items-center
-            .col-8.col-sm-6.col-md-3.mb-4.mb-md-0
+            .col-8.col-sm-6.col-md-4.col-lg-3.mb-4.mb-md-0
               img(src="@/assets/curso/temas/t1/imagvideo.svg")
             .col-md.col-lg-6
               h4 Video - Tipos de tendido con diferentes características del material. 
@@ -597,13 +596,13 @@
     p.mb-4(data-aos="fade") Para realizar la marcación y revisión, se debe partir desde un fusionado. Una vez se cortan la tela y la entretela, existen piezas programadas para entretelar, por eso se requiere utilizar fusionado con calor o con técnica de sastre. (Ver Figura 8 y Figura 9)
     
     .row.justify-content-center
-      .col-6.mb-4(data-aos="fade-right")
+      .col-11.col-md-9.col-lg-6.mb-4(data-aos="fade-right")
         .titulo-sexto.color-primario
           h5 Figura 8.
           span Fusionado de entretela
         img(src='@/assets/curso/temas/t1/imag07.png', alt='En tres imágenes se muestra la manera como se aplica el calor sobre la tela y la entretela con una plancha ')
         figcaption Nota. Tomada de Únicosé (2019).
-      .col-6.mb-4(data-aos="fade-left")
+      .col-11.col-md-9.col-lg-6.mb-4(data-aos="fade-left")
         .titulo-sexto.color-primario
           h5 Figura 9.
           span Picado de solapa

@@ -51,7 +51,12 @@
   background-color: #DCF7F1 !important
 .bg6
   background-color:#F2F6F6
-
+.bg7
+  background-color:#FDEAE4
+.bg8
+  background-color:#EAFAF7
+.txt1
+  color: #025157
 
 .fondo-cta
   background: url('../assets/curso/temas/t1/fondo-cta.svg')
@@ -67,8 +72,8 @@
   margin-inline: -3.4rem
   @media screen and (max-width: 992px)
     margin-inline: -1.4rem  
-.fondo-t1
-  background: url('../assets/curso/temas/t1/fondo-t1.png')
+.fondo-cta3
+  background: url('../assets/curso/temas/t3/fondo-cta3.svg')
   background-position: center
   background-size: cover
   background-repeat: no-repeat
@@ -76,6 +81,29 @@
   @media screen and (max-width: 992px)
     background-size: cover
     margin-inline: -1.4rem 
+.fondo-t1
+  background: url('../assets/curso/temas/t1/fondo-t1.png')
+  background-position: center
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    background-size: cover
+    margin-inline: -1.4rem 
+.fondo-t32
+  background: url('../assets/curso/temas/t3/fondo-t32.png')
+  background-position: center
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    background-size: cover
+    margin-inline: -1.4rem 
+.fondo-cta32
+  background: url('../assets/curso/temas/t3/fondo-cta32.png')
+  background-position: center
+  background-size: 100% 100%
+  background-repeat: no-repeat
 .fondo-t22
   background: url('../assets/curso/temas/t2/fondo-t22.png')
   background-position: center
@@ -118,6 +146,8 @@
   opacity: 0.9
 .slyder-a__bullets__item
   background-color: #CFCFBF
+  @media (max-width: $bp-max-xs)
+    margin: 0 5px
 .slyder-a__bullets__item--active
   background-color: #F5947A
   border-color: #F5947A
@@ -126,10 +156,22 @@
   z-index: 999  
 .mn-l
   margin-left: -20%
+  @media (max-width: $bp-max-xs)
+    margin-left: 0px
 .mn-r
   margin-right: -20%
+  @media (max-width: $bp-max-xs)
+    margin-right: 0px
 .mh-170
   min-height: 170px  
+.br-tl
+  border-top-left-radius: 20px
+.br-tr
+  border-top-right-radius: 20px
+.col-40
+  width: 40% 
+.col-33
+  width: 33.33% !important
 
 .acordion__activo
   background-color: #CCDCDD  
@@ -139,12 +181,34 @@
     align-items: flex-start
     min-width: 15%
     max-width: 15%
+    @media (max-width: $bp-max-xs)
+      min-width: 20%
+      max-width: 20%
 
-.slyder-f.t-23 .tarjeta
-   border: 5px solid #025157  
-   transition: all 0.3s ease-out
-   &:hover
-    border-color: #73D8C0
+.slyder-f.t-23 
+  .tarjeta
+    border: 5px solid #025157  
     transition: all 0.3s ease-out
-   img
-    margin: 0 auto 
+    &:hover
+      border-color: #73D8C0
+      transition: all 0.3s ease-out
+    img
+      margin: 0 auto 
+  .separacion
+    display: flex
+    flex-direction: column
+    justify-content: space-between    
+
+.slyder-f.t33  
+  .tarjeta-avatar > img
+    width: 90%
+    @media (max-width: $bp-max-sm)
+      width: 70%
+  .tarjeta-avatar .tarjeta
+    padding-top: 155px !important
+    @media (max-width: $bp-max-sm)
+      padding-top: 42% !important
+
+.table33 
+  tr, td
+    vertical-align: initial
