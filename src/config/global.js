@@ -318,7 +318,7 @@ export default {
       referencia:
         'Luis, N. (2017). Con los pantalones bien puestos: 36 veces que una mujer nos inspiró llevando un traje sastre | Actualidad, Moda. S Moda EL PAÍS.',
       link:
-        'https://smoda.elpais.com/moda/traje-sastre-esmoquin-iconicos-historia/',
+        'https://elpais.com/smoda/traje-sastre-esmoquin-iconicos-historia.html/',
     },
     {
       referencia:

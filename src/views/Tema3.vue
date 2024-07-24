@@ -23,14 +23,14 @@
     
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-4.mb-4
-        p Para hacer el desarrollo de una manga sastre, se debe tener en cuenta la posición anatómica del brazo y cuál es el objetivo principal de la manga. Ver Figura 29
+        p Para hacer el desarrollo de una manga sastre, se debe tener en cuenta la posición anatómica del brazo y cuál es el objetivo principal de la manga.
         .titulo-sexto.color-secundario.mb-2
           h5 Figura 29.
           span Trazo de la manga sin inclinación
         img(src="@/assets/curso/temas/t3/imag02.png" alt="En la figura se muestra dibujo de modelo con tela sobrepuesta que indica el trazo de manga convencional sin inclinación del brazo, así como el respectivo molde.")
         figcaption Nota. Tomada de SENA (2021). 
       .col-lg-8.mb-4
-        p Cuando se habla de prendas sastre, son todas aquellas que permiten o fortalecen una buena postura sobre el cuerpo, en este caso, la manga sastre lleva la inclinación anatómica del brazo, es decir, desde el plano se genera una serie de pinzas que permiten tener en la prenda o en la manga la forma anatómica del cuerpo. Ver Figura 30.
+        p Cuando se habla de prendas sastre, son todas aquellas que permiten o fortalecen una buena postura sobre el cuerpo, en este caso, la manga sastre lleva la inclinación anatómica del brazo, es decir, desde el plano se genera una serie de pinzas que permiten tener en la prenda o en la manga la forma anatómica del cuerpo. 
         .titulo-sexto.color-secundario.mb-2
           h5 Figura 30.
           span Trazo de la manga con inclinación
@@ -102,7 +102,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/t3/imag07.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Es importante tener en cuenta que, con el fin de adquirir cada vez más destreza y fortaleza en patronaje, lo ideal es poder cortar, pegar, trasladar y experimentar desde su proceso de aprendizaje. Cuando se empieza a trabajar el trazo de prendas desde los básicos, estos siempre deben ir alineados o aplomados sobre una línea base de construcción; en prendas superiores, la línea de aplome o línea base será la línea de profundidad de sisa. Ver Video 6.
+            p.mb-0 Es importante tener en cuenta que, con el fin de adquirir cada vez más destreza y fortaleza en patronaje, lo ideal es poder cortar, pegar, trasladar y experimentar desde su proceso de aprendizaje. Cuando se empieza a trabajar el trazo de prendas desde los básicos, estos siempre deben ir alineados o aplomados sobre una línea base de construcción; en prendas superiores, la línea de aplome o línea base será la línea de profundidad de sisa.
     
     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade")
       h5 Video 6. 
@@ -119,7 +119,7 @@
               h4 Video - Trazo de chaqueta tipo sastre  
               p.mb-4 Conozca los trazos de la chaqueta sastre femenina
               a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?app=desktop&v=B7qyE5ySUII&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA')" target="_blank")
-                span Ver video
+                span Consultar video
                 i.fas.fa-video
 
     figcaption.mb-5(data-aos="fade") Nota. Tomado de SENA (2021c).
@@ -138,7 +138,7 @@
           
           .row.justify-content-center.mb-5(data-aos="fade-down")
             .col-lg-4.col-md-12.mb-4
-              p para este tipo de trazo, se deben tener en cuenta las características de forma, no solamente de la manga, sino del comportamiento o diseño. En este caso, que se está trabajando sobre una imagen en la cual se identifican características específicas, como cortes, caja y botonadura, es importante mencionar que no solamente se trabajan estas piezas externas, sino que, para hacer el desarrollo desde patronaje y pasar al proceso de confección o ensamble, se desarrollan piezas internas como borra flojos, refuerzos, entretelas, falsos y forros. Ver Figura 31.
+              p para este tipo de trazo, se deben tener en cuenta las características de forma, no solamente de la manga, sino del comportamiento o diseño. En este caso, que se está trabajando sobre una imagen en la cual se identifican características específicas, como cortes, caja y botonadura, es importante mencionar que no solamente se trabajan estas piezas externas, sino que, para hacer el desarrollo desde patronaje y pasar al proceso de confección o ensamble, se desarrollan piezas internas como borra flojos, refuerzos, entretelas, falsos y forros.
             .col-lg-4.col-md-10.mb-4
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 31. 
@@ -146,7 +146,7 @@
               img(src="@/assets/curso/temas/t3/imag08.png" alt="En la imagen se muestra fotografía de modelo con estilo sastre femenino de color negro.")
               figcaption Nota. Tomada de Luis (2017).
             .col-lg-4.col-md-12.mb-4
-              p En este punto, se tienen claras las generalidades para el desarrollo o trazo de una manga sastre. Sin embargo, hace falta fortalecer las piezas internas para la elaboración o el desarrollo de esta. Una de las piezas más características dentro de la manga sastre es el borra flojo que, como su nombre lo indica, es una pieza interna que en el proceso de confección facilita o permite borrar el flojo que se genera entre el recorrido de la cabeza de manga y la sisa de la prenda. Esta pieza se traza de diferentes maneras; en este caso, se muestran o se explican las dos más comunes a nivel general. Ver el siguiente cuadro.
+              p En este punto, se tienen claras las generalidades para el desarrollo o trazo de una manga sastre. Sin embargo, hace falta fortalecer las piezas internas para la elaboración o el desarrollo de esta. Una de las piezas más características dentro de la manga sastre es el borra flojo que, como su nombre lo indica, es una pieza interna que en el proceso de confección facilita o permite borrar el flojo que se genera entre el recorrido de la cabeza de manga y la sisa de la prenda. Esta pieza se traza de diferentes maneras; en este caso, se explican las dos más comunes a nivel general.
           
           .row.justify-content-center(data-aos="fade-down")
             .col-lg-10
@@ -180,7 +180,7 @@
     
     .row.justify-content-center.mb-4(data-aos="fade")
       .col-lg-10
-        p Para el trazo o desarrollo de la manga, se deben tener en cuenta el análisis de proporciones y el trazo de la interpretación de chaqueta sastre femenina. Ver Video 7.
+        p Para el trazo o desarrollo de la manga, se deben tener en cuenta el análisis de proporciones y el trazo de la interpretación de chaqueta sastre femenina.
     
     .titulo-sexto.color-primario(data-aos="fade")
       h5 Video 7.
@@ -197,7 +197,7 @@
               h4 Video - Trazo manga chaqueta sastre femenina 
               p.mb-4 Conozca el paso a paso para realizar la manga sastre de chaqueta femenina.
               a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=xD5YtPY_GCw&t=40s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA')" target="_blank")
-                span Ver video
+                span Consultar video
                 i.fas.fa-video
 
     figcaption.mb-5(data-aos="fade") Nota. Tomado de SENA (2020l)
@@ -208,7 +208,7 @@
       .col-10.col-md-10
         h4.mb-0 Despiece chaqueta sastre femenina: 
     
-    p.mb-4(data-aos="fade") al momento de despiezar una chaqueta sastre se deben tener en cuenta diferentes características, como qué tipo de acabado va a tener internamente, debido a que en algunos países, por la temporada o la estación, se le asignan diferentes acabados internos, los cuales van de la mano con el desarrollo de patronaje. #[b En este caso, se va a hacer el despiece de una chaqueta sastre completamente forrada.] Es importante aclarar que existen diferentes formas de hacer los acabados internos o refuerzos que va a llevar la chaqueta. Ver Figura 36 y Figura 37.
+    p.mb-4(data-aos="fade") al momento de despiezar una chaqueta sastre se deben tener en cuenta diferentes características, como qué tipo de acabado va a tener internamente, debido a que en algunos países, por la temporada o la estación, se le asignan diferentes acabados internos, los cuales van de la mano con el desarrollo de patronaje. #[b En este caso, se va a hacer el despiece de una chaqueta sastre completamente forrada.] Es importante aclarar que existen diferentes formas de hacer los acabados internos o refuerzos que va a llevar la chaqueta.
     
     .row.justify-content-center.mb-5
       .col-lg-5.col-md-6.mb-4(data-aos="fade-right")
@@ -224,7 +224,7 @@
         img(src="@/assets/curso/temas/t3/imag14.png" alt="En la imagen se muestra el patrón del despiece de la chaqueta. (Paso 2).")
         figcaption Nota. Tomada de Pinterest (2021).
     
-    p.mb-4(data-aos="fade") Para el desarrollo de los moldes de refuerzos, entretelas y forros, al igual que en las mangas, son elementos que no se identifican en la parte externa de la prenda, es decir, no se ven a través de una imagen, dibujo plano, incluso muestra físicas; sin embargo, son piezas que definitivamente complementan el desarrollo de la prenda. Ver Figura 38.
+    p.mb-4(data-aos="fade") Para el desarrollo de los moldes de refuerzos, entretelas y forros, al igual que en las mangas, son elementos que no se identifican en la parte externa de la prenda, es decir, no se ven a través de una imagen, dibujo plano, incluso muestra físicas; sin embargo, son piezas que definitivamente complementan el desarrollo de la prenda.
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-4.col-md-7.mb-4(data-aos="fade-right")
@@ -235,7 +235,7 @@
         figcaption Nota. Tomada de Pinterest (2021).
       .col-lg-8.mb-4(data-aos="fade-left")
         .cajon.color-primario.bg5.p-4.mb-4
-          p.mb-0 #[b Para el trazo o desarrollo del despiece de la chaqueta sastre, es necesario tener en cuenta el trazo de la interpretación de chaqueta y manga sastre femenina. Ver Video 8, Figura 39 y Video 9.]
+          p.mb-0 #[b Para el trazo o desarrollo del despiece de la chaqueta sastre, es necesario tener en cuenta el trazo de la interpretación de chaqueta y manga sastre femenina.]
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Video 8. 
           span Despiece chaqueta sastre femenina
@@ -247,7 +247,7 @@
               h4 Video - Despiece chaqueta sastre femenina  
               p.mb-4 Conozca el trazo o desarrollo del despiece de la chaqueta sastre. Es necesario tener en cuenta el trazo de la interpretación de chaqueta y manga sastre femenina.
               a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=AK2wuIOJLXI&t=501s')" target="_blank")
-                span Ver video
+                span Consultar video
                 i.fas.fa-video
         figcaption.mb-5(data-aos="fade") Nota. Tomado de SENA (2021c).
     
@@ -274,7 +274,7 @@
               h4 Video - Chaqueta cuello alto  
               p.mb-4 Conozca el trazo de la chaqueta de cuello alto a partir de los traslados de pinza.
               a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?app=desktop&v=yKwVapWExPo&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA')" target="_blank")
-                span Ver video
+                span Consultar video
                 i.fas.fa-video
 
     figcaption(data-aos="fade") Nota. Tomado de SENA (2020f).
@@ -302,7 +302,7 @@
       .col-lg-5.col-md-6.mb-4(data-aos="fade-right")
         .bg7.h-100.br-tl.br-tr
           .p-4.pb-0
-            p.mb-4 #[b Tejidos gruesos:] Acá se presentan unos ejemplos. Estos tejidos se deben combinar con diferentes tipos de entretelas según la ubicación y la construcción que se busca.
+            p.mb-4 #[b Tejidos gruesos:] acá se presentan unos ejemplos. Estos tejidos se deben combinar con diferentes tipos de entretelas según la ubicación y la construcción que se busca.
             .titulo-sexto.color-acento-contenido.mb-2
               h5 Figura 40. 
               span Tejidos gruesos
@@ -324,7 +324,7 @@
       .col-10.col-md-10
         h4.mb-0 Análisis del modelo a realizar
     
-    p.mb-4(data-aos="fade") La prenda sastre se forra según un patrón preciso. Para ello, es necesario ajustar al contorno del cuerpo y al mismo tiempo resultar cómoda y permitir una buena movilidad. Como dato importante, en la sastrería, la chaqueta siempre lleva forro para proteger el entretelado. Ver Tabla 6.
+    p.mb-4(data-aos="fade") La prenda sastre se forra según un patrón preciso. Para ello, es necesario ajustar al contorno del cuerpo y al mismo tiempo resultar cómoda y permitir una buena movilidad. Como dato importante, en la sastrería, la chaqueta siempre lleva forro para proteger el entretelado.
     
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10
@@ -528,7 +528,7 @@
       .col-lg-9.mb-4(data-aos="fade-right")
         p.mb-4 Las proporciones son medidas que se obtienen de una imagen, muestra física, ficha técnica, dibujo plano o diseño que, al hacer un paralelo con los básicos o moldes bases de la línea, silueta o talla que se esté trabajando, permiten obtener medidas o dimensiones de referencia para el desarrollo o trazo del molde correspondiente al diseño. Si bien en ocasiones anteriores se han desarrollado ejercicios sobre análisis de proporciones, es importante resaltar que las medidas y el análisis de proporciones varía de acuerdo con tamaño, diseño, impresión, dibujo, básico y sistema de medida. Las referencias implementadas son solo ejemplos detallados de cómo y de qué manera se debe implementar el desarrollo.
         .cajon.color-primario.bg5.p-4.mb-4
-          p.mb-0 La finalidad del ejercicio es poder aplicar todo el conocimiento y manejo de conceptos adquirido hasta el momento, llevando la implementación de los básicos hacia diferentes tipos de prendas y líneas de producto. Es importante recordar que, con el fin de adquirir cada vez más destreza y fortaleza en patronaje, lo ideal es poder cortar, pegar, trasladar y experimentar desde su proceso de aprendizaje.(Ver Videos 10, 11, 12 y 13).
+          p.mb-0 La finalidad del ejercicio es poder aplicar todo el conocimiento y manejo de conceptos adquirido hasta el momento, llevando la implementación de los básicos hacia diferentes tipos de prendas y líneas de producto. Es importante recordar que, con el fin de adquirir cada vez más destreza y fortaleza en patronaje, lo ideal es poder cortar, pegar, trasladar y experimentar desde su proceso de aprendizaje.
       .col-lg-3.col-md-6.col-8.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/t3/imag37.png', alt='')   
     
