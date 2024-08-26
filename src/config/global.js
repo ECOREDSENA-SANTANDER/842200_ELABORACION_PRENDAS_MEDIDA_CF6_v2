@@ -175,13 +175,13 @@ export default {
       tema: '',
       referencia: 'SENA. (2021). El traje básico del sastre.',
       tipo: 'PDF',
-      descarga: '/downloads/CF6_Anexo2_Construcción_Traje_Sastre.pdf',
+      descarga: '/downloads/CF6_Anexo2_Construccion_Traje_Sastre.pdf',
     },
     {
       tema: '',
       referencia: 'SENA. (2021). Las entretelas y los forros en la sastrería.',
       tipo: 'PDF',
-      descarga: 'CF6_Anexo3_Entretelas_Y_Forros.pdf',
+      descarga: '/downloads/CF6_Anexo3_Entretelas_Y_Forros.pdf',
     },
     {
       tema: '',
@@ -269,7 +269,8 @@ export default {
     },
     {
       termino: 'Talla',
-      significado: '',
+      significado:
+        'se refiere a la estatura de un individuo, medida desde los pies hasta la coronilla. ',
     },
   ],
   referencias: [
@@ -328,11 +329,6 @@ export default {
     },
     {
       referencia:
-        'Momita. (2018). Cómo cortar tela con cutter y base de corte. Momita’s blog',
-      link: 'http://momitablog.com/como-cortar-cutter-base-corte/',
-    },
-    {
-      referencia:
         'Ooobop! London. (2011). Butterick 5007: Men’s vintage western shirt - progress update. Ooobop',
       link: 'https://ooobop.wordpress.com/2011/08/',
     },
@@ -354,12 +350,12 @@ export default {
     {
       referencia:
         'SENA. (2020d, 29 diciembre). Abrigo asimétrico [Vídeo]. YouTube',
-      link: 'https://youtu.be/-t2RPXBUsLA',
+      link: 'https://youtu.be/aga8T_qGAFs?si=ZGDMpVCG0kR0_X7P',
     },
     {
       referencia:
         'SENA. (2020e, diciembre 29). Análisis e interpretación de pantalón sudadera [Vídeo]. YouTube',
-      link: 'https://youtu.be/xcUi9S-ZqzI',
+      link: 'https://youtu.be/8vgwqHz6Qio?si=CPmEnuti6kXLsRQ-',
     },
     {
       referencia:
@@ -369,58 +365,52 @@ export default {
     {
       referencia:
         'SENA. (2020g, diciembre 29). Despiece chaqueta sastre femenina [Vídeo]. YouTube.',
-      link: 'https://youtu.be/AK2wuIOJLXI',
+      link: 'https://youtu.be/ZpaVPWnxItE',
     },
     {
       referencia:
         'SENA. (2020h, diciembre 29). Generalidades de pantalón sastre masculino interpretación [Vídeo]. YouTube.',
-      link: 'https://youtu.be/be_WSq_gwFo',
+      link: 'https://youtu.be/FJZ4-R6Jn7E',
     },
     {
       referencia:
         'SENA. (2020i, diciembre 29). Interpretación de chaqueta bomber [Vídeo]. YouTube.',
-      link: 'https://youtu.be/A8DwMHDCWXk',
+      link: 'https://youtu.be/oITM6TFD734',
     },
     {
       referencia:
         'SENA. (2020j, diciembre 29). Interpretación de pantalón sastre femenino [Vídeo]. YouTube.',
-      link: 'https://youtu.be/8d20OBO4tHI',
+      link: 'https://youtu.be/VZZQsjRcc7k?si=CGvyh89LlYHDcyOz',
     },
     {
       referencia:
         'SENA. (2020k, diciembre 29). Trazo de chaqueta sastre masculina [Vídeo]. YouTube.',
-      link: 'https://youtu.be/ervMRxzneGY',
+      link: 'https://youtu.be/oH9SmGbFdDM',
     },
     {
       referencia:
         'SENA. (2020l, diciembre 29). Trazo manga chaqueta sastre femenina [Vídeo]. YouTube.',
-      link: 'https://youtu.be/xD5YtPY_GCw',
+      link: 'https://youtu.be/nf2vjjxt55Y',
     },
     {
       referencia:
         'SENA. (2020m, diciembre 29). Análisis e interpretación de capas [Vídeo]. YouTube.',
-      link: 'https://youtu.be/ZbGipLzdDTY',
+      link: 'https://youtu.be/N-2DugIICpw?si=CZDLU3lVzOJC31__',
     },
     {
       referencia:
         'SENA. (2021a, 9 febrero). Base sastre masculina [Vídeo]. YouTube',
-      link: 'https://youtu.be/b3g9qtFgeLM',
+      link: 'https://youtu.be/0QCgguWkbA8',
     },
     {
       referencia:
         'SENA. (2021b, febrero 9). Ejemplo de tipos de tendido con diferentes características del material [Vídeo]. YouTube',
-      link: 'https://youtu.be/AQuKp0yivEw',
+      link: 'https://youtu.be/-nkWodY_bPE?si=N39E7O-9-KbB8M-1',
     },
     {
       referencia:
         'SENA. (2021c, febrero 10). Trazo de chaqueta tipo sastre [Vídeo]. YouTube',
-      link: 'https://youtu.be/B7qyE5ySUII',
-    },
-    {
-      referencia:
-        'SUMAR Capacitación. (2019). Curso corte y confección de prendas de vestir para niños y adultos. SUMAR Capacitación | Organismo Técnico de Capacitación',
-      link:
-        'https://sumarcapacitacion.cl/programas-sociales/corte-y-confeccion-de-prendas-de-vestir-para-ninos-y-adultos/',
+      link: 'https://youtu.be/ZGgZuhG8L2s',
     },
     {
       referencia:
@@ -481,6 +471,11 @@ export default {
           cargo: 'Acompañamiento pedagógico',
           centro: 'Regional Tolima - Centro Agropecuario La Granja',
         },
+        {
+          nombre: 'Carolina Jiménez Suescún',
+          cargo: 'Evaluadora Instruccional ',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
       ],
     },
     {
@@ -497,13 +492,13 @@ export default {
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: '',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Lucenith Pinilla Moreno',
+          cargo: 'Desarrolladora <i>Full-Stack</i> Junior',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: '',
-          cargo: 'Actividad Didáctica',
+          nombre: 'María Alejandra Vera Briceño',
+          cargo: 'Animadora y Productora Multimedia',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -513,11 +508,6 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
-        },
-        {
-          nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Validador de Recursos Educativos Digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },

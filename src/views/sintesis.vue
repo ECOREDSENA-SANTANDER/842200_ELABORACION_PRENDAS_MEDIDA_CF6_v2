@@ -2,8 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 El diagrama presenta el contenido de la unidad, sus 4 temas con subtemas y conceptos importantes.
-
+    p.mb-5 Las prendas adquieren un valor especial cuando se realizan acabados a mano de sastrería básica, en este componente se realiza un recorrido por los diferentes procedimientos de sastrería básica, trazo y corte, adicionalmente se mencionan procesos específicos para básicos femeninos y masculinos. En el siguiente diagrama se presentan los diferentes conceptos y temas más importantes del componente. 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure

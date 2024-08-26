@@ -32,7 +32,7 @@
               h4 Video – Introducción al trazo 
               p.mb-4 Conozca la introducción al trazo, corte, maquinarias implementadas, herramientas, hilos de tela, anchos y orillos de los textiles.
               a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?app=desktop&v=lPY6Ffc509c&feature=youtu.be')" target="_blank")
-                span  video
+                span  Video
                 i.fas.fa-video
 
     figcaption(data-aos="fade") Nota. Tomado de SENA (2020).
@@ -44,7 +44,7 @@
 
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-8(data-aos="fade-right")
-        p En el taller de una costurera o un sastre, es importante contar con las herramientas, equipo, materiales e insumos necesarios para su buen funcionamiento, así como darles una adecuada distribución y orden para optimizar su funcionamiento. #[b Las herramientas y máquinas utilizadas para llevar a cabo estos procesos requieren de instrumentos para corte, medición y trazo, entre los que se encuentran las tijeras, el desbaratador, la rueda de trazado para sastrería, el cepillo electrostático, el punzón, el cúter textil, la máquina perforadora y la máquina cortadora.] Entre las herramientas de medición y trazo, se encuentran reglas, regla T de sastrería, escuadras y cinta métrica. Para el equipo, en cuanto utensilios, instrumentos y aparatos especiales, se encuentran los alfileres, el alfiletero, la carretilla, pesas de corte y mesa de trazo y corte. Además, los materiales necesarios también incluyen papel calca, greda, papel bond, papel micro, papel kraft, tiza o lápiz para marcar, greda o jaboncillo, entre otros. A continuación, se relaciona lo que se puede encontrar en el espacio del taller:
+        p En el taller de una costurera o un sastre, es importante contar con las herramientas, equipo, materiales e insumos necesarios para su buen funcionamiento, así como darles una adecuada distribución y orden para optimizar su funcionamiento.  Las herramientas y máquinas utilizadas para llevar a cabo estos procesos requieren de instrumentos para corte, medición y trazo, entre los que se encuentran las tijeras, el desbaratador, la rueda de trazado para sastrería, el cepillo electrostático, el punzón, el cúter textil, la máquina perforadora y la máquina cortadora. Entre las herramientas de medición y trazo, se encuentran reglas, regla T de sastrería, escuadras y cinta métrica. Para el equipo, en cuanto utensilios, instrumentos y aparatos especiales, se encuentran los alfileres, el alfiletero, la carretilla, pesas de corte y mesa de trazo y corte. Además, los materiales necesarios también incluyen papel calca, greda, papel bond, papel micro, papel kraft, tiza o lápiz para marcar, greda o jaboncillo, entre otros. A continuación, se relaciona lo que se puede encontrar en el espacio del taller:
       .col-lg-4.col-md-7.col-10.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/t1/imag02.png', alt='')
     
@@ -244,9 +244,8 @@
               h5 Figura 1.
               span Tizado en material textil
             img(src='@/assets/curso/temas/t1/imag03.png', alt='En la figura se presenta la tela extendida sobre una superficie plana')
-            figcaption Nota. Tomada de SENA (2021). #[br]
-              a(:href="('https://sumarcapacitacion.cl/programas-sociales/corte-y-confeccion-de-prendas-de-vestir-para-ninos-y-adultos/')" target="_blank") https://sumarcapacitacion.cl/programas-sociales/corte-y-confeccion-de-prendas-de-vestir-para-ninos-y-adultos/
-    
+            figcaption Nota. Tomada de SENA (2021). 
+              
     p.text-center.mb-4 Cuando se trabaja con un extendido manual (Video 2), es importante tener en cuenta las siguientes recomendaciones:
     
     .row.mb-5
@@ -294,7 +293,7 @@
               h4 Video – Proceso de extendido 
               p.mb-4 Conozca el proceso de extendido, teniendo en cuenta las diferentes maquinarias y herramientas implementadas, los diferentes tendidos abiertos y cerrados, pero además un barrido respecto al extendido industrial.
               a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?app=desktop&v=Mnnt4AAnKJQ&feature=youtu.be')" target="_blank")
-                span  video
+                span  Video
                 i.fas.fa-video
 
     figcaption.mb-5(data-aos="fade") Nota. Tomado de SENA (2020).
@@ -334,42 +333,43 @@
               ul.lista-ul--color.color-acento-botones.f-12.mb-0
                 li
                   i.fas.fa-play
-                  | Hilo de tela
+                  | Hilo de tela.
                 li
                   i.fas.fa-play
-                  | Referencia o diseño
+                  | Referencia o diseño.
                 li
                   i.fas.fa-play
-                  | Nombre de la pieza
+                  | Nombre de la pieza.
                 li
                   i.fas.fa-play
-                  | Número de veces a cortar
+                  | Número de veces a cortar.
             .col-md-6
               ul.lista-ul--color.color-acento-botones.f-12.mb-0
                 li
                   i.fas.fa-play
-                  | Tipo de material
+                  | Tipo de material.
                 li
                   i.fas.fa-play
-                  | Número de pieza en el tendido
+                  | Número de pieza en el tendido.
                 li
                   i.fas.fa-play
-                  | Piquetes
+                  | Piquetes.
                 li
                   i.fas.fa-play
-                  | Plantilla
+                  | Plantilla.
       .row.justify-content-center(titulo="Trazo bidireccional - vello en ambos sentidos")
         .col-md-2.mb-3.col-4
           img.px-lg-3(src='@/assets/curso/temas/t1/acordion2.svg', alt='')
         .col-lg-4.col-md-12
-          p Este trazo/marcado se realiza cuando el hilo de tela tiene la cabeza doble; se pueden ubicar los patrones en dos sentidos de dirección (Figura 2). El material textil que se utilice no debe tener restricción con respecto a sus características.
+          p Este trazo/marcado se realiza cuando el hilo de tela tiene la cabeza doble; se pueden ubicar los patrones en dos sentidos de dirección. El material textil que se utilice no debe tener restricción con respecto a sus características.
           
         .col-lg-5.col-md-12
           .titulo-sexto.color-acento-botones.mb-2
             h5 Figura 2.
             span Señalización en dos direcciones
           figure
-            img(src='@/assets/curso/temas/t1/acordion3.png', alt='En la imagen se muestra el marcado en la tela en dos direcciones, primero el trazo representado en una flecha vertical de doble saeta, luego el trazo en el molde de un bolsillo con la flecha de doble saeta y posteriormente en el molde en la tela, dos bolsillos en diferentes sentidos,con las flechas hacía arriba y hacía abajo significando ambas direcciones')      
+            img(src='@/assets/curso/temas/t1/acordion3.png', alt='En la imagen se presenta  la marcación en la tela en dos direcciones,  primero el trazo  representado en una flecha vertical de doble saeta,  luego el trazo  en el molde de  un bolsillo  con la flecha de doble saeta y posteriormente en el molde en la tela,   dos bolsillos  en diferentes sentidos,con las flechas hacía arriba y hacía abajo significando ambas direcciones.')      
+            figcaption Nota. Tomada de SENA (2021). 
       .row.justify-content-center(titulo="Trazo direccional")
         .col-md-2.col-4.mb-3
           img.px-lg-3(src='@/assets/curso/temas/t1/acordion4.svg', alt='')
@@ -380,7 +380,9 @@
             h5 Figura 3.
             span Señalización en una dirección
           figure
-            img(src='@/assets/curso/temas/t1/acordion5.png', alt='La figura hace referencia a la señalización en una dirección, primero se muestra el trazo representado por dos flechas verticales hacía arriba y hacía abajo, también el marcado en el molde de un bolsillo con la flecha hacía arriba y finalmente dos bolsillos con el trazo en una sola dirección ambos, con las flechas hacía arriba')      
+            img(src='@/assets/curso/temas/t1/acordion5.png', alt='La figura hace referencia a la señalización en una dirección, primero se presenta el trazo representado por dos flechas verticales hacía arriba y hacía abajo, también el marcado en el molde de un bolsillo con la flecha hacía arriba y finalmente dos bolsillos con el trazo en una sola dirección ambos, con las flechas hacía arriba')      
+            figcaption Nota. Tomada de SENA (2021). 
+
       .row.justify-content-center(titulo="Trazo en sesgo - vello en diagonal")
         .col-md-2.col-4.mb-3
           img.px-lg-3(src='@/assets/curso/temas/t1/acordion6.svg', alt='')
@@ -393,7 +395,8 @@
             span Señalización para sesgar
           figure
             img(src='@/assets/curso/temas/t1/acordion7.png', alt='En la imagen se representa la señalización para sesgar con tres flechas diagonales, la primera flecha con la saeta hacía abajo la segunda con la saeta hacía arriba y la tercera en doble saeta, también se presenta el trazado sobre el molde del bolsillo representado con flecha con doble saeta y el marcado en la tela sobre el bolsillo inclinado en diagonal hacía la izquierda.')
-    
+            figcaption Nota. Tomada de SENA (2021). 
+
     .row.justify-content-center(data-aos="fade-down")
       .col-lg-8
         .bloque-texto-g.color-primario.p-3.p-sm-4
@@ -402,12 +405,12 @@
           )
           .bloque-texto-g__texto.p-4
             p Para la señalización se debe tener en cuenta: #[br]
-              | #[b Referencia o nombre de cliente:] ref:20201208 #[br]
-              | #[b Nombre de la pieza:] delantero o frente #[br]
-              | #[b Tipo de material:] Tela 1. Material base #[br]
-              | Tela 2. Material forro #[br]
-              | Tela 3. Material entretela #[br]
-              | #[b Número de pieza en el tendido:] ½
+              | #[b Referencia o nombre de cliente:] ref:20201208. #[br]
+              | #[b Nombre de la pieza:] delantero o frente. #[br]
+              | #[b Tipo de material:] Tela 1. Material base. #[br]
+              | Tela 2. Material forro. #[br]
+              | Tela 3. Material entretela. #[br]
+              | #[b Número de pieza en el tendido:] ½.
 
     
     Separador
@@ -423,41 +426,53 @@
       .col-lg-9.mb-4(data-aos="fade-right")
         TabsA.t1-4.color-secundario
           .tarjeta.color-acento-contenido.p-4(titulo="a) Introducción:")
-            p el tendido y marcación son una parte clave para el proceso de corte, este procedimiento requiere de precisión y técnica. Una vez identificados los requerimientos desde el área de patronaje, se procede a realizar el tendido y la marcación. Para ello, es importante seguir los siguientes pasos: identificar el ancho útil, la ubicación de patrones, la marcación y el corte.
+            p El tendido y marcación son una parte clave para el proceso de corte, este procedimiento requiere de precisión y técnica. Una vez identificados los requerimientos desde el área de patronaje, se procede a realizar el tendido y la marcación. Para ello, es importante seguir los siguientes pasos: identificar el ancho útil, la ubicación de patrones, la marcación y el corte.
           .tarjeta.color-acento-contenido.p-4(titulo="b) Ancho útil:")
-            p es importante su identificación en el material textil antes de empezar a desarrollar el trazo, para lo cual se sugiere la identificación del #[b ancho total del textil y la medición del orillo]. Es importante indicar que el #[b ancho útil se halla restando el orillo al ancho total de la tela].
+            p Es importante su identificación en el material textil antes de empezar a desarrollar el trazo, para lo cual se sugiere la identificación del #[b ancho total del textil y la medición del orillo]. Es importante indicar que el #[b ancho útil se halla restando el orillo al ancho total de la tela].
           .tarjeta.color-acento-contenido.p-4(titulo="c) Ubicar patrones:")
-            p la ubicación de los patrones es una tarea indispensable, y, una vez esto se hace, se debe analizar y alistar el tipo de extendido/tendido a trabajar y el ancho útil, a partir de los requerimientos del patrón desde el área de patronaje.
+            p La ubicación de los patrones es una tarea indispensable, y, una vez esto se hace, se debe analizar y alistar el tipo de extendido/tendido a trabajar y el ancho útil, a partir de los requerimientos del patrón desde el área de patronaje.
             p.mb-4 Luego de esto, se procede a hacer el trazo o marcación del molde o patrón en el textil. 
-            a.boton.color-acento-botones.indicador__container.mb-4(@click="modal1 = true")
-              span.fw-bold Figura 5.
-              .indicador--click(v-if="mostrarIndicador")
+            .bg9.px-5.py-4.w-75.mb-4
+              .titulo-sexto.color-primario.mb-2
+                  h5 Figura 5.
+                  span Acomodación de patrones
+              figure
+                img(src='@/assets/curso/temas/t1/figura5.png', alt='En la figura se disponen sobre la tela extendida los diferentes patrones.')  
+                figcaption Nota. Tomada de SENA (2021). 
             p De acuerdo con lo anterior, es importante saber cómo transferir patrones. Para transferir patrones al textil, existen dos formas que son las más implementadas: marcar con tiza o jabón y pinar o utilizar alfileres.      
           .tarjeta.color-acento-contenido.p-4(titulo="d) Pesas para sujetar:")
-            p.mb-4 son bloques con diferentes pesos y de superficie plana. Su función es ayudar a que el patrón no se mueva en el momento del tizado. Es importante forrarlos para que no contaminen la tela.  
-            a.boton.color-acento-botones.indicador__container.mb-4(@click="modal2 = true")
-              span.fw-bold Figura 6.
-              .indicador--click(v-if="mostrarIndicador")      
+            p.mb-4 Son bloques con diferentes pesos y de superficie plana. Su función es ayudar a que el patrón no se mueva en el momento del tizado. Es importante forrarlos para que no contaminen la tela.  
+            .bg9.px-5.py-4.mb-4
+              .titulo-sexto.color-primario.mb-2
+                  h5 Figura 6.
+                  span Pesas
+              figure
+                img(src='@/assets/curso/temas/t1/figura6.png', alt='En la figura se disponen sobre la tela extendida los diferentes patrones.')  
+                figcaption Nota. Tomada de SENA (2021).    
           .tarjeta.color-acento-contenido.p-4(titulo="e) Tipos de marcación  -Hilván (<i>tailor tacks</i>):")
-            p.mb-4 es el método más utilizado por los sastres para marcaciones especiales sobre el textil. Este método tiene puntos con hebras de hilo que sirven de guía, sin llegar a manchar el textil, se trata de una puntada suelta, en bucle, como una indicación de dónde coser finalmente. 
-            a.boton.color-acento-botones.indicador__container.mb-4(@click="modal3 = true")
-              span.fw-bold Figura 7.
-              .indicador--click(v-if="mostrarIndicador")
+            p.mb-4 Es el método más utilizado por los sastres para marcaciones especiales sobre el textil. Este método tiene puntos con hebras de hilo que sirven de guía, sin llegar a manchar el textil, se trata de una puntada suelta, en bucle, como una indicación de dónde coser finalmente. 
+            .bg9.px-5.py-4.mb-4
+              .titulo-sexto.color-primario.mb-2
+                  h5 Figura 7.
+                  span Tailor tacks
+              figure
+                img(src='@/assets/curso/temas/t1/figura7.png', alt='En la imagen se  presenta la marcación  con  puntadas sueltas en hebras de hilo rojo.')  
+                figcaption Nota. Tomada de SENA (2021).  
           .tarjeta.color-acento-contenido.p-4(titulo="f) Tipos de marcación - alfileres:")
-            p es importante fijar los patrones con alfileres, los cuales vienen en una variedad de tamaños. Para el caso de telas gruesas, se deben utilizar alfileres grandes y largos. En caso de telas delgadas y delicadas, como la seda, se utilizan alfileres pequeños y cortos para evitar dañarlas. Para esto, se insertan los alfileres cada 3 cm alrededor del patrón y en puntos clave. Se recomienda no coger mucha cantidad del textil, para evitar los bucles y malformaciones a la hora de pinar. Es recomendable ubicar los alfileres de forma diagonal.      
+            p Es importante fijar los patrones con alfileres, los cuales vienen en una variedad de tamaños. Para el caso de telas gruesas, se deben utilizar alfileres grandes y largos. En caso de telas delgadas y delicadas, como la seda, se utilizan alfileres pequeños y cortos para evitar dañarlas. Para esto, se insertan los alfileres cada 3 cm alrededor del patrón y en puntos clave. Se recomienda no coger mucha cantidad del textil, para evitar los bucles y malformaciones a la hora de pinar. Es recomendable ubicar los alfileres de forma diagonal.      
           .tarjeta.color-acento-contenido.p-4(titulo="g) Pinar:")
-            p es la inserción de alfileres en el textil para asegurar el molde. Es importante tener en cuenta que no es adecuado asegurar la tela con cinta, fijar los patrones, cortar el margen del patrón de forma inadecuada o marcar con tiza de forma inadecuada, porque esto podría dañar la tela.      
+            p Es la inserción de alfileres en el textil para asegurar el molde. Es importante tener en cuenta que no es adecuado asegurar la tela con cinta, fijar los patrones, cortar el margen del patrón de forma inadecuada o marcar con tiza de forma inadecuada, porque esto podría dañar la tela.      
           .tarjeta.color-acento-contenido.p-4(titulo="h) Proceso de corte:")
-            p luego de realizar y seguir cada uno de los pasos, para una adecuada calidad del proceso, se continúa con el corte del textil de acuerdo con la marcación. Para ello es importante conocer las herramientas fundamentales para este proceso y elegir las adecuadas y que garantizan una mejor calidad.      
+            p Luego de realizar y seguir cada uno de los pasos, para una adecuada calidad del proceso, se continúa con el corte del textil de acuerdo con la marcación. Para ello es importante conocer las herramientas fundamentales para este proceso y elegir las adecuadas y que garantizan una mejor calidad.      
           .tarjeta.color-acento-contenido.p-4(titulo="i) <i>Tips</i> de corte: ")
-            p para el proceso de corte es importante tener en cuenta algunos aspectos elementales que favorecen el proceso, como sostener el material con la mano contraria a su lateralidad; realizar cortadas amplias; evitar que el tendido se mueva, solo debe hacerlo la tijera, la mano y el cortador, de acuerdo con la necesidad; en cada piquete se debe hacer un pequeño corte de máximo 3 mm de profundidad.
+            p Para el proceso de corte es importante tener en cuenta algunos aspectos elementales que favorecen el proceso, como sostener el material con la mano contraria a su lateralidad; realizar cortadas amplias; evitar que el tendido se mueva, solo debe hacerlo la tijera, la mano y el cortador, de acuerdo con la necesidad; en cada piquete se debe hacer un pequeño corte de máximo 3 mm de profundidad.
             a.anexo.mb-4(:href="obtenerLink('/downloads/CF6_Anexo6_Corte_De_Las_Telas.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
                 p.mb-0 #[b Anexo.] Corte de las telas. Conozca la importancia de examinar la tela para hacer un corte adecuado en el patronaje.
           .tarjeta.color-acento-contenido.p-4(titulo="j) Textiles con <i>nap-vello</i> -pelusa de un textil:")
-            p #[i nap] es la textura de los textiles que van en una dirección particular; esta propiedad de la prenda es fundamental para garantizar su calidad. En algunos textiles se logra evidenciar el #[i nap] a simple vista, como en #[i velvet, fleece], piel sintética, #[i denim] cepillado, franela, gamuza sintética, sarga elástica, tela de felpa, etc. El #[i nap] es muy importante para determinar cómo se establece el patrón en el textil; en este caso, se trabaja siempre un trazo direccional, para lo cual se deben tener en cuenta los acabados de la prenda y determinar el consumo del textil.
+            p #[i Nap] es la textura de los textiles que van en una dirección particular; esta propiedad de la prenda es fundamental para garantizar su calidad. En algunos textiles se logra evidenciar el #[i nap] a simple vista, como en #[i velvet, fleece], piel sintética, #[i denim] cepillado, franela, gamuza sintética, sarga elástica, tela de felpa, etc. El #[i nap] es muy importante para determinar cómo se establece el patrón en el textil; en este caso, se trabaja siempre un trazo direccional, para lo cual se deben tener en cuenta los acabados de la prenda y determinar el consumo del textil.
             a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?app=desktop&v=OfsjJ8VdU8A&feature=youtu.be" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
@@ -466,30 +481,6 @@
       .col-lg-3.col-md-5.col-7(data-aos="fade-left")
         img(src='@/assets/curso/temas/t1/imag06.png', alt='')
       
-    ModalA(:abrir-modal.sync="modal1")
-      .row.align-items-center.justify-content-center
-        .col-10.col-md-8.col-lg-3
-          .titulo-sexto.color-acento-contenido
-            h5 Figura 5
-            span Acomodación de patrones
-          figure
-            img(src='@/assets/curso/temas/t1/figura5.png', alt='En la figura se disponen sobre la tela extendida los diferentes patrones.')  
-    ModalA(:abrir-modal.sync="modal2")
-      .row.align-items-center.justify-content-center
-        .col-12.col-md-10.col-lg-7
-          .titulo-sexto.color-acento-contenido
-            h5 Figura 6
-            span Pesas
-          figure
-            img(src='@/assets/curso/temas/t1/figura6.png', alt='La imagen contiene seis pesas de diferentes formas,, colores y tamaños sobre un patrón debidamente dispuesto sobre la tela')  
-    ModalA(:abrir-modal.sync="modal3")
-      .row.align-items-center.justify-content-center
-        .col-12.col-md-10.col-lg-7
-          .titulo-sexto.color-acento-contenido
-            h5 Figura 7
-            span #[i Tailor tacks]
-          figure
-            img(src='@/assets/curso/temas/t1/figura7.png', alt='En la imagen se muestra la marcación con puntadas sueltas en hebras de hilo rojo')          
 
 
     p.mb-4(data-aos="fade") Para identificar un buen #[i nap]/pelusa es importante pasar las manos suavemente para sentirlo. Se debe tener en cuenta que la sensación más suave es la dirección "con el #[i nap]/pelusa" y la sensación más áspera es la dirección "contra el #[i nap]/pelusa". Es importante precisar que el brillo de la tela es diferente cuando se ve desde diferentes direcciones. A continuación, se relacionan algunas consideraciones: 
@@ -518,13 +509,13 @@
             ul.lista-ul--color.fa-ul.color-acento-botones.mb-0
               li.mb-1
                 i.fas.fa-angle-right
-                | #[b Trazo direccional.]
+                | Trazo direccional.
               li.mb-1
                 i.fas.fa-angle-right
-                | #[b Tendido abierto.]
+                | Tendido abierto.
               li.mb-0
                 i.fas.fa-angle-right
-                | #[b Marcación por el revés, con tiza.]
+                | Marcación por el revés, con tiza.
       .tarjeta-avatar
         img(src='@/assets/curso/temas/t1/slyder5.svg' alt='')
         .tarjeta.color-acento-contenido
@@ -543,16 +534,16 @@
             ul.lista-ul--color.fa-ul.color-acento-botones.mb-0
               li.mb-0
                 i.fas.fa-angle-right
-                | #[b Ubicar los patrones en el textil y alinearlos para que coincidan las líneas.]
+                | Ubicar los patrones en el textil y alinearlos para que coincidan las líneas.
               li.mb-0
                 i.fas.fa-angle-right
-                | #[b Trazar en los patrones las líneas.]
+                | Trazar en los patrones las líneas.
               li.mb-0
                 i.fas.fa-angle-right
-                | #[b Realizar esto con cada una de las piezas de la prenda.]
+                | Realizar esto con cada una de las piezas de la prenda.
               li.mb-0
                 i.fas.fa-angle-right
-                | #[b Una vez ubicados, se deben ir pintando y agregando margen de costura con tiza.]
+                | Una vez ubicados, se deben ir pintando y agregando margen de costura con tiza.
       .tarjeta-avatar
         img(src='@/assets/curso/temas/t1/slyder8.svg' alt='')
         .tarjeta.color-acento-contenido
@@ -561,19 +552,19 @@
             ul.lista-ul--color.color-acento-botones.mb-0
               li.mb-1
                 i.fas.fa-angle-right
-                | #[b Trabajar despiece sin costura.]
+                | Trabajar despiece sin costura.
               li.mb-1
                 i.fas.fa-angle-right
-                | #[b Trazo direccional.]
+                | Trazo direccional.
               li.mb-1
                 i.fas.fa-angle-right
-                | #[b Tendido abierto cara arriba.]
+                | Tendido abierto cara arriba.
               li.mb-1
                 i.fas.fa-angle-right
-                | #[b Marcación por el revés con tiza.]
+                | Marcación por el revés con tiza.
               li.mb-0
                 i.fas.fa-angle-right
-                | #[b Fijar los patrones con alfileres.]
+                | Fijar los patrones con alfileres.
       
     .titulo-sexto.color-primario(data-aos="fade")
       h5 Video 4.
@@ -589,7 +580,7 @@
             .col-md.col-lg-6
               h4 Video - Tipos de tendido con diferentes características del material. 
               p.mb-4 Conozca el trazo de los básicos, prendas de vestir, despiece y análisis de cada una de las partes que componen una prenda.
-              a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?app=desktop&v=AQuKp0yivEw&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA')" target="_blank")
+              a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=-nkWodY_bPE')" target="_blank")
                 span Consultar video
                 i.fas.fa-video
 
@@ -603,7 +594,7 @@
         .titulo-sexto.color-primario
           h5 Figura 8.
           span Fusionado de entretela
-        img(src='@/assets/curso/temas/t1/imag07.png', alt='En tres imágenes se muestra la manera como se aplica el calor sobre la tela y la entretela con una plancha ')
+        img(src='@/assets/curso/temas/t1/imag07.png', alt='En tres imágenes se presenta la manera como se aplica el calor sobre la tela y la entretela con una plancha ')
         figcaption Nota. Tomada de Únicosé (2019).
       .col-11.col-md-9.col-lg-6.mb-4(data-aos="fade-left")
         .titulo-sexto.color-primario

@@ -27,7 +27,7 @@
         .titulo-sexto.color-secundario.mb-2
           h5 Figura 29.
           span Trazo de la manga sin inclinación
-        img(src="@/assets/curso/temas/t3/imag02.png" alt="En la figura se muestra dibujo de modelo con tela sobrepuesta que indica el trazo de manga convencional sin inclinación del brazo, así como el respectivo molde.")
+        img(src="@/assets/curso/temas/t3/imag02.png" alt="En la figura se presenta dibujo de modelo con tela sobrepuesta que indica el trazo de manga convencional sin inclinación del brazo, así como el respectivo molde.")
         figcaption Nota. Tomada de SENA (2021). 
       .col-lg-8.mb-4
         p Cuando se habla de prendas sastre, son todas aquellas que permiten o fortalecen una buena postura sobre el cuerpo, en este caso, la manga sastre lleva la inclinación anatómica del brazo, es decir, desde el plano se genera una serie de pinzas que permiten tener en la prenda o en la manga la forma anatómica del cuerpo. 
@@ -36,7 +36,7 @@
           span Trazo de la manga con inclinación
         .row
           .col-lg-6.mb-3.mb-lg-0
-            img(src="@/assets/curso/temas/t3/imag03.png" alt="En la figura se muestra el mismo dibujo de la figura anterior pero esta vez con tela sobrepuesta para indicar trazo de manga con inclinación anatómica del brazo y el molde en la respectiva tela con indicación de la pinza y la bajera. ")
+            img(src="@/assets/curso/temas/t3/imag03.png" alt="En la figura se presenta el mismo dibujo de la figura anterior pero esta vez con tela sobrepuesta para indicar trazo de manga con inclinación anatómica del brazo  y el molde en la respectiva tela con indicación de la pinza y la bajera. ")
             figcaption Nota. Tomada de SENA (2021). 
           .col-lg-6
             p Conocer el trazo de las mangas es muy importante para el proceso de un sastre. A continuación, se puede identificar que, sin importar el tipo de trazo, explicación o metodología, la funcionalidad y el objetivo principal de la pieza, en este caso la manga sastre, deben apuntar a lo mismo: cubrir el brazo dando la forma anatómica del cuerpo.
@@ -71,7 +71,6 @@
             a.boton.color-acento-botones(:href="('https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CFE7A758461AB5A9DC7AF8DE14F9412D?sequence=1')" target="_blank")
               span Descargar
               i.fas.fa-file-download  
-    figcaption(data-aos="fade") Nota. Tomado de López (2020).
 
 
     Separador
@@ -118,7 +117,7 @@
             .col-md.col-lg-6
               h4 Video - Trazo de chaqueta tipo sastre  
               p.mb-4 Conozca los trazos de la chaqueta sastre femenina
-              a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?app=desktop&v=B7qyE5ySUII&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA')" target="_blank")
+              a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=ZGgZuhG8L2s')" target="_blank")
                 span Consultar video
                 i.fas.fa-video
 
@@ -138,12 +137,12 @@
           
           .row.justify-content-center.mb-5(data-aos="fade-down")
             .col-lg-4.col-md-12.mb-4
-              p para este tipo de trazo, se deben tener en cuenta las características de forma, no solamente de la manga, sino del comportamiento o diseño. En este caso, que se está trabajando sobre una imagen en la cual se identifican características específicas, como cortes, caja y botonadura, es importante mencionar que no solamente se trabajan estas piezas externas, sino que, para hacer el desarrollo desde patronaje y pasar al proceso de confección o ensamble, se desarrollan piezas internas como borra flojos, refuerzos, entretelas, falsos y forros.
+              p Para este tipo de trazo, se deben tener en cuenta las características de forma, no solamente de la manga, sino del comportamiento o diseño. En este caso, que se está trabajando sobre una imagen en la cual se identifican características específicas, como cortes, caja y botonadura, es importante mencionar que no solamente se trabajan estas piezas externas, sino que, para hacer el desarrollo desde patronaje y pasar al proceso de confección o ensamble, se desarrollan piezas internas como borra flojos, refuerzos, entretelas, falsos y forros.
             .col-lg-4.col-md-10.mb-4
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 31. 
                 span Traje sastre femenino
-              img(src="@/assets/curso/temas/t3/imag08.png" alt="En la imagen se muestra fotografía de modelo con estilo sastre femenino de color negro.")
+              img(src="@/assets/curso/temas/t3/imag08.png" alt="En la imagen se presenta fotografía de modelo con estilo sastre femenino de color negro.")
               figcaption Nota. Tomada de Luis (2017).
             .col-lg-4.col-md-12.mb-4
               p En este punto, se tienen claras las generalidades para el desarrollo o trazo de una manga sastre. Sin embargo, hace falta fortalecer las piezas internas para la elaboración o el desarrollo de esta. Una de las piezas más características dentro de la manga sastre es el borra flojo que, como su nombre lo indica, es una pieza interna que en el proceso de confección facilita o permite borrar el flojo que se genera entre el recorrido de la cabeza de manga y la sisa de la prenda. Esta pieza se traza de diferentes maneras; en este caso, se explican las dos más comunes a nivel general.
@@ -169,13 +168,13 @@
                     .titulo-sexto.color-acento-contenido.mb-2
                       h5 Figura 34. 
                       span Refuerzo sastre 
-                    img(src="@/assets/curso/temas/t3/imag10.png" alt="En la figura se muestra una foto de una prenda que tiene un refuerzo de sastre en el hombro derecho.")
+                    img(src="@/assets/curso/temas/t3/imag10.png" alt="En la figura se presenta una foto de una prenda que tiene un refuerzo de sastre  en el hombro derecho.")
                     figcaption.mb-4 Nota. Tomada de Pinterest (2021).
                   .col-md-6.col-lg-5.mb-3
                     .titulo-sexto.color-acento-contenido.mb-2
                       h5 Figura 35. 
                       span Hombrera sastre 
-                    img(src="@/assets/curso/temas/t3/imag12.png" alt="En la figura se muestra el refuerzo sastre en una hombrera, con entretela.")
+                    img(src="@/assets/curso/temas/t3/imag12.png" alt="En la figura se presenta el refuerzo sastre en una hombrera,  con entretela.")
                     figcaption.mb-4 Nota. Tomada de Pinterest (2021).
     
     .row.justify-content-center.mb-4(data-aos="fade")
@@ -196,7 +195,7 @@
             .col-md.col-lg-6
               h4 Video - Trazo manga chaqueta sastre femenina 
               p.mb-4 Conozca el paso a paso para realizar la manga sastre de chaqueta femenina.
-              a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=xD5YtPY_GCw&t=40s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA')" target="_blank")
+              a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=nf2vjjxt55Y&t=40s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA')" target="_blank")
                 span Consultar video
                 i.fas.fa-video
 
@@ -208,20 +207,20 @@
       .col-10.col-md-10
         h4.mb-0 Despiece chaqueta sastre femenina: 
     
-    p.mb-4(data-aos="fade") al momento de despiezar una chaqueta sastre se deben tener en cuenta diferentes características, como qué tipo de acabado va a tener internamente, debido a que en algunos países, por la temporada o la estación, se le asignan diferentes acabados internos, los cuales van de la mano con el desarrollo de patronaje. #[b En este caso, se va a hacer el despiece de una chaqueta sastre completamente forrada.] Es importante aclarar que existen diferentes formas de hacer los acabados internos o refuerzos que va a llevar la chaqueta.
+    p.mb-4(data-aos="fade") Al momento de despiezar una chaqueta sastre se deben tener en cuenta diferentes características, como qué tipo de acabado va a tener internamente, debido a que en algunos países, por la temporada o la estación, se le asignan diferentes acabados internos, los cuales van de la mano con el desarrollo de patronaje. En este caso, se va a hacer el despiece de una chaqueta sastre completamente forrada. Es importante aclarar que existen diferentes formas de hacer los acabados internos o refuerzos que va a llevar la chaqueta.
     
     .row.justify-content-center.mb-5
       .col-lg-5.col-md-6.mb-4(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 36. 
           span Despiece chaqueta paso 1
-        img(src="@/assets/curso/temas/t3/imag13.png" alt="En la imagen se muestra el patrón del despiece de la chaqueta. (Paso 1).")
+        img(src="@/assets/curso/temas/t3/imag13.png" alt="En la imagen se presenta el patrón del despiece de la chaqueta. (Paso 1).")
         figcaption Nota. Tomada de Pinterest (2021).
       .col-lg-5.col-md-6.mb-4(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 37. 
           span Despiece chaqueta paso 2
-        img(src="@/assets/curso/temas/t3/imag14.png" alt="En la imagen se muestra el patrón del despiece de la chaqueta. (Paso 2).")
+        img(src="@/assets/curso/temas/t3/imag14.png" alt="En la imagen se presenta el patrón del despiece de la chaqueta. (Paso 2).")
         figcaption Nota. Tomada de Pinterest (2021).
     
     p.mb-4(data-aos="fade") Para el desarrollo de los moldes de refuerzos, entretelas y forros, al igual que en las mangas, son elementos que no se identifican en la parte externa de la prenda, es decir, no se ven a través de una imagen, dibujo plano, incluso muestra físicas; sin embargo, son piezas que definitivamente complementan el desarrollo de la prenda.
@@ -231,7 +230,7 @@
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 38. 
           span Entretelas
-        img(src='@/assets/curso/temas/t3/imag15.png', alt='En la figura se muestra foto de prenda sobre maniquí en el que se resalta el refuerzo con entretelas en hombros y cuello.')
+        img(src='@/assets/curso/temas/t3/imag15.png', alt='En la figura se presenta foto de prenda sobre maniquí en el que se resalta el refuerzo con entretelas en hombros y cuello.')
         figcaption Nota. Tomada de Pinterest (2021).
       .col-lg-8.mb-4(data-aos="fade-left")
         .cajon.color-primario.bg5.p-4.mb-4
@@ -246,7 +245,7 @@
             .col-md.col-lg-7
               h4 Video - Despiece chaqueta sastre femenina  
               p.mb-4 Conozca el trazo o desarrollo del despiece de la chaqueta sastre. Es necesario tener en cuenta el trazo de la interpretación de chaqueta y manga sastre femenina.
-              a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=AK2wuIOJLXI&t=501s')" target="_blank")
+              a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=ZpaVPWnxItE&t=501s')" target="_blank")
                 span Consultar video
                 i.fas.fa-video
         figcaption.mb-5(data-aos="fade") Nota. Tomado de SENA (2021c).
@@ -341,7 +340,9 @@
                 .titulo-sexto.color-primario
                   h5 Figura 42.
                   span Partes del traje sastre falda
-                img.mb-4(src="@/assets/curso/temas/t3/imag20.png" alt="En la imagen se incluye fotografía de modelo con traje sastre falda, en la que se detallan cada una de sus partes así: Costura de cuello, Abertura de bocamanga, bolsillo ribeteado, forro de la chaqueta, hombreras, corona de la manga, manga encajada, pasador de cinturón, largo de la chaqueta, el bajo de la falda.")
+                figure
+                  img(src="@/assets/curso/temas/t3/imag20.png" alt="En la imagen se incluye fotografía de modelo con traje sastre falda, en la que se detallan cada una de sus partes así: Costura de cuello, Abertura de bocamanga, bolsillo ribeteado, forro de la chaqueta, hombreras, corona de la manga, manga encajada, pasador de cinturón, largo de la chaqueta, el bajo de la falda.")
+                  figcaption Nota. Tomada de Kinderley (2005).
               td #[b Costura del cuello:] une el cuello con la solapa.  
             tr
               td #[b Ojales ribeteados:] son terminados a mano por el derecho de la prenda sastre. Los botones se cosen con el cuello ya armado.
@@ -501,15 +502,15 @@
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 43. 
                 span Entretelado 1
-              img.mb-4(src="@/assets/curso/temas/t3/imag34.png" alt="En la figura se muestra el patrón de la entretela indicando expresamente el corte y el proceso de entretelado.")
+              img.mb-4(src="@/assets/curso/temas/t3/imag34.png" alt="En la figura se presenta el patrón de la entretela indicando expresamente el corte y el proceso de entretelado.")
               p.mb-4 Se debe tomar como guía el patrón del frente, bajar 5 cm desde la sisa por el costado y realizar la forma pasando por la separación de busto hasta la cintura.
               figcaption Nota. Tomada de Kinderley (2005).
             td.col-33 
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 44. 
                 span Entretelado 2
-              img.mb-4(src="@/assets/curso/temas/t3/imag35.png" alt="Al igual que en al figura anterior se muestra el patrón de la entretela de una pieza indicando medidas precisas y línea de costura de la espalda, línea de costura de la sisa.")
-              p.mb-4 En este paso, se debe bajar 5 cm por costado, partiendo de la sisa; por el centro espalda bajar 12.5 cm y unir los puntos con línea curveada, como muestra la figura. Además, se deben trasladar pinzas, costuras y piquetes a la entretela.
+              img.mb-4(src="@/assets/curso/temas/t3/imag35.png" alt="Al igual que en al figura anterior se presenta el patrón de la entretela de una pieza indicando medidas precisas y línea de costura de la espalda, línea de costura de la sisa.")
+              p.mb-4 En este paso, se debe bajar 5 cm por costado, partiendo de la sisa; por el centro espalda bajar 12.5 cm y unir los puntos con línea curveada, como presenta la figura. Además, se deben trasladar pinzas, costuras y piquetes a la entretela.
               figcaption Nota. Tomada de Kinderley (2005).
             td.col-33 
               .titulo-sexto.color-acento-contenido.mb-2
@@ -540,7 +541,7 @@
     
     figure.mb-5(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/ZbGipLzdDTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/N-2DugIICpw?si=CZDLU3lVzOJC31__" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: 11 10 ANALISIS E INTERPRETACIÓN DE CAPAS 
     
     .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
@@ -551,7 +552,7 @@
 
     figure.mb-5(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/-t2RPXBUsLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/aga8T_qGAFs?si=ZGDMpVCG0kR0_X7P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: 11 6 ABRIGO ASIMÉTRICO
     
     .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
@@ -562,7 +563,7 @@
 
     figure.mb-5(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/8d20OBO4tHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/VZZQsjRcc7k?si=CGvyh89LlYHDcyOz " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: 11 8 INTERPRETACIÓN DE PANTALÓN SASTRE FEMENINO 
     
     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
@@ -573,8 +574,8 @@
 
     figure(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/xcUi9S-ZqzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: 11 11 ANÁLISIS E INTERPRETACIÓN DE PANTALÓN SUDADERA 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/8vgwqHz6Qio?si=CPmEnuti6kXLsRQ-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Análisis e interpretación de pantalón sudadera - SENA 2024 
 
       
 </template>

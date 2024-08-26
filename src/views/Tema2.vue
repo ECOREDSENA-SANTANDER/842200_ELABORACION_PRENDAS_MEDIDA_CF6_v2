@@ -107,7 +107,7 @@
               h5 Figura 18.
               span Punto de picado o espiga
             img(src='@/assets/curso/temas/t2/slyder9.png' alt='En la imagen hay un dibujo en el que con aguja e hilo se presenta la puntada de picado o espiga, de arriba hacía abajo y de abajo hacía arriba.')
-            p se hace de arriba hacia abajo o de abajo hacia arriba, dando pequeñas puntadas con regularidad, que calen muy poco por el otro lado. Se utiliza para unir la entretela con el tejido exterior.
+            p Se hace de arriba hacia abajo o de abajo hacia arriba, dando pequeñas puntadas con regularidad, que calen muy poco por el otro lado. Se utiliza para unir la entretela con el tejido exterior.
             figcaption Nota. Tomada de Hymsa (1991).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -254,10 +254,7 @@
           h5 Figura 27.
           span Cojines de sastre
         img(src='@/assets/curso/temas/t2/imag06.png', alt='En la figura se presenta una fotografía de cuatro cojines de sastre de diferentes formas y tamaños.')
-        figcaption Nota. Tomada de SENA (2021). #[br]
-          a(:href="('https://sumarcapacitacion.cl/programas-sociales/corte-y-confeccion-de-prendas-de-vestir-para-ninos-y-adultos/')" target="_blank") https://sumarcapacitacion.cl/programas-sociales/corte-y-confeccion-de-prendas-de-vestir-para-ninos-y-adultos/
-
-    
+        figcaption Nota. Tomada de SENA (2021). 
     Separador
     #t_2_2.titulo-segundo.color-primario(data-aos="fade-right")
       h2 2.2 Preparación y detalles en las piezas
@@ -455,7 +452,7 @@
             img(src='@/assets/curso/temas/t2/tarjeta8.png' alt='')
           .tarjeta.color-acento-contenido
             .p-4
-              p.mb-0 #[b Boatina:] Boatina: es similar al plastrón. De trama de algodón o lana, o ambos, entrelazada de cabello de diferentes animales. También se emplea para plastrones. Al tener un tacto más suave, se coloca en la posición más cercana al cuerpo. 
+              p.mb-0 #[b Boatina:] es similar al plastrón. De trama de algodón o lana, o ambos, entrelazada de cabello de diferentes animales. También se emplea para plastrones. Al tener un tacto más suave, se coloca en la posición más cercana al cuerpo. 
       .col-lg-6.mb-4
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
@@ -488,8 +485,8 @@
       .tarjeta.color-acento-botones.p-3(x="73.5%" y="39%" numero="")
         p.mb-0 #[b Entretela tejida:] se encoge con los lavados; debido a esto, se aconseja que sean humedecidas, lavadas o planchadas con vapor antes de su aplicación.      
       .tarjeta.color-acento-botones.p-3(x="66%" y="62.5%" numero="")
-        p.mb-0 #[b Entretela tejida:] se encoge con los lavados; debido a esto, se aconseja que sean humedecidas, lavadas o planchadas con vapor antes de su aplicación.
-      
+        p.mb-0 #[b Entretela tradicional:] se corta del mismo tamaño que la pieza a entretelar; en el caso de la entretela termoadhesiva, se debe cortar entre 0,5 a 1 cm más pequeña.
+        
     .row.align-items-center.mb-4
       .col-2.col-md-1.w-60
         img(src='@/assets/curso/temas/t2/icono.svg', alt='')
@@ -575,7 +572,7 @@
             img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
           .tarjeta.bg-white.separacion.p-3
             img.mb-4(src='@/assets/curso/temas/t2/imag24.png' alt='')
-            p.mb-4 Avanzar hasta completar el nuevo cuello, para marcar sin sobrepasar el borde de un centímetro que debe quedar libre de costura
+            p.mb-4 Avanzar hasta completar el nuevo cuello, para marcar sin sobrepasar el borde de un centímetro que debe quedar libre de costura.
             img.w-105(src='@/assets/curso/temas/t2/icono2.svg' alt='')
           .tarjeta.bg-white.separacion.p-3        
             img.mb-4(src='@/assets/curso/temas/t2/imag25.png' alt='')
