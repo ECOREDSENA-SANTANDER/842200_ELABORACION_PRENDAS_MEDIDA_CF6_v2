@@ -442,13 +442,13 @@ export default {
           nombre: 'Ledy Johana Velásquez Hernández',
           cargo: 'Experto temático',
           centro:
-            'Regional Antioquia - Centro De Formación En Diseño, Confección Y Moda',
+            'Regional Antioquia - Centro de Formación en Diseño, Confección y Moda',
         },
         {
           nombre: 'Paola Angélica Castro Salazar',
           cargo: 'Experto temático',
           centro:
-            'Regional Antioquia - Centro De Formación En Diseño, Confección Y Moda',
+            'Regional Antioquia - Centro de Formación en Diseño, Confección y Moda',
         },
         {
           nombre: 'Paula Andrea Taborda Ortiz',
@@ -469,7 +469,7 @@ export default {
         {
           nombre: 'Uriel Darío González Montoya',
           cargo: 'Acompañamiento pedagógico',
-          centro: 'Regional Tolima - Centro Agropecuario La Granja',
+          centro: 'Regional Tolima - Centro Agropecuario la granja',
         },
         {
           nombre: 'Carolina Jiménez Suescún',
@@ -488,7 +488,12 @@ export default {
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollador <i>Full-Stack</i>',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Lizeth Karina Manchego Suarez',
+          cargo: 'Desarrolladora <i>Full-Stack</i>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
@@ -508,12 +513,12 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validadora de Recursos Educativos Digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Erika Fernanda Mejía Pinzón',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          nombre: 'Diana Lizeth Lozada Díaz',
+          cargo: 'Evaluadora para Contenidos Inclusivos y Accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
