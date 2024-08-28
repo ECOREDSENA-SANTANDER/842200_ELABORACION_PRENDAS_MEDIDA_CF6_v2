@@ -13,7 +13,8 @@
     figure.mb-4
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/aczxEMz_Nns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+      figcaption Video. Sastrería básica, trazo y corte
+
     
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-8(data-aos="fade-right")

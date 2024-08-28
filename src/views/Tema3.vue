@@ -542,7 +542,7 @@
     figure.mb-5(data-aos="fade-down")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/N-2DugIICpw?si=CZDLU3lVzOJC31__" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: 11 10 ANALISIS E INTERPRETACIÓN DE CAPAS 
+      figcaption Video. Análisis e interpretación de capas 
     
     .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
       h5 Video 11.
@@ -553,7 +553,7 @@
     figure.mb-5(data-aos="fade-down")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/aga8T_qGAFs?si=ZGDMpVCG0kR0_X7P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: 11 6 ABRIGO ASIMÉTRICO
+      figcaption Video. Abrigo asimétrico
     
     .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
       h5 Video 12.
@@ -564,7 +564,7 @@
     figure.mb-5(data-aos="fade-down")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/VZZQsjRcc7k?si=CGvyh89LlYHDcyOz " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: 11 8 INTERPRETACIÓN DE PANTALÓN SASTRE FEMENINO 
+      figcaption Video. Interpretación de pantalón sastre femenino.
     
     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
       h5 Video 13.
@@ -575,7 +575,7 @@
     figure(data-aos="fade-down")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/8vgwqHz6Qio?si=CPmEnuti6kXLsRQ-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Análisis e interpretación de pantalón sudadera - SENA 2024 
+      figcaption Video. Análisis e interpretación de pantalón sudadera 
 
       
 </template>

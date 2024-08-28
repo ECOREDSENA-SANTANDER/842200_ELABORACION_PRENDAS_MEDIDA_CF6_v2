@@ -39,7 +39,7 @@
     figure.mb-5(data-aos="fade-down")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/0QCgguWkbA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: BASE SASTRE MASCULINA
+      figcaption Video. Base sastre masculina
     
     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
       h5 Video 15.
@@ -50,7 +50,7 @@
     figure.mb-5(data-aos="fade-down")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/oH9SmGbFdDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: 11 2 TRAZO DE CHAQUETA SASTRE MASCULINA
+      figcaption Video. Trazo de chaqueta sastre masculina.
     
     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
       h5 Video 16.
@@ -61,7 +61,7 @@
     figure.mb-5(data-aos="fade-down")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/oITM6TFD734" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: 11 3 INTERPRETACIÓN DE CHAQUETA BOMBER
+      figcaption Video. Interpretación de chaqueta bomber.
     
     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
       h5 Video 17.
@@ -72,7 +72,7 @@
     figure(data-aos="fade-down")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/FJZ4-R6Jn7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: 11 7 GENERALIDADES DE PANTALÓN SASTRE MASCULINO INTERPRETACIÓN
+      figcaption Video. Generalidades de pantalón sastre masculino interpretación.
 
 
 </template>
