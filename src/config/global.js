@@ -483,12 +483,12 @@ export default {
       autores: [
         {
           nombre: 'Yuly Andrea Rey Quiñonez',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseñadora de Contenidos Digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
-          cargo: 'Desarrollador <i>Full-Stack</i>',
+          cargo: 'Desarrolladora <i>Full-Stack</i>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
