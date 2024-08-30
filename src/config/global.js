@@ -126,12 +126,12 @@ export default {
         nombreRuta: 'sintesis',
         desarrolloContenidos: true,
       },
-      /*{
+      {
         nombreRuta: 'actividad',
         icono: 'far fa-question-circle',
         titulo: 'Actividad didáctica',
         desarrolloContenidos: true,
-      },*/
+      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -196,14 +196,14 @@ export default {
       descarga: '/downloads/CF6_Anexo5_Ojales_Y_Presillas.pdf',
     },
     {
-      tema: '',
+      tema: 'Puntadas a mano.',
       referencia:
         '123 Dream it. (2015). Tutorial puntadas a mano [Vídeo]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=ClIjTl9ltak',
     },
     {
-      tema: 'Puntadas a mano. ',
+      tema: 'Construcción de un cojín de sastre.',
       referencia:
         'López, A. [PatternCos por Andrea López]. (2020). DIrecto IG | Cómo hacer un cojín de sastre [Vídeo]. YouTube.',
       tipo: 'Video',
