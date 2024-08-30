@@ -166,31 +166,31 @@ export default {
   },
   complementario: [
     {
-      tema: '',
+      tema: 'Molde del cojín de sastre. ',
       referencia: 'SENA. (2021). Cojín de sastre.',
       tipo: 'PDF',
       descarga: '/downloads/CF6_Anexo1_Cojines_Sastre_A4.pdf',
     },
     {
-      tema: '',
+      tema: 'Manual completo de costura. ',
       referencia: 'SENA. (2021). El traje básico del sastre.',
       tipo: 'PDF',
       descarga: '/downloads/CF6_Anexo2_Construccion_Traje_Sastre.pdf',
     },
     {
-      tema: '',
+      tema: 'Entretelas y forros. ',
       referencia: 'SENA. (2021). Las entretelas y los forros en la sastrería.',
       tipo: 'PDF',
       descarga: '/downloads/CF6_Anexo3_Entretelas_Y_Forros.pdf',
     },
     {
-      tema: '',
+      tema: 'Pinzas, lorzas, tablas y frunces.',
       referencia: 'SENA. (2021). Construcción de las pinzas y prenses.',
       tipo: 'PDF',
       descarga: '/downloads/CF6_Anexo4_Pinzas_Y_Prenses.pdf',
     },
     {
-      tema: '',
+      tema: 'Ojales a mano.',
       referencia: 'SENA. (2021). Como hacer ojales manuales y presillas.',
       tipo: 'PDF',
       descarga: '/downloads/CF6_Anexo5_Ojales_Y_Presillas.pdf',
@@ -203,7 +203,7 @@ export default {
       link: 'https://www.youtube.com/watch?v=ClIjTl9ltak',
     },
     {
-      tema: '',
+      tema: 'Puntadas a mano. ',
       referencia:
         'López, A. [PatternCos por Andrea López]. (2020). DIrecto IG | Cómo hacer un cojín de sastre [Vídeo]. YouTube.',
       tipo: 'Video',
@@ -211,7 +211,7 @@ export default {
         'https://www.youtube.com/watch?v=2B2eQ5jthLc&ab_channel=PatternCosporAndreaL%C3%B3pez',
     },
     {
-      tema: '',
+      tema: 'Construcción de un cojín de sastre. ',
       referencia:
         'López, A. [PatternCos por Andrea López]. (2020). Directo IG | Cómo hacer un cojín de sastre. Modelo 2 [Vídeo].YouTube.',
       tipo: 'Video',
@@ -219,7 +219,7 @@ export default {
         'https://www.youtube.com/watch?v=H_XirctviKk&ab_channel=PatternCosporAndreaL%C3%B3pez',
     },
     {
-      tema: '',
+      tema: 'Interpretación de chaqueta cuello alto.',
       referencia:
         'SENA. (2021). Interpretación de prendas, chaqueta cuello alto.',
       tipo: 'PDF',
