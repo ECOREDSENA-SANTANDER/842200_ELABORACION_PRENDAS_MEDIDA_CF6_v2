@@ -374,7 +374,7 @@ export default {
     },
     {
       referencia:
-        'SENA. (2020i, diciembre 29). Interpretación de chaqueta bomber [Vídeo]. YouTube.',
+        'SENA. (2020i, diciembre 29). Interpretación de chaqueta <i>bomber</i> [Vídeo]. YouTube.',
       link: 'https://youtu.be/oITM6TFD734',
     },
     {
@@ -425,12 +425,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -473,7 +473,7 @@ export default {
         },
         {
           nombre: 'Carolina Jiménez Suescún',
-          cargo: 'Evaluadora Instruccional ',
+          cargo: 'Evaluadora instruccional ',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -483,27 +483,27 @@ export default {
       autores: [
         {
           nombre: 'Yuly Andrea Rey Quiñonez',
-          cargo: 'Diseñadora de Contenidos Digitales',
+          cargo: 'Diseñadora de contenidos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
-          cargo: 'Desarrolladora <i>Full-Stack</i>',
+          cargo: 'Desarrolladora <i>full-stack</i>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
-          cargo: 'Desarrolladora <i>Full-Stack</i>',
+          cargo: 'Desarrolladora <i>full-stack</i>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Lucenith Pinilla Moreno',
-          cargo: 'Desarrolladora <i>Full-Stack</i> Junior',
+          cargo: 'Desarrolladora <i>full-stack</i> junior',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'María Alejandra Vera Briceño',
-          cargo: 'Animadora y Productora Multimedia',
+          cargo: 'Animadora y productora multimedia',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -513,12 +513,12 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validadora de Recursos Educativos Digitales',
+          cargo: 'Validadora de recursos educativos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Diana Lizeth Lozada Díaz',
-          cargo: 'Evaluadora para Contenidos Inclusivos y Accesibles',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],

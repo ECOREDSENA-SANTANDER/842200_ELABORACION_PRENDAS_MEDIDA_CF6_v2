@@ -57,17 +57,17 @@
               li.mb-0
                 i.fas.fa-circle
                 | #[h4 PDF – Manual de patronaje básico e interpretación de diseños]   
-            p.mb-4 Conoce el trazo de una manga sastre con una explicación diferente o con unos pasos diferentes a los anteriores. Se debe tener en cuenta que el resultado, sin importar los pasos o la técnica que se utilice, al final va a ser el mismo, la única diferencia son las variaciones en los cortes que corresponden al diseño. #[b Ver p. 44.]
+            p.mb-4 Conozca el trazo de una manga sastre con una explicación diferente o con unos pasos diferentes a los anteriores. Se debe tener en cuenta que el resultado, sin importar los pasos o la técnica que se utilice, al final va a ser el mismo, la única diferencia son las variaciones en los cortes que corresponden al diseño. #[b Ver p. 44.]
             ul.lista-ul--color.color-white.fa-ul.mb-0
               li.mb-0
                 i.fas.fa-circle
                 | #[h4 PDF – Manual de patronaje básico e interpretación de diseños]   
-            p.mb-4 Conoce otro tipo de trazo para el desarrollo de una manga sastre. Es importante mencionar que en todas se identifica una hoja ancha y una hoja angosta, que corresponden a simera y bajera. #[b Ver p. 46.]
+            p.mb-4 Conozca otro tipo de trazo para el desarrollo de una manga sastre. Es importante mencionar que en todas se identifica una hoja ancha y una hoja angosta, que corresponden a simera y bajera. #[b Ver p. 46.]
             ul.lista-ul--color.color-white.fa-ul.mb-0
               li.mb-0
                 i.fas.fa-circle
                 | #[h4 PDF – Manual de patronaje básico e interpretación de diseños]   
-            p.mb-4 Identifica tipos de trazo para hacer el desarrollo de una manga. #[b Ver p. 74, 77.]
+            p.mb-4 Identifique tipos de trazo para hacer el desarrollo de una manga. #[b Ver p. 74, 77.]
             a.boton.color-acento-botones(:href="('https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CFE7A758461AB5A9DC7AF8DE14F9412D?sequence=1')" target="_blank")
               span Descargar
               i.fas.fa-file-download  
@@ -106,8 +106,11 @@
     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade")
       h5 Video 6. 
       span Trazo de chaqueta tipo sastre
-    
-    .row.fondo-cta.align-items-center.py-4(data-aos="fade")
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ZGgZuhG8L2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Trazo de chaqueta tipo sastre 
+    //.row.fondo-cta.align-items-center.py-4(data-aos="fade")
       .col-lg-12.col-12.px-lg-5.px-4
         .row.align-items-center.justify-content-center
 
@@ -121,7 +124,7 @@
                 span Consultar video
                 i.fas.fa-video
 
-    figcaption.mb-5(data-aos="fade") Nota. Tomado de SENA (2021c).
+    //figcaption.mb-5(data-aos="fade") Nota. Tomado de SENA (2021c).
 
     p.mb-4(data-aos="fade") Se debe tener en cuenta que las medidas implementadas o referenciadas en los videos son solo ejemplos y guías. Cada plano o cada uno tendrá referencias diferentes; esto depende del tipo de trazo, elementos o incluso el tipo de lápiz que se trabaje; #[b lo importante es siempre referenciar las medidas de aproximación del cliente con respecto al cuadro de tallas] o las medidas directamente del cliente y las fórmulas referenciadas.
     
@@ -184,8 +187,11 @@
     .titulo-sexto.color-primario(data-aos="fade")
       h5 Video 7.
       span Trazo manga chaqueta sastre femenina 
-    
-    .row.fondo-cta.align-items-center.py-4(data-aos="fade")
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/nf2vjjxt55Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Trazo manga chaqueta sastre femenina 
+    //.row.fondo-cta.align-items-center.py-4(data-aos="fade")
       .col-lg-12.col-12.px-lg-5.px-4
         .row.align-items-center.justify-content-center
 
@@ -199,7 +205,7 @@
                 span Consultar video
                 i.fas.fa-video
 
-    figcaption.mb-5(data-aos="fade") Nota. Tomado de SENA (2020l)
+    //figcaption.mb-5(data-aos="fade") Nota. Tomado de SENA (2020l)
 
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-2.col-md-1.w-60
@@ -223,7 +229,7 @@
         img(src="@/assets/curso/temas/t3/imag14.png" alt="En la imagen se presenta el patrón del despiece de la chaqueta. (Paso 2).")
         figcaption Nota. Tomada de Pinterest (2021).
     
-    p.mb-4(data-aos="fade") Para el desarrollo de los moldes de refuerzos, entretelas y forros, al igual que en las mangas, son elementos que no se identifican en la parte externa de la prenda, es decir, no se ven a través de una imagen, dibujo plano, incluso muestra físicas; sin embargo, son piezas que definitivamente complementan el desarrollo de la prenda.
+    p.mb-4(data-aos="fade") Para el desarrollo de los moldes de refuerzos, entretelas y forros, al igual que en las mangas, son elementos que no se identifican en la parte externa de la prenda, es decir, no se ven a través de una imagen, dibujo plano, incluso muestras físicas; sin embargo, son piezas que definitivamente complementan el desarrollo de la prenda.
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-4.col-md-7.mb-4(data-aos="fade-right")
@@ -238,7 +244,11 @@
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Video 8. 
           span Despiece chaqueta sastre femenina
-        .fondo-cta32.p-4
+        figure.mb-5
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/ZpaVPWnxItE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Video. Despiece chaqueta sastre femenina
+        //.fondo-cta32.p-4
           .row.justify-content-evenly.align-items-center
             .col-7.col-md-4.col-lg-3.mb-4.mb-md-0
               img(src="@/assets/curso/temas/t3/slider3.svg")
@@ -248,7 +258,7 @@
               a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=ZpaVPWnxItE&t=501s')" target="_blank")
                 span Consultar video
                 i.fas.fa-video
-        figcaption.mb-5(data-aos="fade") Nota. Tomado de SENA (2021c).
+        //figcaption.mb-5(data-aos="fade") Nota. Tomado de SENA (2021c).
     
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-8.col-md-10
@@ -261,8 +271,11 @@
     .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade")
       h5 Video 9. 
       span Chaqueta cuello alto traslados de pinza
-    
-    .row.fondo-cta.align-items-center.py-4(data-aos="fade")
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/yKwVapWExPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Chaqueta cuello alto traslados de pinza
+    //.row.fondo-cta.align-items-center.py-4(data-aos="fade")
       .col-lg-12.col-12.px-lg-5.px-4
         .row.align-items-center.justify-content-center
 
@@ -276,7 +289,7 @@
                 span Consultar video
                 i.fas.fa-video
 
-    figcaption(data-aos="fade") Nota. Tomado de SENA (2020f).
+    //figcaption(data-aos="fade") Nota. Tomado de SENA (2020f).
 
 
     Separador
@@ -287,7 +300,7 @@
       .col-lg-2.col-md-5.col-8.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/t3/imag17.svg', alt='')
       .col-lg-10.mb-4(data-aos="fade-left")
-        p La sastrería a medida es el método tradicional de confección, que consiste en disponer distintas capas de refuerzo y estructura, entretelas y forro. Estas telas van cosidas y trabajadas con vapor para dar forma y estabilidad a la prenda (no se utilizan nunca entretelas adhesivas). Para lograr un ajuste perfecto y evitar luego cambios importantes en el patrón, se confecciona primero una prenda de prueba, generalmente de percal o de algodón. Tradicionalmente, las prendas sastre a medida se ajustan cómodamente al cuerpo y permiten libertad de movimiento
+        p La sastrería a medida es el método tradicional de confección, que consiste en disponer distintas capas de refuerzo y estructura, entretelas y forro. Estas telas van cosidas y trabajadas con vapor para dar forma y estabilidad a la prenda (no se utilizan nunca entretelas adhesivas). Para lograr un ajuste perfecto y evitar luego cambios importantes en el patrón, se confecciona primero una prenda de prueba, generalmente de percal o de algodón. Tradicionalmente, las prendas sastre a medida se ajustan cómodamente al cuerpo y permiten libertad de movimiento.
 
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-2.col-md-1.w-60
@@ -429,8 +442,8 @@
           .col-md-7.col-lg-3.mb-4.mb-lg-0
             img(src='@/assets/curso/temas/t3/imag22.png', alt='')
           .col-md-12.col-lg-6
-            h4 Rectificar el pratrón
-            p Se comprueba cómo asienta la espalda y se presenta la holgura entre hombros y la parte de la espalda al mover los brazos. Se verifica la comodidad para la zona de cintura y las caderas, al sentarse. Además se observa la forma del cuerpo y el encajado con el escote. A continuación, se observan diferentes problemas, sus causas y la forma adecuada de corregirlos.         
+            h4 Rectificar el patrón
+            p Se comprueba cómo asienta la espalda y se presenta la holgura entre hombros y la parte de la espalda al mover los brazos. Se verifica la comodidad para la zona de cintura y las caderas, al sentarse. Además, se observa la forma del cuerpo y el encajado con el escote. A continuación, se observan diferentes problemas, sus causas y la forma adecuada de corregirlos.         
         .row.justify-content-center(titulo="3")
           .row.justify-content-center
             h4.text-center Corregir problemas de espalda en prototipo
@@ -537,7 +550,6 @@
       h5 Video 10.
       span Análisis e interpretación de capas
     
-    p(data-aos="fade") Conozca sobre la interpretación de capas.
     
     figure.mb-5(data-aos="fade-down")
       .video
@@ -548,7 +560,6 @@
       h5 Video 11.
       span Abrigo asimétrico
     
-    p(data-aos="fade") Conozca la asimetría de los abrigos.
 
     figure.mb-5(data-aos="fade-down")
       .video
@@ -559,7 +570,6 @@
       h5 Video 12.
       span Interpretación de pantalón sastre femenino.
     
-    p(data-aos="fade") Conozca sobre la Interpretación de pantalón sastre femenino.
 
     figure.mb-5(data-aos="fade-down")
       .video
@@ -570,7 +580,6 @@
       h5 Video 13.
       span Análisis e interpretación de pantalón sudadera.
     
-    p(data-aos="fade") Conozca el trazo del pantalón tipo sudadera.
 
     figure(data-aos="fade-down")
       .video

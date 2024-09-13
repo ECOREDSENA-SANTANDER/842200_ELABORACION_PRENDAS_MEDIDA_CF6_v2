@@ -11,7 +11,7 @@
       .col-lg-4.col-md-7.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/t2/imag01.png', alt='')
       .col-lg-8(data-aos="fade-left")
-        p La elaboración de prendas de vestir femeninas y masculinas exteriores, basadas en las medidas deducidas de cada cliente y en cuya construcción se aplican técnicas manuales específicas, recibe el nombre de sastrería. Los inicios de la sastrería datan de la antigua Roma, cuando era vista como un tarea simple realizada por los artesanos; su fin era satisfacer los caprichos de la clase dominante, conocida como los patricios. Ya durante la edad media, desaparece la túnica y se introducen prendas más ajustadas, generando la necesidad de ser más precisos en el calce y concibiendo desafíos para las personas que desempeñaban esta labor. Es en esos tiempos donde el sastre alcanza un nivel más artístico, pero es durante el renacimiento cuando los sastres y costureros llegan a ser considerados especialistas del arte de vestir. Sin embargo, aparece en el año 1820 el francés M. Guillermo Campaugne, con un método de corte y normas que transformaron por completo el oficio de sastre.
+        p La elaboración de prendas de vestir femeninas y masculinas exteriores, basadas en las medidas deducidas de cada cliente y en cuya construcción se aplican técnicas manuales específicas, recibe el nombre de sastrería. Los inicios de la sastrería datan de la antigua Roma, cuando era vista como una tarea simple realizada por los artesanos; su fin era satisfacer los caprichos de la clase dominante, conocida como los patricios. Ya durante la edad media, desaparece la túnica y se introducen prendas más ajustadas, generando la necesidad de ser más precisos en el calce y concibiendo desafíos para las personas que desempeñaban esta labor. Es en esos tiempos donde el sastre alcanza un nivel más artístico, pero es durante el renacimiento cuando los sastres y costureros llegan a ser considerados especialistas del arte de vestir. Sin embargo, aparece en el año 1820 el francés M. Guillermo Campaugne, con un método de corte y normas que transformaron por completo el oficio de sastre.
     
     
     Separador
@@ -196,7 +196,7 @@
     
     h4.text-center.mb-4(data-aos="fade-down") Pasos para realizar un ruedo con #[i roulette]
     p(data-aos="fade") El término #[i roulette] viene del verbo francés #[i rouler], que significa #[b ‘rodar’.] Este tipo de costura es utilizada para hacer dobladillos en prendas finas de tejidos livianos. Se tienen dos opciones: con técnica manual o con máquina de coser. A continuación, se presenta el paso a paso para realizarlo. 
-    p.mb-4(data-aos="fade") Conoce los pasos para hacer un ruedo tipo #[i roulette].
+    p.mb-4(data-aos="fade") Conozca los pasos para hacer un ruedo tipo #[i roulette].
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-4.col-md-6.mb-4

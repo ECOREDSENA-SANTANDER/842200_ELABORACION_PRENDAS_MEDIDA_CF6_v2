@@ -15,7 +15,7 @@
           )
           .bloque-texto-g__texto.p-4
             p.mb-0 El tizado, trazo y corte consiste en toda la optimización o acomodación de moldes sobre el material textil, las técnicas y conocimientos para el área de prototipado y el corte de una prenda. El proceso de trazo y corte es donde se procede a estudiar y analizar el mejor aprovechamiento de los tejidos mediante técnicas de marcadas, de lo que depende, en gran parte, la calidad de la confección de la prenda; por tal motivo, constituye una parte importante en el costo total del producto. #[br]
-              |  Video 1.
+            
 
     .titulo-sexto.color-primario(data-aos="fade")
       h5 Video 1.
@@ -53,10 +53,10 @@
       .col-lg-10
         .titulo-sexto.color-primario
           h5 Tabla 1.
-          span Almacenamiento en corte
+          span Mobiliario en el taller
         .tabla-b.color-acento-contenido.borde-top-table
           .tabla-b__header
-            h4.mb-0 Mobiliario
+            h4.mb-0 Descripción
           table
             caption Nota. Tomada de SENA (2021).
             tr.bg-white
@@ -75,18 +75,29 @@
           h5 Tabla 2.
           span Herramientas para cortar
         .tabla-b.color-acento-contenido.borde-top-table
-          .tabla-b__header
-            h4.mb-0 Herramientas corte
+          
           table
             caption Nota. Tomada de SENA (2021).
-            tr.bg-white
-              td #[b Tijeras de castellanas:] tienen los dos orificios para los dedos del mismo tamaño, suelen tener un tamaño medio y son bastante ligeras; se recomiendan para textiles de peso liviano.
-              td #[b Tijeras sastre:] por uno de los lados, la hoja no sobresale en su mango, permitiendo de esta manera apoyar la tijera en la mesa a la hora de cortar la tela. Se caracterizan por tener un tamaño y peso mayor, por lo que se recomienda ser utilizadas para textiles de peso mediano a alto.
-            tr
-              td #[b Tijeras de #[i zigzag]:] poseen dientes en las hojas, lo que crea un patrón de corte en #[i zigzag]. La función principal de este tipo de tijeras es la de evitar que se deshilache el textil después del corte.
-              td #[b Cortadores térmicos:] estos cortadores se emplean para el corte de acrílico y textiles. Una vez cortado, el corte queda sellado lo que evita que se deshilache.
-            tr.bg-white
-              td(colspan="2") #[b Cúter rotatorio:] se caracteriza por ser el mejor cortador para telas, lonas, láminas plásticas, hule, vinilos y otros materiales textiles, tejidos o no tejidos (fieltro). Su mango facilita el manejo, perfección y agilidad a la hora de cortar, por lo que se puede apoyar con reglas y elementos para la precisión del corte.      
+            thead
+              tr
+                th.w-25-th.tabla-b__header.h4.mb-0.txt-start Herramienta
+                th.tabla-b__header.h4.mb-0.txt-start Descripción
+            tbody
+              tr.bg-white
+                td #[b Tijeras de castellanas] 
+                td Tienen los dos orificios para los dedos del mismo tamaño, suelen tener un tamaño medio y son bastante ligeras; se recomiendan para textiles de peso liviano.
+              tr.bg-white  
+                td #[b Tijeras sastre] 
+                td Por uno de los lados, la hoja no sobresale en su mango, permitiendo de esta manera apoyar la tijera en la mesa a la hora de cortar la tela. Se caracterizan por tener un tamaño y peso mayor, por lo que se recomienda ser utilizadas para textiles de peso mediano a alto.
+              tr
+                td #[b Tijeras de #[i zigzag]] 
+                td Poseen dientes en las hojas, lo que crea un patrón de corte en #[i zigzag]. La función principal de este tipo de tijeras es la de evitar que se deshilache el textil después del corte.
+              tr.bg-white  
+                td #[b Cortadores térmicos] 
+                td Estos cortadores se emplean para el corte de acrílico y textiles. Una vez cortado, el corte queda sellado lo que evita que se deshilache.
+              tr.bg-white
+                td #[b Cúter rotatorio] 
+                td Se caracteriza por ser el mejor cortador para telas, lonas, láminas plásticas, hule, vinilos y otros materiales textiles, tejidos o no tejidos (fieltro). Su mango facilita el manejo, perfección y agilidad a la hora de cortar, por lo que se puede apoyar con reglas y elementos para la precisión del corte.      
     
 
     Separador
@@ -101,22 +112,26 @@
           h5 Tabla 3.
           span Anchos de telas
         .tabla-b.color-acento-contenido.borde-top-table
-          .tabla-b__header
-            h4.mb-0 División de anchos de fábrica
+          
           table
             caption Nota. Tomada de SENA (2021).
-            tr.bg-white
-              th.text-center Ancho simple
-              td Están elaborados a partir de 70 cm a 90 cm de ancho. En este grupo se encuentran: cambre, paños, fieltro, blonda, satén, lino, etc.
-            tr
-              th.text-center Ancho angosto
-              td Están elaborados a partir de 0,5 mm hasta 25 cm de ancho. En este grupo se encuentran: encajes, franjas, cintas, elásticos, etc. 
-            tr.bg-white
-              th.text-center Doble ancho
-              td Están elaborados a partir de 140 cm hasta 150 cm de ancho. En este grupo se encuentran: paños, tafetán, popelina, crepé, entretelas, #[i denim], etc.
-            tr
-              th.text-center Ancho especial
-              td Están elaborados a partir de 2,8 cm. En este grupo se encuentran: tapicería y decoración, etc.
+            thead
+              tr
+                th.w-35-th.tabla-b__header.h4.mb-0.txt-start Anchos de fábrica
+                th.tabla-b__header.h4.mb-0.txt-start Descripción
+            tbody
+              tr.bg-white
+                th Ancho simple
+                td Están elaborados a partir de 70 cm a 90 cm de ancho. En este grupo se encuentran: cambre, paños, fieltro, blonda, satén, lino, etc.
+              tr
+                th Ancho angosto
+                td Están elaborados a partir de 0,5 mm hasta 25 cm de ancho. En este grupo se encuentran: encajes, franjas, cintas, elásticos, etc. 
+              tr.bg-white
+                th Doble ancho
+                td Están elaborados a partir de 140 cm hasta 150 cm de ancho. En este grupo se encuentran: paños, tafetán, popelina, crepé, entretelas, #[i denim], etc.
+              tr
+                th Ancho especial
+                td Están elaborados a partir de 2,8 cm. En este grupo se encuentran: tapicería y decoración, etc.
     
     p.mb-4(data-aos="fade") Una parte muy importante de este proceso del extendido son los orillos de tela, los cuales son bordes longitudinales de la tela, que están tejidos con una apariencia diferente y densa. Surgen como consecuencia de tratamientos de humectación y secado que sufren las telas una vez han sido tejidas para su estabilización. Se perfora el tejido desde el revés hacia el derecho, por lo que, por regla general, las rebabas de las perforaciones en los orillos indican el derecho de la tela.
     
@@ -159,73 +174,77 @@
           span Componentes en prenda
 
         .tabla-b.color-acento-contenido.borde-top-table
-          .tabla-b__header
-            h4.mb-0 Tipos de componentes en prenda de vestir
+          
           table
             caption Nota. Tomada de SENA (2021).
-            tr.bg-white
-              td #[b Componentes exteriores:] son todas las partes del material textil base o textil con que está elaborada la prenda en el exterior. 
-              td.no-border-right
-                ul.lista-ul--color.color-secundario.f-12.mb-0
-                  li
-                    i.fas.fa-circle
-                    | Delanteros y posteriores.
-                  li
-                    i.fas.fa-circle
-                    | Cuellos.
-                  li.mb-0
-                    i.fas.fa-circle
-                    | Mangas.
-              td.no-border-left 
-                ul.lista-ul--color.color-secundario.f-12.mb-0
-                  li
-                    i.fas.fa-circle
-                    | Bolsillos.
-                  li
-                    i.fas.fa-circle
-                    | Puños.
-                  li.mb-0
-                    i.fas.fa-circle
-                    | Otros.
-            tr
-              td #[b Componentes interiores:] son todos aquellos elementos y partes que van en el interior o revés de la prenda.
-              td.no-border-right
-                ul.lista-ul--color.color-secundario.f-12.mb-0
-                  li
-                    i.fas.fa-circle
-                    | Forro.
-                  li.mb-0
-                    i.fas.fa-circle
-                    | Entretela.
-              td.no-border-left
-                ul.lista-ul--color.color-secundario.f-12.mb-0
-                  li
-                    i.fas.fa-circle
-                    | Guata.
-                  li.mb-0
-                    i.fas.fa-circle
-                    | Sesgo.
-            tr.bg-white
-              td #[b Hilos:] es uno de los elementos principales, son los que logran unir las diferentes partes de la prenda.
-              td.no-border-right
-                ul.lista-ul--color.color-secundario.f-12.mb-0
-                  li
-                    i.fas.fa-circle
-                    | Pespuntes.
-                  li.mb-0
-                    i.fas.fa-circle
-                    | Puntadas decorativas.
-              td.no-border-left
-                ul.lista-ul--color.color-secundario.f-12.mb-0
-                  li
-                    i.fas.fa-circle
-                    | Bastas. 
-                  li.mb-0
-                    i.fas.fa-circle
-                    | Puntadas manuales.
-            tr
-              td #[b Fornituras y complementos:] las fornituras son el conjunto de accesorios y adornos que puede llevar una prenda de vestir.
-              td(colspan="2") Botones, cremalleras, corchetes, broches de presión, hebillas, ojetes, vivos, puntillas, cintas, apliques, gomas, cordones, etc.
+            thead
+              tr
+                th.w-50-th.tabla-b__header.h4.mb-0.txt-start Tipos de componentes en prenda de vestir
+                th(colspan="2").tabla-b__header.h4.mb-0.txt-start Usos
+            tbody
+              tr.bg-white
+                td #[b Componentes exteriores:] son todas las partes del material textil base o textil con que está elaborada la prenda en el exterior. 
+                td.no-border-right
+                  ul.lista-ul--color.color-secundario.f-12.mb-0
+                    li
+                      i.fas.fa-circle
+                      | Delanteros y posteriores.
+                    li
+                      i.fas.fa-circle
+                      | Cuellos.
+                    li.mb-0
+                      i.fas.fa-circle
+                      | Mangas.
+                td.no-border-left 
+                  ul.lista-ul--color.color-secundario.f-12.mb-0
+                    li
+                      i.fas.fa-circle
+                      | Bolsillos.
+                    li
+                      i.fas.fa-circle
+                      | Puños.
+                    li.mb-0
+                      i.fas.fa-circle
+                      | Otros.
+              tr
+                td #[b Componentes interiores:] son todos aquellos elementos y partes que van en el interior o revés de la prenda.
+                td.no-border-right
+                  ul.lista-ul--color.color-secundario.f-12.mb-0
+                    li
+                      i.fas.fa-circle
+                      | Forro.
+                    li.mb-0
+                      i.fas.fa-circle
+                      | Entretela.
+                td.no-border-left
+                  ul.lista-ul--color.color-secundario.f-12.mb-0
+                    li
+                      i.fas.fa-circle
+                      | Guata.
+                    li.mb-0
+                      i.fas.fa-circle
+                      | Sesgo.
+              tr.bg-white
+                td #[b Hilos:] es uno de los elementos principales, son los que logran unir las diferentes partes de la prenda.
+                td.no-border-right
+                  ul.lista-ul--color.color-secundario.f-12.mb-0
+                    li
+                      i.fas.fa-circle
+                      | Pespuntes.
+                    li.mb-0
+                      i.fas.fa-circle
+                      | Puntadas decorativas.
+                td.no-border-left
+                  ul.lista-ul--color.color-secundario.f-12.mb-0
+                    li
+                      i.fas.fa-circle
+                      | Bastas. 
+                    li.mb-0
+                      i.fas.fa-circle
+                      | Puntadas manuales.
+              tr
+                td #[b Fornituras y complementos:] las fornituras son el conjunto de accesorios y adornos que puede llevar una prenda de vestir.
+                td(colspan="2") Botones, cremalleras, corchetes, broches de presión, hebillas, ojetes, vivos, puntillas, cintas, apliques, gomas, cordones, etc.
 
     .row.fondo-t1.align-items-center.py-4.mb-5
       .col-lg-12.col-12.px-lg-5.px-4
@@ -454,7 +473,7 @@
             .bg9.px-5.py-4.mb-4
               .titulo-sexto.color-primario.mb-2
                   h5 Figura 7.
-                  span Tailor tacks
+                  span #[i Tailor tacks]
               figure
                 img(src='@/assets/curso/temas/t1/figura7.png', alt='En la imagen se  presenta la marcación  con  puntadas sueltas en hebras de hilo rojo.')  
                 figcaption Nota. Tomada de SENA (2021).  
@@ -471,7 +490,7 @@
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
                 p.mb-0 #[b Anexo.] Corte de las telas. Conozca la importancia de examinar la tela para hacer un corte adecuado en el patronaje.
-          .tarjeta.color-acento-contenido.p-4(titulo="j) Textiles con <i>nap-vello</i> -pelusa de un textil:")
+          .tarjeta.color-acento-contenido.p-4(titulo="j) Textiles con <i>nap</i>-vello -pelusa de un textil:")
             p #[i Nap] es la textura de los textiles que van en una dirección particular; esta propiedad de la prenda es fundamental para garantizar su calidad. En algunos textiles se logra evidenciar el #[i nap] a simple vista, como en #[i velvet, fleece], piel sintética, #[i denim] cepillado, franela, gamuza sintética, sarga elástica, tela de felpa, etc. El #[i nap] es muy importante para determinar cómo se establece el patrón en el textil; en este caso, se trabaja siempre un trazo direccional, para lo cual se deben tener en cuenta los acabados de la prenda y determinar el consumo del textil.
             a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?app=desktop&v=OfsjJ8VdU8A&feature=youtu.be" target="_blank")
               .anexo__icono
@@ -570,7 +589,12 @@
       h5 Video 4.
       span Ejemplo de tipos de tendido con diferentes características del material
 
-    .row.fondo-cta.align-items-center.py-4(data-aos="fade")
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/-nkWodY_bPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Tipos de tendido con diferentes características del material
+
+    //.row.fondo-cta.align-items-center.py-4(data-aos="fade")
       .col-lg-12.col-12.px-lg-5.px-4
         .row.align-items-center.justify-content-center
 
@@ -584,7 +608,6 @@
                 span Consultar video
                 i.fas.fa-video
 
-    figcaption.mb-5(data-aos="fade") Nota. Tomado de SENA (2021b).
     
     h3(data-aos="fade-right") Marcación y revisión
     p.mb-4(data-aos="fade") Para realizar la marcación y revisión, se debe partir desde un fusionado. Una vez se cortan la tela y la entretela, existen piezas programadas para entretelar, por eso se requiere utilizar fusionado con calor o con técnica de sastre.

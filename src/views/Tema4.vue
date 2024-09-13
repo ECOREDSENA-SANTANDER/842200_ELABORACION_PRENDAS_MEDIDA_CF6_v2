@@ -28,13 +28,12 @@
       .col-lg-4.col-md-7.col-11.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/t4/imag03.png', alt='')
       .col-lg-8.mb-4(data-aos="fade-left")
-        p En el desarrollo de productos para la línea masculina, se identifican diferentes tipos de variaciones, dependiendo del costo de producción o línea de venta. En esta ocasión se va a hacer el desarrollo de una chaqueta bomber. Si bien la chaqueta bomber es una prenda informal o que puede ser categorizada dentro de un rango de prendas casuales, en esta ocasión se va a hacer el desarrollo partiendo desde la base sastre masculina. A la hora de patronar o desarrollar un producto, se debe tener en cuenta siempre el requerimiento de la empresa o cliente. Si lo que se busca es un estándar de calidad mayor o un costo de producción más elevado, lo ideal es asegurar la horma y el ajuste desde patronaje. Por eso, en esta ocasión se trabajará el desarrollo de la chaqueta partiendo desde una base sastre y no desde una base normal. 
+        p En el desarrollo de productos para la línea masculina, se identifican diferentes tipos de variaciones, dependiendo del costo de producción o línea de venta. En esta ocasión se va a hacer el desarrollo de una chaqueta #[i bomber]. Si bien la chaqueta #[i bomber] es una prenda informal o que puede ser categorizada dentro de un rango de prendas casuales, en esta ocasión se va a hacer el desarrollo partiendo desde la base sastre masculina. A la hora de patronar o desarrollar un producto, se debe tener en cuenta siempre el requerimiento de la empresa o cliente. Si lo que se busca es un estándar de calidad mayor o un costo de producción más elevado, lo ideal es asegurar la horma y el ajuste desde patronaje. Por eso, en esta ocasión se trabajará el desarrollo de la chaqueta partiendo desde una base sastre y no desde una base normal. 
       
     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
       h5 Video 14.
       span Base sastre masculina
     
-    p(data-aos="fade") Conozca sobre las bases del sastre masculino.
     
     figure.mb-5(data-aos="fade-down")
       .video
@@ -45,7 +44,6 @@
       h5 Video 15.
       span Trazo de chaqueta sastre masculina
     
-    p(data-aos="fade") Conozca sobre el trazo para las chaquetas tipo sastre masculina.
 
     figure.mb-5(data-aos="fade-down")
       .video
@@ -54,20 +52,17 @@
     
     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
       h5 Video 16.
-      span Interpretación de chaqueta bomber
-    
-    p(data-aos="fade") Conozca sobre las chaquetas bomber.
+      span Interpretación de chaqueta #[i bomber]
 
     figure.mb-5(data-aos="fade-down")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/oITM6TFD734" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Interpretación de chaqueta bomber.
+      figcaption Video. Interpretación de chaqueta #[i bomber].
     
     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
       h5 Video 17.
       span Generalidades de pantalón sastre masculino interpretación
     
-    p(data-aos="fade") Conozca sobre las generalidades de pantalón sastre masculino.
 
     figure(data-aos="fade-down")
       .video
