@@ -387,7 +387,7 @@
             h5 Figura 2.
             span Señalización en dos direcciones
           figure
-            img(src='@/assets/curso/temas/t1/acordion3.png', alt='En la imagen se presenta  la marcación en la tela en dos direcciones,  primero el trazo  representado en una flecha vertical de doble saeta,  luego el trazo  en el molde de  un bolsillo  con la flecha de doble saeta y posteriormente en el molde en la tela,   dos bolsillos  en diferentes sentidos,con las flechas hacía arriba y hacía abajo significando ambas direcciones.')      
+            img(src='@/assets/curso/temas/t1/acordion3.svg', alt='En la imagen se presenta  la marcación en la tela en dos direcciones,  primero el trazo  representado en una flecha vertical de doble saeta,  luego el trazo  en el molde de  un bolsillo  con la flecha de doble saeta y posteriormente en el molde en la tela,   dos bolsillos  en diferentes sentidos,con las flechas hacía arriba y hacía abajo significando ambas direcciones.')      
             figcaption Nota. Tomada de SENA (2021). 
       .row.justify-content-center(titulo="Trazo direccional")
         .col-md-2.col-4.mb-3
@@ -399,7 +399,7 @@
             h5 Figura 3.
             span Señalización en una dirección
           figure
-            img(src='@/assets/curso/temas/t1/acordion5.png', alt='La figura hace referencia a la señalización en una dirección, primero se presenta el trazo representado por dos flechas verticales hacía arriba y hacía abajo, también el marcado en el molde de un bolsillo con la flecha hacía arriba y finalmente dos bolsillos con el trazo en una sola dirección ambos, con las flechas hacía arriba')      
+            img(src='@/assets/curso/temas/t1/acordion5.svg', alt='La figura hace referencia a la señalización en una dirección, primero se presenta el trazo representado por dos flechas verticales hacía arriba y hacía abajo, también el marcado en el molde de un bolsillo con la flecha hacía arriba y finalmente dos bolsillos con el trazo en una sola dirección ambos, con las flechas hacía arriba')      
             figcaption Nota. Tomada de SENA (2021). 
 
       .row.justify-content-center(titulo="Trazo en sesgo - vello en diagonal")
@@ -413,7 +413,7 @@
             h5 Figura 4.
             span Señalización para sesgar
           figure
-            img(src='@/assets/curso/temas/t1/acordion7.png', alt='En la imagen se representa la señalización para sesgar con tres flechas diagonales, la primera flecha con la saeta hacía abajo la segunda con la saeta hacía arriba y la tercera en doble saeta, también se presenta el trazado sobre el molde del bolsillo representado con flecha con doble saeta y el marcado en la tela sobre el bolsillo inclinado en diagonal hacía la izquierda.')
+            img(src='@/assets/curso/temas/t1/acordion7.svg', alt='En la imagen se representa la señalización para sesgar con tres flechas diagonales, la primera flecha con la saeta hacía abajo la segunda con la saeta hacía arriba y la tercera en doble saeta, también se presenta el trazado sobre el molde del bolsillo representado con flecha con doble saeta y el marcado en la tela sobre el bolsillo inclinado en diagonal hacía la izquierda.')
             figcaption Nota. Tomada de SENA (2021). 
 
     .row.justify-content-center(data-aos="fade-down")
@@ -456,7 +456,7 @@
                   h5 Figura 5.
                   span Acomodación de patrones
               figure
-                img(src='@/assets/curso/temas/t1/figura5.png', alt='En la figura se disponen sobre la tela extendida los diferentes patrones.')  
+                img(src='@/assets/curso/temas/t1/figura5.svg', alt='En la figura se disponen sobre la tela extendida los diferentes patrones.')  
                 figcaption Nota. Tomada de SENA (2021). 
             p De acuerdo con lo anterior, es importante saber cómo transferir patrones. Para transferir patrones al textil, existen dos formas que son las más implementadas: marcar con tiza o jabón y pinar o utilizar alfileres.      
           .tarjeta.color-acento-contenido.p-4(titulo="d) Pesas para sujetar:")

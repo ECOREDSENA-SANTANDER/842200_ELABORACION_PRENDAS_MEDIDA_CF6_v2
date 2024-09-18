@@ -42,7 +42,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 10.
               span Puntada de pespunte o continua
-            img(src='@/assets/curso/temas/t2/slyder.png' alt='En la imagen hay un dibujo en el que con aguja e hilo sobre un trozo de tela se presenta la puntada de pespunte continua.')
+            img(src='@/assets/curso/temas/t2/slyder.svg' alt='En la imagen hay un dibujo en el que con aguja e hilo sobre un trozo de tela se presenta la puntada de pespunte continua.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).       
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -50,7 +50,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 11.
               span  Puntada punto atrás posterior o máquina
-            img(src='@/assets/curso/temas/t2/slyder2.png' alt='En la imagen hay un dibujo en el que con aguja e hilo se presenta la puntada punto atrás posterior o máquina.')
+            img(src='@/assets/curso/temas/t2/slyder2.svg' alt='En la imagen hay un dibujo en el que con aguja e hilo se presenta la puntada punto atrás posterior o máquina.')
             figcaption Nota. Tomada de Celestecielo (2018).       
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -58,7 +58,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 12.
               span  Punto de hilván
-            img(src='@/assets/curso/temas/t2/slyder3.png' alt='En la imagen hay un dibujo en el que con aguja e hilo se presenta la puntada de hilván.')
+            img(src='@/assets/curso/temas/t2/slyder3.svg' alt='En la imagen hay un dibujo en el que con aguja e hilo se presenta la puntada de hilván.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -74,7 +74,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 14.
               span  Puntada de bastilla o de frunce
-            img(src='@/assets/curso/temas/t2/slyder5.png' alt='En la imagen se presenta un dibujo que representa la puntada de bastilla o de frunce.')
+            img(src='@/assets/curso/temas/t2/slyder5.svg' alt='En la imagen se presenta un dibujo que representa la puntada de bastilla o de frunce.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -82,7 +82,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 15.
               span Puntada de sobrehilado
-            img(src='@/assets/curso/temas/t2/slyder6.png' alt='En la imagen hay un dibujo de un trozo de tela en el que con aguja e hilo se presenta la puntada de sobrehilado.')
+            img(src='@/assets/curso/temas/t2/slyder6.svg' alt='En la imagen hay un dibujo de un trozo de tela en el que con aguja e hilo se presenta la puntada de sobrehilado.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -90,7 +90,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 16.
               span Punto de lado o inglés (para dobladillos)
-            img(src='@/assets/curso/temas/t2/slyder7.png' alt='En la imagen hay un dibujo de un trozo de tela con aguja e hilo en el que se presenta el punto de lado utilizado para dobladillos.')
+            img(src='@/assets/curso/temas/t2/slyder7.svg' alt='En la imagen hay un dibujo de un trozo de tela con aguja e hilo en el que se presenta el punto de lado utilizado para dobladillos.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -98,7 +98,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 17.
               span Puntada doble sobrehilado
-            img(src='@/assets/curso/temas/t2/slyder8.png' alt='En la imagen hay un dibujo de un trozo de tela con aguja e hilo en el que se presenta la puntada doble sobrehilado.')
+            img(src='@/assets/curso/temas/t2/slyder8.svg' alt='En la imagen hay un dibujo de un trozo de tela con aguja e hilo en el que se presenta la puntada doble sobrehilado.')
             figcaption Nota. Tomada de Celestecielo (2018).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -106,7 +106,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 18.
               span Punto de picado o espiga
-            img(src='@/assets/curso/temas/t2/slyder9.png' alt='En la imagen hay un dibujo en el que con aguja e hilo se presenta la puntada de picado o espiga, de arriba hacía abajo y de abajo hacía arriba.')
+            img(src='@/assets/curso/temas/t2/slyder9.svg' alt='En la imagen hay un dibujo en el que con aguja e hilo se presenta la puntada de picado o espiga, de arriba hacía abajo y de abajo hacía arriba.')
             p Se hace de arriba hacia abajo o de abajo hacia arriba, dando pequeñas puntadas con regularidad, que calen muy poco por el otro lado. Se utiliza para unir la entretela con el tejido exterior.
             figcaption Nota. Tomada de Hymsa (1991).      
       .tarjeta.color-acento-contenido.p-4
@@ -115,7 +115,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 19.
               span Punto deslizado
-            img(src='@/assets/curso/temas/t2/slyder10.png' alt='En la imagen hay un dibujo en el que con aguja e hilo se presenta el punto deslizado.')
+            img(src='@/assets/curso/temas/t2/slyder10.svg' alt='En la imagen hay un dibujo en el que con aguja e hilo se presenta el punto deslizado.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -123,7 +123,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 20.
               span Puntada invisible 
-            img(src='@/assets/curso/temas/t2/slyder11.png' alt='En la imagen hay un dibujo de un trozo de tela en el que, con aguja e hilo, se presenta la puntada invisible.')
+            img(src='@/assets/curso/temas/t2/slyder11.svg' alt='En la imagen hay un dibujo de un trozo de tela en el que, con aguja e hilo, se presenta la puntada invisible.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -131,7 +131,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 21.
               span Punto de cruz
-            img(src='@/assets/curso/temas/t2/slyder12.png' alt='En la imagen hay un dibujo de un trozo de tela en el que, con aguja e hilo, se presenta el punto de cruz.')
+            img(src='@/assets/curso/temas/t2/slyder12.svg' alt='En la imagen hay un dibujo de un trozo de tela en el que, con aguja e hilo, se presenta el punto de cruz.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -139,7 +139,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 22.
               span Puntada de filete, festón o manta
-            img(src='@/assets/curso/temas/t2/slyder13.png' alt='En la imagen hay un dibujo de un trozo de tela, en el que , con aguja e hilo se presenta la puntada de filete, festón o manta.')
+            img(src='@/assets/curso/temas/t2/slyder13.svg' alt='En la imagen hay un dibujo de un trozo de tela, en el que , con aguja e hilo se presenta la puntada de filete, festón o manta.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -147,7 +147,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 23.
               span Puntada cadeneta
-            img(src='@/assets/curso/temas/t2/slyder14.png' alt='En la imagen hay un dibujo de la puntada cadeneta.')
+            img(src='@/assets/curso/temas/t2/slyder14.svg' alt='En la imagen hay un dibujo de la puntada cadeneta.')
             figcaption Nota. Tomada de Hymsa (1991).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -155,7 +155,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 24.
               span Puntada de ojal
-            img(src='@/assets/curso/temas/t2/slyder15.png' alt='En la imagen hay un dibujo en el que en un trozo de tela, con aguja e hilo, se presenta la puntada de ojal.')
+            img(src='@/assets/curso/temas/t2/slyder15.svg' alt='En la imagen hay un dibujo en el que en un trozo de tela, con aguja e hilo, se presenta la puntada de ojal.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).       
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -163,7 +163,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 25.
               span Hilván flojo
-            img(src='@/assets/curso/temas/t2/slyder16.png' alt='En la imagen hay dos dibujos , en el primero , en un trozo de tela con aguja e hilo se presenta la puntada hilván flojo y en el segundo el trozo de tela se levanta para dejarla ver.')
+            img(src='@/assets/curso/temas/t2/slyder16.svg' alt='En la imagen hay dos dibujos , en el primero , en un trozo de tela con aguja e hilo se presenta la puntada hilván flojo y en el segundo el trozo de tela se levanta para dejarla ver.')
             figcaption Nota. Tomada de Manos Maravillosas (2019).      
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
@@ -171,7 +171,7 @@
             .titulo-sexto.color-secundario.mb-2
               h5 Figura 26.
               span Puntada escapulario o gaviado
-            img(src='@/assets/curso/temas/t2/slyder17.png' alt='En la imagen hay un dibujo en el que, con aguja e hilo, se presenta la puntada escapulario o gaviado.')
+            img(src='@/assets/curso/temas/t2/slyder17.svg' alt='En la imagen hay un dibujo en el que, con aguja e hilo, se presenta la puntada escapulario o gaviado.')
             figcaption Nota. Tomada de Celestecielo (2018).
 
     .titulo-sexto.color-primario(data-aos="fade")
@@ -336,7 +336,7 @@
     
     .row.align-items-center
       .col-lg-4.col-md-8.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/temas/t2/imag12.png', alt='En la figura se presenta esquema del molde para hombreras, con las instrucciones sobre el procedimiento que se debe seguir para su preparación y detalles de las piezas.')
+        img(src='@/assets/curso/temas/t2/imag12.svg', alt='En la figura se presenta esquema del molde para hombreras, con las instrucciones sobre el procedimiento que se debe seguir para su preparación y detalles de las piezas.')
       .col-lg-8(data-aos="fade-left")
         ul.lista-ul--color.color-acento-botones.lista-ul--separador.fa-ul
           li 

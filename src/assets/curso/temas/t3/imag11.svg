@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="375" viewBox="0 0 400 375">
+  <g id="Grupo_1066268" data-name="Grupo 1066268" transform="translate(-810 -5283)">
+    <g id="Figura_33_Borra_flojo_paso2" data-name="Figura 33_Borra_flojo_paso2" transform="translate(810 5283)" fill="#fff" stroke="#025157" stroke-width="2">
+      <rect width="400" height="375" rx="20" stroke="none"/>
+      <rect x="1" y="1" width="398" height="373" rx="19" fill="none"/>
+    </g>
+    <path id="Trazado_777461" data-name="Trazado 777461" d="M-3834-6237.514c8.016-3.31,17.394-3.1,28.974-21.149.243-.377.615-.983.979-1.605,11.391-19.444,16.453-42.2,48.516-49.232,32.484,3.723,54,49.96,55.265,50.837s14.344,16.6,21.094,21.149C-3681.7-6177.524-3672-6031.9-3672-6031.9l-43.031,2.9,1.687-166.314s-15.609,146.456-24.047,166.314c-35.016-.828-84.8-2.9-84.8-2.9S-3825.984-6196.969-3834-6237.514Z" transform="translate(4743 11667)" fill="#f5947a" opacity="0.15"/>
+    <path id="Trazado_777462" data-name="Trazado 777462" d="M-3678.234-6248.07c1.266.877,14.344,16.6,21.094,21.148-2.531,59.989,7.172,205.618,7.172,205.618l-43.031,2.9,1.688-166.314,5.063-53.369S-3679.5-6248.948-3678.234-6248.07Z" transform="translate(4720.969 11656.407)" fill="#73d8c0"/>
+    <text id="Cimera" transform="translate(834 5403)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Cimera</tspan></text>
+    <text id="Bajera" transform="translate(1102 5583)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Bajera</tspan></text>
+    <text id="Borra_flojo" data-name="Borra
+flojo" transform="translate(1125 5322)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Borra</tspan><tspan x="0" y="21">flojo</tspan></text>
+    <line id="Línea_395" data-name="Línea 395" x2="242" transform="translate(865.5 5357.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_397" data-name="Línea 397" x2="209" transform="translate(882.5 5428.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_398" data-name="Línea 398" x2="209" transform="translate(882.5 5519.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_396" data-name="Línea 396" x2="242" transform="translate(865.5 5637.999)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_399" data-name="Línea 399" y2="284" transform="translate(990 5357.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <rect id="Rectángulo_374747" data-name="Rectángulo 374747" width="167" height="26" transform="translate(904 5305)" fill="#f5947a"/>
+  </g>
+</svg>

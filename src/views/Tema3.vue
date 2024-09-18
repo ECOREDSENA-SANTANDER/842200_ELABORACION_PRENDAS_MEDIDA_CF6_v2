@@ -27,7 +27,7 @@
         .titulo-sexto.color-secundario.mb-2
           h5 Figura 29.
           span Trazo de la manga sin inclinación
-        img(src="@/assets/curso/temas/t3/imag02.png" alt="En la figura se presenta dibujo de modelo con tela sobrepuesta que indica el trazo de manga convencional sin inclinación del brazo, así como el respectivo molde.")
+        img(src="@/assets/curso/temas/t3/imag02.svg" alt="En la figura se presenta dibujo de modelo con tela sobrepuesta que indica el trazo de manga convencional sin inclinación del brazo, así como el respectivo molde.")
         figcaption Nota. Tomada de SENA (2021). 
       .col-lg-8.mb-4
         p Cuando se habla de prendas sastre, son todas aquellas que permiten o fortalecen una buena postura sobre el cuerpo, en este caso, la manga sastre lleva la inclinación anatómica del brazo, es decir, desde el plano se genera una serie de pinzas que permiten tener en la prenda o en la manga la forma anatómica del cuerpo. 
@@ -36,7 +36,7 @@
           span Trazo de la manga con inclinación
         .row
           .col-lg-6.mb-3.mb-lg-0
-            img(src="@/assets/curso/temas/t3/imag03.png" alt="En la figura se presenta el mismo dibujo de la figura anterior pero esta vez con tela sobrepuesta para indicar trazo de manga con inclinación anatómica del brazo  y el molde en la respectiva tela con indicación de la pinza y la bajera. ")
+            img(src="@/assets/curso/temas/t3/imag03.svg" alt="En la figura se presenta el mismo dibujo de la figura anterior pero esta vez con tela sobrepuesta para indicar trazo de manga con inclinación anatómica del brazo  y el molde en la respectiva tela con indicación de la pinza y la bajera. ")
             figcaption Nota. Tomada de SENA (2021). 
           .col-lg-6
             p Conocer el trazo de las mangas es muy importante para el proceso de un sastre. A continuación, se puede identificar que, sin importar el tipo de trazo, explicación o metodología, la funcionalidad y el objetivo principal de la pieza, en este caso la manga sastre, deben apuntar a lo mismo: cubrir el brazo dando la forma anatómica del cuerpo.
@@ -158,13 +158,13 @@
                     .titulo-sexto.color-acento-contenido.mb-2
                       h5 Figura 32.  
                       span Borra flojo paso 1
-                    img(src="@/assets/curso/temas/t3/imag09.png" alt="En la figura se detalla en un molde de una manga de sastre el trazado de una pieza denominada borra flojo la cual tiene una forma curva y va en el borde de la cimera.")
+                    img(src="@/assets/curso/temas/t3/imag09.svg" alt="En la figura se detalla en un molde de una manga de sastre el trazado de una pieza denominada borra flojo la cual tiene una forma curva y va en el borde de la cimera.")
                     figcaption.mb-4 Nota. Tomada de SENA (2021).
                   .col-md-6.col-lg-5.mb-3
                     .titulo-sexto.color-acento-contenido.mb-2
                       h5 Figura 33. 
                       span Borra flojo paso 2
-                    img(src="@/assets/curso/temas/t3/imag11.png" alt="Al igual que en la figura anterior se detalla en un molde de una manga de sastre el trazado de una pieza denominada borra flojo la cual tiene una forma recta en sentido horizontal y va separada de la cimera.")
+                    img(src="@/assets/curso/temas/t3/imag11.svg" alt="Al igual que en la figura anterior se detalla en un molde de una manga de sastre el trazado de una pieza denominada borra flojo la cual tiene una forma recta en sentido horizontal y va separada de la cimera.")
                     figcaption.mb-4 Nota. Tomada de SENA (2021).
                 .row.justify-content-center
                   .col-md-6.col-lg-5.mb-3
@@ -265,7 +265,7 @@
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 39. 
           span Cuello alto
-        img(src="@/assets/curso/temas/t3/imag16.png" alt="En la figura se detallan los trazos para cuello alto en chaqueta de frente y de espaldas, señalando las líneas para cuello alto con pinza y manga tipo sastre con pinza.")
+        img(src="@/assets/curso/temas/t3/imag16.svg" alt="En la figura se detallan los trazos para cuello alto en chaqueta de frente y de espaldas, señalando las líneas para cuello alto con pinza y manga tipo sastre con pinza.")
         figcaption Nota. Tomada de SENA (2021).
     
     .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade")
@@ -338,8 +338,8 @@
     
     p.mb-4(data-aos="fade") La prenda sastre se forra según un patrón preciso. Para ello, es necesario ajustar al contorno del cuerpo y al mismo tiempo resultar cómoda y permitir una buena movilidad. Como dato importante, en la sastrería, la chaqueta siempre lleva forro para proteger el entretelado.
     
-    .row.align-items-center.justify-content-center.mb-5(data-aos="fade-down")
-      .col-lg-10
+    .row.justify-content-center.mb-5(data-aos="fade-down")
+      .col-sm-12.col-lg-7
         .titulo-sexto.color-primario
           h5 Tabla 6.
           span El traje femenino
@@ -347,15 +347,7 @@
           .tabla-b__header
             h4.mb-0 Análisis del traje sastre femenino
           table
-            caption Nota. Tomada de SENA (2021).
             tr.bg-white
-              td.col-40(rowspan="11")
-                .titulo-sexto.color-primario
-                  h5 Figura 42.
-                  span Partes del traje sastre falda
-                figure
-                  img(src="@/assets/curso/temas/t3/imag20.png" alt="En la imagen se incluye fotografía de modelo con traje sastre falda, en la que se detallan cada una de sus partes así: Costura de cuello, Abertura de bocamanga, bolsillo ribeteado, forro de la chaqueta, hombreras, corona de la manga, manga encajada, pasador de cinturón, largo de la chaqueta, el bajo de la falda.")
-                  figcaption Nota. Tomada de Kinderley (2005).
               td #[b Costura del cuello:] une el cuello con la solapa.  
             tr
               td #[b Ojales ribeteados:] son terminados a mano por el derecho de la prenda sastre. Los botones se cosen con el cuello ya armado.
@@ -377,7 +369,13 @@
               td #[b Largo de la chaqueta:] un modelo clásico llega por debajo de la altura de cadera.
             tr.bg-white
               td #[b El bajo de la falda:] debe quedar más largo que el del forro y debe estar suelto para que caiga mejor y evitar que tire.
-    
+      .col-sm-12.col-lg-5
+        .titulo-sexto.color-primario
+          h5 Figura 42.
+          span Partes del traje sastre falda
+        figure
+          img(src="@/assets/curso/temas/t3/imag38.png" alt="En la imagen se incluye fotografía de modelo con traje sastre falda, en la que se detallan cada una de sus partes así: Costura de cuello, Abertura de bocamanga, bolsillo ribeteado, forro de la chaqueta, hombreras, corona de la manga, manga encajada, pasador de cinturón, largo de la chaqueta, el bajo de la falda.")
+          
     p.mb-4(data-aos="fade") A continuación, se presenta un ejemplo para la elaboración del toile.
 
     SlyderF.t33.mb-5(columnas="col-lg-4" data-aos="fade-down")
@@ -502,36 +500,32 @@
     
     p.mb-4(data-aos="fade") El patrón de la entretela se realiza utilizando el mismo de la pieza original. Para ello se debe tener en cuenta que no siempre toda la entretela quedará sujeta, en algunos modelos quedará sin costura en alguno de sus lados para facilitar el movimiento.
     
-    .titulo-sexto.color-acento-contenido.mb-2
-      h5 Tabla 7.
-      span Corte de entretelas
-
-    .tabla-b.color-acento-contenido.borde-top-table.table33
-        .tabla-b__header
-          span
-        table
-          tr
-            td.col-33
-              .titulo-sexto.color-acento-contenido.mb-2
-                h5 Figura 43. 
-                span Entretelado 1
-              img.mb-4(src="@/assets/curso/temas/t3/imag34.png" alt="En la figura se presenta el patrón de la entretela indicando expresamente el corte y el proceso de entretelado.")
-              p.mb-4 Se debe tomar como guía el patrón del frente, bajar 5 cm desde la sisa por el costado y realizar la forma pasando por la separación de busto hasta la cintura.
-              figcaption Nota. Tomada de Kinderley (2005).
-            td.col-33 
-              .titulo-sexto.color-acento-contenido.mb-2
-                h5 Figura 44. 
-                span Entretelado 2
-              img.mb-4(src="@/assets/curso/temas/t3/imag35.png" alt="Al igual que en al figura anterior se presenta el patrón de la entretela de una pieza indicando medidas precisas y línea de costura de la espalda, línea de costura de la sisa.")
-              p.mb-4 En este paso, se debe bajar 5 cm por costado, partiendo de la sisa; por el centro espalda bajar 12.5 cm y unir los puntos con línea curveada, como presenta la figura. Además, se deben trasladar pinzas, costuras y piquetes a la entretela.
-              figcaption Nota. Tomada de Kinderley (2005).
-            td.col-33 
-              .titulo-sexto.color-acento-contenido.mb-2
-                h5 Figura 45. 
-                span Entretelado 3
-              img.mb-4(src="@/assets/curso/temas/t3/imag36.png" alt="Sobre un dibujo se indican y se señalan con puntos la manera exacta de hacer el entretelado en tejidos que ceden.")
-              p.mb-4 Para los tejidos que ceden, esta sería la opción adecuada: marcar 5 cm bajando por el costado y, partiendo de la sisa, por el centro espalda, bajar 2.5 cm. Unir ambos puntos con curva y, al final, montar los bordes del centro y coser solo por la línea de costura.
-              figcaption Nota. Tomada de Kinderley (2005).
+    h4.mb-5.text-center Corte de entretelas
+    .row.justify-content-center.mb-5
+      .col-sm-12.col-lg-4
+        .bg10.p-4
+            .titulo-sexto.color-acento-contenido.mb-2
+              h5 Figura 43. 
+              span Entretelado 1
+            img.mb-4(src="@/assets/curso/temas/t3/imag34.png" alt="En la figura se presenta el patrón de la entretela indicando expresamente el corte y el proceso de entretelado.")
+            p.mb-4 Se debe tomar como guía el patrón del frente, bajar 5 cm desde la sisa por el costado y realizar la forma pasando por la separación de busto hasta la cintura.
+            figcaption Nota. Tomada de Kinderley (2005).
+      .col-sm-12.col-lg-4
+        .bg10.p-4
+            .titulo-sexto.color-acento-contenido.mb-2
+              h5 Figura 44. 
+              span Entretelado 2
+            img.mb-4(src="@/assets/curso/temas/t3/imag35.png" alt="Al igual que en al figura anterior se presenta el patrón de la entretela de una pieza indicando medidas precisas y línea de costura de la espalda, línea de costura de la sisa.")
+            p.mb-4 En este paso, se debe bajar 5 cm por costado, partiendo de la sisa; por el centro espalda bajar 12.5 cm y unir los puntos con línea curveada, como presenta la figura. Además, se deben trasladar pinzas, costuras y piquetes a la entretela.
+            figcaption Nota. Tomada de Kinderley (2005).
+      .col-sm-12.col-lg-4
+        .bg10.p-4
+          .titulo-sexto.color-acento-contenido.mb-2
+            h5 Figura 45. 
+            span Entretelado 3
+          img.mb-4(src="@/assets/curso/temas/t3/imag36.png" alt="Sobre un dibujo se indican y se señalan con puntos la manera exacta de hacer el entretelado en tejidos que ceden.")
+          p.mb-4 Para los tejidos que ceden, esta sería la opción adecuada: marcar 5 cm bajando por el costado y, partiendo de la sisa, por el centro espalda, bajar 2.5 cm. Unir ambos puntos con curva y, al final, montar los bordes del centro y coser solo por la línea de costura.
+          figcaption Nota. Tomada de Kinderley (2005).
 
 
     Separador

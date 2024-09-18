@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="375" viewBox="0 0 400 375">
+  <g id="Grupo_1066269" data-name="Grupo 1066269" transform="translate(-390 -5283)">
+    <g id="Figura_32_Borra_flojo_paso1" data-name="Figura 32_Borra_flojo_paso1" transform="translate(390 5283)" fill="#fff" stroke="#025157" stroke-width="2">
+      <rect width="400" height="375" rx="20" stroke="none"/>
+      <rect x="1" y="1" width="398" height="373" rx="19" fill="none"/>
+    </g>
+    <path id="Trazado_777460" data-name="Trazado 777460" d="M-3834-6222.5c9.5-4,20.615-3.748,34.34-25.56.288-.456.729-1.188,1.16-1.94,13.5-23.5,19.5-51,57.5-59.5,38.5,4.5,64,60.38,65.5,61.44s17,20.06,25,25.56c-3,72.5,8.5,248.5,8.5,248.5l-51,3.5,2-201s-18.5,177-28.5,201c-41.5-1-100.5-3.5-100.5-3.5S-3824.5-6173.5-3834-6222.5Z" transform="translate(4309 11612)" fill="#f5947a" opacity="0.15"/>
+    <path id="Trazado_777137" data-name="Trazado 777137" d="M-3675.5-6248.06c1.5,1.06,17,20.06,25,25.56-3,72.5,8.5,248.5,8.5,248.5l-51,3.5,2-201,6-64.5S-3677-6249.12-3675.5-6248.06Z" transform="translate(4309 11612)" fill="#73d8c0"/>
+    <path id="Trazado_777459" data-name="Trazado 777459" d="M-3798.5-6250c13.5-23.5,19.5-51,57.5-59.5,38.5,4.5,64,60.38,65.5,61.44s-9.5,12.56-9.5,12.56-32.995-59-56-59-45.5,56.5-45.5,56.5S-3798.932-6249.248-3798.5-6250Z" transform="translate(4309 11612)" fill="#f5947a"/>
+    <text id="Cimera" transform="translate(421 5356)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Cimera</tspan></text>
+    <text id="Bajera" transform="translate(686 5559)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Bajera</tspan></text>
+    <text id="Borra_flojo" data-name="Borra
+flojo" transform="translate(706 5335)" fill="#12263f" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Borra</tspan><tspan x="0" y="21">flojo</tspan></text>
+    <line id="Línea_390" data-name="Línea 390" x2="293" transform="translate(421.5 5302.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_393" data-name="Línea 393" x2="293" transform="translate(421.5 5641.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_391" data-name="Línea 391" x2="251" transform="translate(442.5 5388.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_392" data-name="Línea 392" x2="251" transform="translate(442.5 5497)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_394" data-name="Línea 394" y2="339" transform="translate(568.5 5302.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Grupo_1066267" data-name="Grupo 1066267" transform="translate(5131 11629)">
+      <path id="Línea_395" data-name="Línea 395" d="M7.522,26.147l-8-26L.478-.147l8,26Z" transform="translate(-4513.5 -6205.5)" fill="#707070"/>
+      <path id="Línea_396" data-name="Línea 396" d="M.291,15.407l-.581-.814,21-15,.581.814Z" transform="translate(-4526.5 -6200.5)" fill="#707070"/>
+      <circle id="Elipse_4768" data-name="Elipse 4768" cx="5.5" cy="5.5" r="5.5" transform="translate(-4521 -6215)" fill="#fff"/>
+      <path id="Elipse_4768_-_Contorno" data-name="Elipse 4768 - Contorno" d="M5.5,1A4.5,4.5,0,1,0,10,5.5,4.505,4.505,0,0,0,5.5,1m0-1A5.5,5.5,0,1,1,0,5.5,5.5,5.5,0,0,1,5.5,0Z" transform="translate(-4521 -6215)" fill="#707070"/>
+      <circle id="Elipse_4769" data-name="Elipse 4769" cx="5.5" cy="5.5" r="5.5" transform="translate(-4507 -6209)" fill="#fff"/>
+      <path id="Elipse_4769_-_Contorno" data-name="Elipse 4769 - Contorno" d="M5.5,1A4.5,4.5,0,1,0,10,5.5,4.505,4.505,0,0,0,5.5,1m0-1A5.5,5.5,0,1,1,0,5.5,5.5,5.5,0,0,1,5.5,0Z" transform="translate(-4507 -6209)" fill="#707070"/>
+    </g>
+  </g>
+</svg>
