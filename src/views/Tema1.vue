@@ -17,9 +17,7 @@
             p.mb-0 El tizado, trazo y corte consiste en toda la optimización o acomodación de moldes sobre el material textil, las técnicas y conocimientos para el área de prototipado y el corte de una prenda. El proceso de trazo y corte es donde se procede a estudiar y analizar el mejor aprovechamiento de los tejidos mediante técnicas de marcadas, de lo que depende, en gran parte, la calidad de la confección de la prenda; por tal motivo, constituye una parte importante en el costo total del producto. #[br]
             
 
-    .titulo-sexto.color-primario(data-aos="fade")
-      h5 Video 1.
-      span Introducción trazo y corte
+    
 
     .row.fondo-cta.align-items-center.py-4(data-aos="fade")
       .col-lg-12.col-12.px-lg-5.px-4
@@ -297,9 +295,7 @@
                 h4.text-center Consumo:
                 p.text-center Cortar solamente lo necesario para evitar más consumo de tela, controlando el desperdicio, de acuerdo con la acomodación de los moldes. 
     
-    .titulo-sexto.color-primario
-      h5 Video 2.
-      span Proceso de extendido
+   
 
     .row.fondo-cta2.align-items-center.py-4(data-aos="fade")
       .col-lg-12.col-12.px-lg-5.px-4
@@ -496,7 +492,7 @@
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
-                p.mb-0 #[b  Video 3.] Características del material desde trazo y corte. Conozca las características especiales de gran parte de materiales textiles y algunas recomendaciones respecto a su proceso de tendido, marcado y corte.
+                p.mb-0 Anexo - Características del material desde trazo y corte. Conozca las características especiales de gran parte de materiales textiles y algunas recomendaciones respecto a su proceso de tendido, marcado y corte, se invita a revisar el siguiente enlace.
       .col-lg-3.col-md-5.col-7(data-aos="fade-left")
         img(src='@/assets/curso/temas/t1/imag06.png', alt='')
       
@@ -585,28 +581,11 @@
                 i.fas.fa-angle-right
                 | Fijar los patrones con alfileres.
       
-    .titulo-sexto.color-primario(data-aos="fade")
-      h5 Video 4.
-      span Ejemplo de tipos de tendido con diferentes características del material
-
+    
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/-nkWodY_bPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video. Tipos de tendido con diferentes características del material
-
-    //.row.fondo-cta.align-items-center.py-4(data-aos="fade")
-      .col-lg-12.col-12.px-lg-5.px-4
-        .row.align-items-center.justify-content-center
-
-          .row.justify-content-evenly.align-items-center
-            .col-8.col-sm-6.col-md-4.col-lg-3.mb-4.mb-md-0
-              img(src="@/assets/curso/temas/t1/imagvideo.svg")
-            .col-md.col-lg-6
-              h4 Video - Tipos de tendido con diferentes características del material. 
-              p.mb-4 Conozca el trazo de los básicos, prendas de vestir, despiece y análisis de cada una de las partes que componen una prenda.
-              a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=-nkWodY_bPE')" target="_blank")
-                span Consultar video
-                i.fas.fa-video
 
     
     h3(data-aos="fade-right") Marcación y revisión

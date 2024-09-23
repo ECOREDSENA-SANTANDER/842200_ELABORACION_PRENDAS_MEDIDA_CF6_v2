@@ -103,9 +103,7 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Es importante tener en cuenta que, con el fin de adquirir cada vez más destreza y fortaleza en patronaje, lo ideal es poder cortar, pegar, trasladar y experimentar desde su proceso de aprendizaje. Cuando se empieza a trabajar el trazo de prendas desde los básicos, estos siempre deben ir alineados o aplomados sobre una línea base de construcción; en prendas superiores, la línea de aplome o línea base será la línea de profundidad de sisa.
     
-    .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade")
-      h5 Video 6. 
-      span Trazo de chaqueta tipo sastre
+    
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/ZGgZuhG8L2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -184,9 +182,7 @@
       .col-lg-10
         p Para el trazo o desarrollo de la manga, se deben tener en cuenta el análisis de proporciones y el trazo de la interpretación de chaqueta sastre femenina.
     
-    .titulo-sexto.color-primario(data-aos="fade")
-      h5 Video 7.
-      span Trazo manga chaqueta sastre femenina 
+    
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/nf2vjjxt55Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -241,9 +237,7 @@
       .col-lg-8.mb-4(data-aos="fade-left")
         .cajon.color-primario.bg5.p-4.mb-4
           p.mb-0 #[b Para el trazo o desarrollo del despiece de la chaqueta sastre, es necesario tener en cuenta el trazo de la interpretación de chaqueta y manga sastre femenina.]
-        .titulo-sexto.color-acento-contenido.mb-2
-          h5 Video 8. 
-          span Despiece chaqueta sastre femenina
+        
         figure.mb-5
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/ZpaVPWnxItE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -268,12 +262,10 @@
         img(src="@/assets/curso/temas/t3/imag16.svg" alt="En la figura se detallan los trazos para cuello alto en chaqueta de frente y de espaldas, señalando las líneas para cuello alto con pinza y manga tipo sastre con pinza.")
         figcaption Nota. Tomada de SENA (2021).
     
-    .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade")
-      h5 Video 9. 
-      span Chaqueta cuello alto traslados de pinza
+    
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/yKwVapWExPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/r1EfblFTETI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video. Chaqueta cuello alto traslados de pinza
     //.row.fondo-cta.align-items-center.py-4(data-aos="fade")
       .col-lg-12.col-12.px-lg-5.px-4
@@ -530,7 +522,7 @@
 
     Separador
     #t_3_4.titulo-segundo.color-primario(data-aos="fade-right")
-      h2 3.4 Molde base superior sastre femenino
+      h2 3.4 Interpretaciones de prendas
     
     .row.justify-content-center.mb-4
       .col-lg-9.mb-4(data-aos="fade-right")
@@ -540,9 +532,7 @@
       .col-lg-3.col-md-6.col-8.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/t3/imag37.png', alt='')   
     
-    .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
-      h5 Video 10.
-      span Análisis e interpretación de capas
+   
     
     
     figure.mb-5(data-aos="fade-down")
@@ -550,9 +540,7 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/N-2DugIICpw?si=CZDLU3lVzOJC31__" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video. Análisis e interpretación de capas 
     
-    .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
-      h5 Video 11.
-      span Abrigo asimétrico
+   
     
 
     figure.mb-5(data-aos="fade-down")
@@ -560,9 +548,6 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/aga8T_qGAFs?si=ZGDMpVCG0kR0_X7P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video. Abrigo asimétrico
     
-    .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
-      h5 Video 12.
-      span Interpretación de pantalón sastre femenino.
     
 
     figure.mb-5(data-aos="fade-down")
@@ -570,10 +555,7 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/VZZQsjRcc7k?si=CGvyh89LlYHDcyOz " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video. Interpretación de pantalón sastre femenino.
     
-    .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
-      h5 Video 13.
-      span Análisis e interpretación de pantalón sudadera.
-    
+   
 
     figure(data-aos="fade-down")
       .video

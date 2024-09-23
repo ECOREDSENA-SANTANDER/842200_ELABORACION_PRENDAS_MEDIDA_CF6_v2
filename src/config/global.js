@@ -37,7 +37,7 @@ export default {
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Las Herramientas, insumos y espacio en el trazo y corte',
+            titulo: 'Las herramientas, insumos y espacio en el trazo y corte',
             hash: 't_1_1',
           },
           {
@@ -517,7 +517,7 @@ export default {
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Diana Lizeth Lozada Díaz',
+          nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },

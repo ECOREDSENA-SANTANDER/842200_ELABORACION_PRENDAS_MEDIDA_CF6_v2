@@ -174,9 +174,7 @@
             img(src='@/assets/curso/temas/t2/slyder17.svg' alt='En la imagen hay un dibujo en el que, con aguja e hilo, se presenta la puntada escapulario o gaviado.')
             figcaption Nota. Tomada de Celestecielo (2018).
 
-    .titulo-sexto.color-primario(data-aos="fade")
-      h5 Video 5.
-      span Puntadas básicas para bordar a mano
+    
     
     .row.fondo-cta.align-items-center.py-4(data-aos="fade")
       .col-lg-12.col-12.px-lg-5.px-4
@@ -247,7 +245,7 @@
           .col-2.col-md-1
             img(src='@/assets/curso/temas/t2/icono.svg', alt='')
           .col-10.col-md-11
-            h4.mb-0 Cojines de sastre.
+            h4.mb-0 Cojines de sastre
         p Los cojines de sastre son soportes de apoyo para planchar costuras e ir generando las curvas requeridas en la tela. Vienen en diferentes tamaños y formas. Generalmente, están forrados en tela de algodón y rellenados con picadillo de tela o aserrín. El cojín en forma de lágrima y el cojín rodillo tienen las mismas funciones, su utilización va a depender principalmente de la pieza o necesidad requerida.
       .col-lg-6.col-md-11.mb-4(data-aos="fade-left")
         .titulo-sexto.color-primario.mb-2
