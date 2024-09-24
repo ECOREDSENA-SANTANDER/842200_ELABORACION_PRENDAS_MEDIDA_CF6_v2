@@ -155,7 +155,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
-        download: 'downloads/material.zip',
+        download: 'downloads/CF6_842200_DU.zip',
       },
       {
         icono: 'far fa-registered',
