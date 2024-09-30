@@ -200,13 +200,13 @@
       .col-lg-4.col-md-6.mb-4
         img.mb-4(src="@/assets/curso/temas/t2/imag03.svg")
         h4.mb-4 Paso 1. 
-        p Con los dedos pulgar e índice se debe doblar 3 mm del ruedo de la tela e introducir la aguja en el borde superior del doblez, tomando 1 mm de tela y sacándola en la misma dirección. Esta misma acción se debe repetir, pero ya hacia la izquierda, sin tensionar el hilo.
+        p Con los dedos, pulgar e índice se debe doblar 3 mm del ruedo de la tela e introducir la aguja en el borde superior del doblez, tomando 1 mm de tela y sacándola en la misma dirección. Esta misma acción se debe repetir, pero ya hacia la izquierda, sin tensionar el hilo.
         a.boton.color-acento-botones.indicador__container.mb-4(@click="modal1 = true")
           span.fw-bold Consultar imagen
       .col-lg-4.col-md-6.mb-4
         img.mb-4(src="@/assets/curso/temas/t2/imag04.svg")
         h4.mb-4 Paso 2. 
-        p Una vez cosidos 3 cm de borde, se debe presionar con los dedos el inicio del doblez y tirar suavemente el hilo hasta que las puntadas queden tensas. Al tirar el hilo las puntadas se irán ocultando, formando automáticamente el #[i roulette].
+        p Una vez cosidos 3 cm de borde, se debe presionar con los dedos el inicio del doblez y tirar suavemente el hilo hasta que las puntadas queden tensas. Al tirar el hilo, las puntadas se irán ocultando, formando automáticamente el #[i roulette].
         a.boton.color-acento-botones.indicador__container.mb-4(@click="modal2 = true")
           span.fw-bold Consultar imagen
           .indicador--click(v-if="mostrarIndicador")
@@ -526,7 +526,7 @@
               img(src='@/assets/curso/temas/t2/imag17.png', alt='')
         .row.justify-content-center.align-items-center
           .col-md-4.mb-4.mb-md-0
-            p Se hilvana la otra cara de la banda quedando el cuello en el centro de las bandas.
+            p Se hilvana la otra cara de la banda, quedando el cuello en el centro de las bandas.
             p Posterior se cose tomando como guía la costura manual.
           .col-md-6
             figure

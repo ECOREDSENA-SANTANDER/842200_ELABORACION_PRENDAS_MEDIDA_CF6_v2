@@ -92,7 +92,7 @@
                 td Poseen dientes en las hojas, lo que crea un patrón de corte en #[i zigzag]. La función principal de este tipo de tijeras es la de evitar que se deshilache el textil después del corte.
               tr.bg-white  
                 td #[b Cortadores térmicos] 
-                td Estos cortadores se emplean para el corte de acrílico y textiles. Una vez cortado, el corte queda sellado lo que evita que se deshilache.
+                td Estos cortadores se emplean para el corte de acrílico y textiles. Una vez cortado, el corte queda sellado, lo que evita que se deshilache.
               tr.bg-white
                 td #[b Cúter rotatorio] 
                 td Se caracteriza por ser el mejor cortador para telas, lonas, láminas plásticas, hule, vinilos y otros materiales textiles, tejidos o no tejidos (fieltro). Su mango facilita el manejo, perfección y agilidad a la hora de cortar, por lo que se puede apoyar con reglas y elementos para la precisión del corte.      

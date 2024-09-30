@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Proceso de levantamiento y construcción de básicos masculino
+      h1 Proceso de levantamiento y construcción de básicos masculinos
     
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-9

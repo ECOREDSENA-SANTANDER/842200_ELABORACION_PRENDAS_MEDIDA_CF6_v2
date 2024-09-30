@@ -150,12 +150,12 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CF6_842200_DU.zip',
       },
       {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
-        download: 'downloads/CF6_842200_DU.zip',
+        download: 'downloads/material.zip',
       },
       {
         icono: 'far fa-registered',
@@ -197,15 +197,14 @@ export default {
     },
     {
       tema: 'Puntadas a mano.',
-      referencia:
-        '123 Dream it. (2015). Tutorial puntadas a mano [Vídeo]. YouTube.',
+      referencia: '123 Dream it. (2015). Tutorial puntadas a mano [Vídeo].',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=ClIjTl9ltak',
     },
     {
       tema: 'Construcción de un cojín de sastre.',
       referencia:
-        'López, A. [PatternCos por Andrea López]. (2020). DIrecto IG | Cómo hacer un cojín de sastre [Vídeo]. YouTube.',
+        'López, A. [PatternCos por Andrea López]. (2020). DIrecto IG | Cómo hacer un cojín de sastre [Vídeo]. ',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=2B2eQ5jthLc&ab_channel=PatternCosporAndreaL%C3%B3pez',
@@ -213,7 +212,7 @@ export default {
     {
       tema: 'Construcción de un cojín de sastre. ',
       referencia:
-        'López, A. [PatternCos por Andrea López]. (2020). Directo IG | Cómo hacer un cojín de sastre. Modelo 2 [Vídeo].YouTube.',
+        'López, A. [PatternCos por Andrea López]. (2020). Directo IG | Cómo hacer un cojín de sastre. Modelo 2 [Vídeo].',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=H_XirctviKk&ab_channel=PatternCosporAndreaL%C3%B3pez',
@@ -312,7 +311,7 @@ export default {
     },
     {
       referencia:
-        'López, J. [Puntadas Country]. (2020, 16 junio). 11 puntadas a mano básicas!!! 🤩 Puntadas básicas para bordar a mano [Vídeo]. YouTube',
+        'López, J. [Puntadas Country]. (2020, 16 junio). 11 puntadas a mano básicas!!!  Puntadas básicas para bordar a mano [Vídeo]. YouTube',
       link: 'https://youtu.be/d-8rJrzXRIQ',
     },
     {

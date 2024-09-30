@@ -62,7 +62,7 @@
               li.mb-0
                 i.fas.fa-circle
                 | #[h4 PDF – Manual de patronaje básico e interpretación de diseños]   
-            p.mb-4 Conozca otro tipo de trazo para el desarrollo de una manga sastre. Es importante mencionar que en todas se identifica una hoja ancha y una hoja angosta, que corresponden a simera y bajera. #[b Ver p. 46.]
+            p.mb-4 Conozca otro tipo de trazo para el desarrollo de una manga sastre. Es importante mencionar que en todas se identifica una hoja ancha y una hoja angosta, que corresponden a cimera y bajera. #[b Ver p. 46.]
             ul.lista-ul--color.color-white.fa-ul.mb-0
               li.mb-0
                 i.fas.fa-circle
@@ -209,7 +209,7 @@
       .col-10.col-md-10
         h4.mb-0 Despiece chaqueta sastre femenina: 
     
-    p.mb-4(data-aos="fade") Al momento de despiezar una chaqueta sastre se deben tener en cuenta diferentes características, como qué tipo de acabado va a tener internamente, debido a que en algunos países, por la temporada o la estación, se le asignan diferentes acabados internos, los cuales van de la mano con el desarrollo de patronaje. En este caso, se va a hacer el despiece de una chaqueta sastre completamente forrada. Es importante aclarar que existen diferentes formas de hacer los acabados internos o refuerzos que va a llevar la chaqueta.
+    p.mb-4(data-aos="fade") Al momento de despiezar una chaqueta sastre se deben tener en cuenta diferentes características, como qué tipo de acabado va a tener internamente, debido a que, en algunos países, por la temporada o la estación, se le asignan diferentes acabados internos, los cuales van de la mano con el desarrollo de patronaje. En este caso, se va a hacer el despiece de una chaqueta sastre completamente forrada. Es importante aclarar que existen diferentes formas de hacer los acabados internos o refuerzos que va a llevar la chaqueta.
     
     .row.justify-content-center.mb-5
       .col-lg-5.col-md-6.mb-4(data-aos="fade-right")
