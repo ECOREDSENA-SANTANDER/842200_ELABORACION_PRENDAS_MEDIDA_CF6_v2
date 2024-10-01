@@ -102,7 +102,7 @@
     #t_1_2.titulo-segundo.color-primario(data-aos="fade-right")
       h2 1.2 Proceso del extendido
     
-    p.mb-4(data-aos="fade") Para ejecutar un buen proceso de extendido es necesario reconocer las características del material textil para realizar una identificación previa y así comprender el comportamiento que puede tener durante el proceso de extendido, como encogimiento, deslizamiento, despiste en el hilado, etc. Según el análisis obtenido mediante la observación del textil, se puede determinar la ubicación de los moldes, las herramientas óptimas a utilizar, si requiere o no un reposo previo y la dirección. #[b Los puntos que debes tener identificados son: 1. La urdimbre y la trama, 2. Hilo de tela y 3. Anchos de las telas].
+    p.mb-4(data-aos="fade") Para ejecutar un buen proceso de extendido es necesario reconocer las características del material textil para realizar una identificación previa y así comprender el comportamiento que puede tener durante el proceso de extendido, como encogimiento, deslizamiento, despiste en el hilado, etc. Según el análisis obtenido mediante la observación del textil, se puede determinar la ubicación de los moldes, las herramientas óptimas a utilizar, si requiere o no un reposo previo y la dirección. Los puntos que debes tener identificados son: 1. La urdimbre y la trama, 2. Hilo de tela y 3. Anchos de las telas.
     
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10
@@ -420,12 +420,12 @@
           )
           .bloque-texto-g__texto.p-4
             p Para la señalización se debe tener en cuenta: #[br]
-              | #[b Referencia o nombre de cliente:] ref:20201208. #[br]
-              | #[b Nombre de la pieza:] delantero o frente. #[br]
-              | #[b Tipo de material:] Tela 1. Material base. #[br]
+              | Referencia o nombre de cliente: ref:20201208. #[br]
+              | Nombre de la pieza delantero o frente. #[br]
+              | Tipo de material: Tela 1. Material base. #[br]
               | Tela 2. Material forro. #[br]
               | Tela 3. Material entretela. #[br]
-              | #[b Número de pieza en el tendido:] ½.
+              | Número de pieza en el tendido: ½.
 
     
     Separador
@@ -443,7 +443,7 @@
           .tarjeta.color-acento-contenido.p-4(titulo="a) Introducción:")
             p El tendido y marcación son una parte clave para el proceso de corte, este procedimiento requiere de precisión y técnica. Una vez identificados los requerimientos desde el área de patronaje, se procede a realizar el tendido y la marcación. Para ello, es importante seguir los siguientes pasos: identificar el ancho útil, la ubicación de patrones, la marcación y el corte.
           .tarjeta.color-acento-contenido.p-4(titulo="b) Ancho útil:")
-            p Es importante su identificación en el material textil antes de empezar a desarrollar el trazo, para lo cual se sugiere la identificación del #[b ancho total del textil y la medición del orillo]. Es importante indicar que el #[b ancho útil se halla restando el orillo al ancho total de la tela].
+            p Es importante su identificación en el material textil antes de empezar a desarrollar el trazo, para lo cual se sugiere la identificación del  ancho total del textil y la medición del orillo. Es importante indicar que el ancho útil se halla restando el orillo al ancho total de la tela.
           .tarjeta.color-acento-contenido.p-4(titulo="c) Ubicar patrones:")
             p La ubicación de los patrones es una tarea indispensable, y, una vez esto se hace, se debe analizar y alistar el tipo de extendido/tendido a trabajar y el ancho útil, a partir de los requerimientos del patrón desde el área de patronaje.
             p.mb-4 Luego de esto, se procede a hacer el trazo o marcación del molde o patrón en el textil. 
