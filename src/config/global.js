@@ -86,7 +86,7 @@ export default {
         nombreRuta: 'tema3',
         numero: '3',
         titulo:
-          'Proceso de levantamiento y construcción de básicos superiores femeninos',
+          'Proceso de levantamiento y construcción de básicos superiores femenino con técnica de sastrería',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -430,7 +430,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de línea de producción',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -441,39 +441,39 @@ export default {
           nombre: 'Ledy Johana Velásquez Hernández',
           cargo: 'Experto temático',
           centro:
-            'Regional Antioquia - Centro de Formación en Diseño, Confección y Moda',
+            'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia',
         },
         {
           nombre: 'Paola Angélica Castro Salazar',
           cargo: 'Experto temático',
           centro:
-            'Regional Antioquia - Centro de Formación en Diseño, Confección y Moda',
+            'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia',
         },
         {
           nombre: 'Paula Andrea Taborda Ortiz',
           cargo: 'Diseñador instruccional',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Asesor pedagógico',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Revisora metodológica y pedagógica',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Uriel Darío González Montoya',
           cargo: 'Acompañamiento pedagógico',
-          centro: 'Regional Tolima - Centro Agropecuario la granja',
+          centro: 'Centro Agropecuario la granja - Regional Tolima',
         },
         {
           nombre: 'Carolina Jiménez Suescún',
           cargo: 'Evaluadora instruccional ',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -483,27 +483,27 @@ export default {
         {
           nombre: 'Yuly Andrea Rey Quiñonez',
           cargo: 'Diseñadora de contenidos digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
           cargo: 'Desarrolladora <i>full-stack</i>',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
           cargo: 'Desarrolladora <i>full-stack</i>',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Lucenith Pinilla Moreno',
           cargo: 'Desarrolladora <i>full-stack</i> junior',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'María Alejandra Vera Briceño',
           cargo: 'Animadora y productora multimedia',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -513,12 +513,12 @@ export default {
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora de recursos educativos digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
